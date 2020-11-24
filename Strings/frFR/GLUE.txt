@@ -111,6 +111,10 @@ GLUE_ADVENTURE_DUNGEON_CRAWL_INTRO_BANNER_HEADER	On recherche\ndes aventuriers
 GLUE_ADVENTURE_DUNGEON_CRAWL_INTRO_BANNER_TRL_HEADER	On recherche\ndes champions	
 GLUE_ADVENTURE_DUNGEON_CRAWL_MONSTERS_DEFEATED	Monstres tués	
 GLUE_ADVENTURE_DUNGEON_CRAWL_MONSTERS_DEFEATED_AS_CLASS	Monstres tués en tant que {0}	0 = Class name
+GLUE_ADVENTURE_DUNGEON_CRAWL_RETIRE	Abandonner	
+GLUE_ADVENTURE_DUNGEON_CRAWL_RETIRE_CONFIRMATION_BODY	Voulez-vous vraiment déclarer forfait ?	
+GLUE_ADVENTURE_DUNGEON_CRAWL_RETIRE_CONFIRMATION_HEADER	Abandon	
+GLUE_ADVENTURE_DUNGEON_CRAWL_RETIRE_FAILURE_BODY	Impossible de déclarer forfait. Veuillez réessayer.	
 GLUE_ADVENTURE_DUNGEON_CRAWL_RUMBLE_RUN_WINS	Jeux terminés	
 GLUE_ADVENTURE_DUNGEON_CRAWL_RUN_WINS	Virées terminées	
 GLUE_ADVENTURE_DUNGEON_CRAWL_SHRINE_TUTORIAL_BODY	Les sanctuaires sont en jeu dès le début de la partie.\n\nIls sont très puissants et se désactivent au lieu d’être détruits.	
@@ -142,6 +146,7 @@ GLUE_ADVENTURE_LOE_WING4_LOCKED_PURCHASE	Terminer toutes\nles autres ailes pour 
 GLUE_ADVENTURE_MODE_CLASS_CHALLENGE_CHOOSE	Choisissez un défi	
 GLUE_ADVENTURE_MORE_CARDS	cartes de plus	// full text appears as "+6 more cards"
 GLUE_ADVENTURE_NEW_MODE_UNLOCKED_POPUP_TEXT	Nouveau mode débloqué	
+GLUE_ADVENTURE_NEWHEROBANNER_BOH	Nouveau héros !	
 GLUE_ADVENTURE_NUM_BOSSES_DEFEATED	{0}/{1}	
 GLUE_ADVENTURE_NUM_CARDS_COLLECTED	{0}/{1}	
 GLUE_ADVENTURE_NUM_CHAPTERS_OWNED	{0} |4(chapitre possédé, chapitres possédés)	
@@ -234,6 +239,9 @@ GLUE_BACON_BONUS_PREPURCHASE_RULE_2	Les avantages sont disponibles jusqu’à l�
 GLUE_BACON_BONUS_RULE_1	Obtenez des paquets de cartes de <color=#DC5AFF>L’Envol des Dragons</color> pour débloquer des bonus.	
 GLUE_BACON_BONUS_RULE_2	Les bonus durent jusqu’à la sortie de l’extension suivante.	
 GLUE_BACON_BONUS_TAG	Disponible après la bêta	
+GLUE_BACON_DISBAND_PARTY_CONFIRMATION_BODY	Vous êtes sur le point de dissoudre votre groupe de champs de bataille.\nContinuer ?	
+GLUE_BACON_EXPIRD_INVITE_BODY	Cette invitation de groupe n’est plus valide.	
+GLUE_BACON_EXPIRED_INVITE_HEADER	Invitation invalide	
 GLUE_BACON_FIRST_PLACE_LABEL	1re place	
 GLUE_BACON_FOOTER	Bienvenue sur le champ de bataille !\nHuit combattants y participent, mais un seul en sortira vainqueur !	
 GLUE_BACON_INFO_POPUP_COMBAT	PHASE DE COMBAT	
@@ -244,14 +252,29 @@ GLUE_BACON_INFO_POPUP_RECRUIT	PHASE DE RECRUTEMENT
 GLUE_BACON_INFO_POPUP_RECRUIT_TIPS	<color=#C900FF>• Acheter :</color> faites glisser des serviteurs vers votre héros pour les acheter contre 3 pièces d’or.\n<color=#C900FF>• Vendre :</color> faites glisser des serviteurs vers Bob pour les vendre contre 1 pièce d’or.\n<color=#C900FF>• Triple :</color> réunissez 3 copies d’un serviteur pour l’améliorer et obtenir une récompense.\n<color=#C900FF>• Réorganiser :</color> faites glisser vos serviteurs sur le plateau pour définir votre stratégie.\n<color=#C900FF>• Amélioration :</color> les bonus de la phase de recrutement sont permanents.\n<color=#C900FF>• Niveau de taverne :</color> améliorez votre taverne pour avoir de meilleurs serviteurs.\n	Every other Tier increases the number of shop minions.\n 
 GLUE_BACON_INFO_POPUP_SUMMARY	Jouez contre 7 autres joueurs. Le dernier joueur en vie remporte la victoire.	
 GLUE_BACON_INFO_POPUP_TITLE	Règles	
+GLUE_BACON_INVITE_WHILE_APPEARING_OFFLINE	Vous ne pouvez pas accepter d’invitation de groupe lorsque vous apparaissez déconnecté(e).	
+GLUE_BACON_INVITE_WHILE_APPEARING_OFFLINE_HEADER	Erreur avec l’invitation	
+GLUE_BACON_LEAVE_PARTY_CONFIRMATION_BODY	Vous êtes sur le point de quitter votre groupe de champs de bataille.\nContinuer ?	
+GLUE_BACON_LEAVE_PARTY_CONFIRMATION_CANCEL	Rester	
+GLUE_BACON_LEAVE_PARTY_CONFIRMATION_CONFIRM	Quitter	
+GLUE_BACON_LEAVE_PARTY_CONFIRMATION_HEADER	Quitter le groupe	
 GLUE_BACON_LOW_MEMORY_BODY	Le mode Champs de bataille fonctionne mieux sur des appareils avec 2 Go de mémoire au minimum. Votre appareil pourrait ne pas remplir les conditions nécessaires pour jouer. Comme nous approchons de la fin de la bêta, nous allons nous efforcer d’améliorer les performances pour votre appareil.	
 GLUE_BACON_LOW_MEMORY_HEADER	Avertissement	
 GLUE_BACON_NOTIFICATION_POPUP_HEADER	Mise à jour des champs de bataille	
+GLUE_BACON_PARTY_INVITE_WHILE_IN_PARTY	Vous devez quitter votre groupe actuel avant d’en rejoindre un autre.	
+GLUE_BACON_PARTY_SPECTATE_ERROR_BODY	Impossible de regarder une partie de ce joueur.	
+GLUE_BACON_PARTY_SPECTATE_ERROR_HEADER	Regarder	
+GLUE_BACON_PARTY_TUTORIAL_DISABLED	Ce n’est pas permis tant que vous faites partie d’un groupe.	
 GLUE_BACON_PERKS	Avantages	
 GLUE_BACON_PERKS_ERROR_BODY	Il n’y a actuellement aucun bonus de champs de bataille. Revenez plus tard.	
 GLUE_BACON_PERKS_ERROR_HEADER	Bonus de champs de bataille	
 GLUE_BACON_PERKS_EXPIRING_BODY	Vos bonus de champs de bataille prendront bientôt fin. Vous pouvez accéder aux avantages de champs de bataille de la prochaine saison en achetant le nouveau ticket de la taverne lors de la sortie de l’extension <color="#FF0156">Les Cendres de l’Outreterre</color>.	
 GLUE_BACON_PERKS_ON_TICKET	AVANTAGES	
+GLUE_BACON_PRIVATE_GAME	Partie privée.	
+GLUE_BACON_PRIVATE_PARTY_TITLE	Groupe de champs de bataille	
+GLUE_BACON_PRIVATE_PARTY_WARNING	Si vous invitez plus de {0} personnes, votre partie deviendra privée. Voulez-vous continuer ?	0=number represent max ranked party size
+GLUE_BACON_QUEUE_CANCELED	<color=#{0}>{1}</color> a annulé la recherche.	0=color 1=player name
+GLUE_BACON_RANKED_GAME	Partie classée	
 GLUE_BACON_RATING_LABEL	Cote	
 GLUE_BACON_STATS_LABEL_BIGGEST_MINION	Serviteur le plus puissant	
 GLUE_BACON_STATS_LABEL_DAMAGE_ONE_MINION	Points de dégâts par {0}	
@@ -287,6 +310,26 @@ GLUE_BLIZZCON2013_ARENA_5_WINS	Vous êtes désormais un vétéran de l’Arène�
 GLUE_BLIZZCON2013_ARENA_GRAND_PRIZE	YOUHOU ! Nous avons un nouveau champion d’Arène ! Montrez cet écran à un employé de la BlizzCon pour recevoir votre GRAND PRIX !	
 GLUE_BLIZZCON2013_ARENA_NO_PRIZE	Merci de votre participation, vous vous êtes bien débrouillé ! À bientôt !	
 GLUE_BLIZZCON2013_ARENA_PRIZE	Félicitations ! Vous avez gagné un prix ! Montrez cet écran à un employé de la BlizzCon !	
+GLUE_BOH_LOADING_BAR_TASK_1	Manufacture de manuscrits	
+GLUE_BOH_LOADING_BAR_TASK_10	Préparation des plumes	
+GLUE_BOH_LOADING_BAR_TASK_11	Examen des érudits	
+GLUE_BOH_LOADING_BAR_TASK_12	Analyse des agendas	
+GLUE_BOH_LOADING_BAR_TASK_13	Sollicitation des sources	
+GLUE_BOH_LOADING_BAR_TASK_14	Étude des épopées	
+GLUE_BOH_LOADING_BAR_TASK_15	Requête de références	
+GLUE_BOH_LOADING_BAR_TASK_16	Magnification des mythes	
+GLUE_BOH_LOADING_BAR_TASK_17	Harcèlement des héros	
+GLUE_BOH_LOADING_BAR_TASK_18	Contrôle des chroniqueurs	
+GLUE_BOH_LOADING_BAR_TASK_19	Rassemblement de reliures	
+GLUE_BOH_LOADING_BAR_TASK_2	Vérification des vélins	
+GLUE_BOH_LOADING_BAR_TASK_20	Entreposage de l’encre	
+GLUE_BOH_LOADING_BAR_TASK_3	Préparation de parchemins	
+GLUE_BOH_LOADING_BAR_TASK_4	Chiffrage des codex	
+GLUE_BOH_LOADING_BAR_TASK_5	Édition efficace	
+GLUE_BOH_LOADING_BAR_TASK_6	Relecture rigoureuse	
+GLUE_BOH_LOADING_BAR_TASK_7	Recherche rapide	
+GLUE_BOH_LOADING_BAR_TASK_8	Collecte des citations	
+GLUE_BOH_LOADING_BAR_TASK_9	Inspection des internes	
 GLUE_BOT_LOADING_BAR_TASK_1	Réglage des chrono	
 GLUE_BOT_LOADING_BAR_TASK_10	Cordage des théories	
 GLUE_BOT_LOADING_BAR_TASK_11	Apaisement des Ro’boum	
@@ -431,6 +474,8 @@ GLUE_COLLECTION_CRAFTING_SHOW_SOULBOUND_CARDS	Inclure les cartes impossibles à 
 GLUE_COLLECTION_CUSTOM_DECKNAME_SHORT	{0}{1}	0=class name, 1=incrementer
 GLUE_COLLECTION_CUSTOM_DECKNAME_TEMPLATE	Deck {0}{1}	0=class name, 1=incrementer
 GLUE_COLLECTION_DECK	Votre deck	
+GLUE_COLLECTION_DECK_CLIPBOARD_ACCESS_BODY	Afin d’améliorer la création de decks, Hearthstone accèdera de temps à autre aux decks copiés de sources externes dans le <b>presse-papier de votre appareil</b>. Cela vous permettra aussi de copier et partager votre deck avec d’autres joueurs !	
+GLUE_COLLECTION_DECK_CLIPBOARD_ACCESS_HEADER	Presse-papier	
 GLUE_COLLECTION_DECK_COMPELTE_BUTTON	Compléter mon deck	
 GLUE_COLLECTION_DECK_COMPLETE_POPUP_CANCEL	Non	
 GLUE_COLLECTION_DECK_COMPLETE_POPUP_CONFIRM	Oui	
@@ -509,6 +554,7 @@ GLUE_COLLECTION_DECK_WILD_POPUP_TEXT	C’est un deck libre. Voulez-vous le conve
 GLUE_COLLECTION_DELETE_CONFIRM_DESC	Ce deck va être supprimé. Voulez-vous continuer ?	
 GLUE_COLLECTION_DELETE_CONFIRM_HEADER	Supprimer	
 GLUE_COLLECTION_DELETE_UNAVAILABLE_DESC	Vous ne pouvez pas effacer de deck tant que toutes les classes ne sont pas débloquées.	
+GLUE_COLLECTION_DUEL_DECKNAME	Deck de duel	
 GLUE_COLLECTION_EMPTY_PAGE	Page 0	
 GLUE_COLLECTION_ERROR_HEADER	Erreur de collection !	
 GLUE_COLLECTION_FEATURED_CARDS	Cartes à la une	
@@ -523,8 +569,11 @@ GLUE_COLLECTION_LOCK_CARD_NOT_PLAYABLE	Pas encore disponible
 GLUE_COLLECTION_LOCK_MAX_DECK_COPIES	Limite par deck : {0}	
 GLUE_COLLECTION_LOCK_NO_MORE_INSTANCES	Plus disponible	
 GLUE_COLLECTION_MANAGER_CARD_BACKS_TITLE	Dos de carte	
+GLUE_COLLECTION_MANAGER_COIN_TITLE	Pièces	
+GLUE_COLLECTION_MANAGER_COINS_TITLE	Pièces	
 GLUE_COLLECTION_MANAGER_FAVORITE_BUTTON	Choisir en favori	
 GLUE_COLLECTION_MANAGER_FAVORITE_CARD_BACK	Favori	
+GLUE_COLLECTION_MANAGER_FAVORITE_COIN	Favori	
 GLUE_COLLECTION_MANAGER_FAVORITE_DEFAULT_TEXT	{0} favori	
 GLUE_COLLECTION_MANAGER_HELP_ME	Aidez-moi	
 GLUE_COLLECTION_MANAGER_HERO_SKINS_TITLE	Héros	
@@ -709,10 +758,16 @@ GLUE_DRG_LOADING_BAR_TASK_6	Embrasement du souffle
 GLUE_DRG_LOADING_BAR_TASK_7	Examen des parachutes	
 GLUE_DRG_LOADING_BAR_TASK_8	Armement des canons	
 GLUE_DRG_LOADING_BAR_TASK_9	Bichonnage de dragonnets	
+GLUE_DUELS_GENERIC_ERROR	Une erreur s’est produite et a bloqué cette action. Veuillez réessayer plus tard.\nSi le problème persiste, veuillez relancer Hearthstone.	
+GLUE_DUELS_NEW_UNLOCKS_BODY	Félicitations ! Votre progression dans la collection de cartes a débloqué {0} nouveaux objets dans le mode Duels !	
+GLUE_DUELS_NEW_UNLOCKS_BUTTON	Super !	
+GLUE_DUELS_NEW_UNLOCKS_HEADER	Nouvelles récompenses	
+GLUE_DUELS_NOTIFICATION_POPUP_HEADER	Mise à jour des duels	
 GLUE_EDIT	Modifier	
 GLUE_EDIT_DECK	Modifier le deck	
 GLUE_ERROR_DECK_RULESET_RULE_VIOLATION	Le deck sélectionné n’est pas valide pour ce mode de jeu.	
 GLUE_ERROR_DECK_VALIDATION_WRONG_FORMAT	Impossible d’utiliser un deck libre dans ce mode.	
+GLUE_ERROR_PLAY_GAME_PARTY_NOT_ALLOWED	Un joueur de votre équipe a un classement trop élevé pour jouer à des parties classées en groupe.	
 GLUE_FAKE_QUEST_FIRST_DESCRIPTION	Bienvenue dans les bas quartiers…	
 GLUE_FAKE_QUEST_FIRST_NAME	Bienvenue à Gadgetzan_!	
 GLUE_FAKE_QUEST_FIRST_REWARD	0 pièce d’or	
@@ -823,12 +878,15 @@ GLUE_FSG_STARTING_MINUTES	Commence dans {0} |4(minute,minutes)
 GLUE_FSG_STARTING_OVER_1_MONTH	Commence dans plus de 1 mois	
 GLUE_FSG_STARTING_SECONDS	Commence dans {0} |4(seconde,secondes)	
 GLUE_FSG_STARTING_WEEKS	Commence dans {0} |4(semaine,semaines)	
+GLUE_FUN_CONFIRM_MESSAGE	Excellent !	
+GLUE_GAME_MODE_NEW_MODE_UNLOCKED_POPUP_HEADER	Nouveau mode débloqué :	
 GLUE_GAME_MODES	Modes	
 GLUE_GAME_MODES_POPUP_BACON_DESC	Affrontez 7 adversaires.	
 GLUE_GAME_MODES_POPUP_BETA	BÊTA	
 GLUE_GAME_MODES_POPUP_EARLY_ACCESS	Accès anticipé	
 GLUE_GAME_MODES_POPUP_FORGE_DESC	Créez un deck de 30 cartes.	
 GLUE_GAME_MODES_POPUP_HEADER	Choisir un mode	
+GLUE_GAME_MODES_POPUP_PVPDR_DESC	Pillez, créez et combattez pour la gloire !	
 GLUE_GENERIC_RANDOM_CARD_SCROLL_DESC	Votre pack contient {0} !	This is meant to replace the above welcome bundle strings until we have the tech to show custom strings per reward.
 GLUE_GENERIC_RANDOM_CARD_SCROLL_TITLE	C’est une carte légendaire !	This is meant to replace the above welcome bundle strings until we have the tech to show custom strings per reward.
 GLUE_GHOST_CARD_MISSING_DESCRIPTION	Vous ne possédez pas cette carte.\nCliquez pour en trouver une de remplacement.	
@@ -872,13 +930,13 @@ GLUE_HEROIC_BRAWL_DECK	Bras de fer héroïque
 GLUE_HEROIC_BRAWL_INTRO	Le Bras de fer de cette semaine s’adresse à nos joueurs les plus expérimentés.\nVos talents et votre collection pèseront lourd dans la balance_!	
 GLUE_HEROIC_BRAWL_MAX_LOSSES	3 défaites	
 GLUE_HEROIC_BRAWL_MAX_WINS	12 victoires	
-GLUE_HEROIC_BRAWL_MIN_WINS	0 victoires	
+GLUE_HEROIC_BRAWL_MIN_WINS	0 victoire	
 GLUE_HEROIC_BRAWL_NO_WINS_REWARD_PACK_TEXT	Un paquet en récompense_!	
 GLUE_HEROIC_BRAWL_PLAY_CONFIRMATION	Vous ne pourrez plus modifier votre deck dans cette série.\nVoulez-vous vraiment continuer_?	
 GLUE_HEROIC_BRAWL_PLAY_CONFIRMATION_CANCEL	Non, attendez !	
 GLUE_HEROIC_BRAWL_PLAY_CONFIRMATION_OK	Oui, je valide !	
 GLUE_HEROIC_BRAWL_PLAY_CONFIRMATION_TITLE	Verrouiller le deck ?	
-GLUE_HEROIC_BRAWL_REWARDS_DESCRIPTION	Plus de victoires donnent plus de récompenses ! 12 victoires pour toucher le magot. 3 défaites et la série est finie.\nLes joueurs éligibles et ayant les plus longues séries de victoires recevront une invitation aux tournois du Masters Tour.\nEn cliquant ci-dessous, vous acceptez les conditions d’éligibilités, qui peuvent être consultées à l’adresse blizz.ly/brawl.	
+GLUE_HEROIC_BRAWL_REWARDS_DESCRIPTION	Au vainqueur les mains pleines ! Plus de victoires donnent plus de récompenses.\n12 victoires pour toucher le magot. 3 défaites et la série est finie.	
 GLUE_HEROIC_BRAWL_REWARDS_NOTICE_DESC	Récompenses pour votre dernier Bras de fer héroïque	
 GLUE_HEROIC_BRAWL_REWARDS_WIN_BANNER_TEXT	{0} |4(victoire,victoires)_!	
 GLUE_HEROIC_BRAWL_RULES_TITLE	Règles	
@@ -928,6 +986,7 @@ GLUE_INKEEPER_RANDOM_CARD_DECK_RECIPE_WARRIOR	Oh_! Une carte de classe légendai
 GLUE_INNKEEPERS_SPECIAL_CONFIRM_POPUP_HEADER	Ouvrir le navigateur	
 GLUE_INNKEEPERS_SPECIAL_CONFIRM_POPUP_MESSAGE	Ce contenu va ouvrir votre navigateur. Continuer ?	
 GLUE_INNKEEPERS_SPECIAL_LEARN_MORE	En savoir plus	
+GLUE_JOURNAL_PHONE_BUTTON	Journal	
 GLUE_KABAL_CLASS_NAMES	Mage, prêtre, démoniste	
 GLUE_KARA_LOADING_BAR_TASK_1	Polissage de l’argenterie	
 GLUE_KARA_LOADING_BAR_TASK_10	Chauffage de l’eau du bain	
@@ -1145,12 +1204,13 @@ GLUE_OFFLINE_SAVE_DECK_BODY	Votre deck a été sauvegardé sur cet appareil jusq
 GLUE_OFFLINE_SAVE_DECK_HEADER	Sauvegardé	
 GLUE_OPEN_PACKS	Ouvrir\ndes\npaquets	
 GLUE_OPEN_PACKS_PHONE	Paquets	
-GLUE_OUTSTANDING_DRAFT_TICKET_DIALOG_DESC	Vous avez obtenu une admission supplémentaire pour l’Arène. Pas besoin de payer les frais cette fois-ci_!	
+GLUE_OUTSTANDING_DRAFT_TICKET_DIALOG_DESC	Vous avez obtenu |4(une admission supplémentaire,des admissions supplémentaires) pour la taverne. Pas besoin de payer les frais, cette fois-ci !	
 GLUE_OUTSTANDING_DRAFT_TICKET_DIALOG_HEADER	Bienvenue dans l’Arène !	
 GLUE_PACK_OPENING_ALL_CLASSES	Toutes classes	
 GLUE_PACK_OPENING_BOOSTER_COUNT	{0}	0=number of owned boosters
 GLUE_PACK_OPENING_HEADER	Ouvrir des paquets	
 GLUE_PACK_OPENING_TOOLTIP	카드 팩을 개봉함으로써, 귀하는 카드 팩의 청약철회가 불가하다는 사실을 인지하고 이에 동의합니다.	only displayed for Korean customers, should always be in Korean
+GLUE_PARTY_MEMBER_NO_NAME	…	
 GLUE_PATCHING_ERROR	Une erreur s’est produite lors de la mise à jour de Hearthstone. Veuillez réessayer.	
 GLUE_PATCHING_LABEL	Téléchargement : {0}/{1} |4(fichier,fichiers)	
 GLUE_PICK_A_CARD	Choisissez une carte	
@@ -1161,12 +1221,96 @@ GLUE_PLAY_WILD	Mode Libre
 GLUE_PLAYERS_NEARBY	Joueurs proches	
 GLUE_PRACTICE	Entraînement	
 GLUE_PRACTICE_HINT	Le mode Entraînement se trouve ici	
+GLUE_PROGRESSION_ACHIEVEMENT_INSPECT_TITLETEXT	Terminez pour obtenir	
+GLUE_PROGRESSION_ACHIEVEMENT_TOAST	<color=#FFFFFF>Obtenu</color> :  <color=#FFD451>{0}</color>	
+GLUE_PROGRESSION_ACHIEVEMENTS_COMPLETED	Terminé !	
+GLUE_PROGRESSION_ACHIEVEMENTS_TITLE	Hauts faits	
+GLUE_PROGRESSION_BONUS_ERROR_BODY	Il n’y a actuellement aucun ticket de la taverne. Revenez plus tard.	
+GLUE_PROGRESSION_BONUS_ERROR_HEADER	Ticket de la taverne	
+GLUE_PROGRESSION_PROFILE_CLASS_TITLE	Progression de classe	
+GLUE_PROGRESSION_PROFILE_TITLE	Profil	
+GLUE_PROGRESSION_QUEST_DAILY	Journalières	
+GLUE_PROGRESSION_QUEST_WEEKLY	Hebdomadaires	
+GLUE_PROGRESSION_QUESTS_TITLE	Quêtes	
+GLUE_PROGRESSION_REWARD_BONUS_GOLD	Bonus !	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_BODY	Obtenez des points d’EXP pour gagner des niveaux dans le parcours de récompenses et obtenir des récompenses exclusives !	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_OPTION_1	QUÊTES	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_OPTION_2	JEU	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_OPTION_3	HAUTS FAITS	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_SUBTITLE	Moyens de gagner de l’expérience	
+GLUE_PROGRESSION_REWARD_TRACK_BUY_BUTTON	Obtenir un ticket de la taverne	
+GLUE_PROGRESSION_REWARD_TRACK_CLAIM_TOOLTIP	Obtenez votre première récompense !	
+GLUE_PROGRESSION_REWARD_TRACK_INFO_HEADER	À propos du parcours de récompenses	
+GLUE_PROGRESSION_REWARD_TRACK_PAGE_NUMBER	Page {0} sur {1}	
+GLUE_PROGRESSION_REWARD_TRACK_PASS	Ticket de la taverne	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_BONUS_LEVEL	Au-dessus du niveau {0}	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_BONUS_TITLE	Récompenses bonus	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_COMPLETE_LEVEL	Niveau {0}	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_INCOMPLETE_LEVEL	Niveau {0} requis	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_PREMIUM_LOCKED	Débloquez des récompenses supérieures avec un ticket de la taverne !	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_SKIN_CHOICE_CLAIMED	Choix effectué	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_SKIN_CHOICE_CTA	Choisir	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_SKIN_CHOICE_TITLE	Choisissez un modèle de héros	
+GLUE_PROGRESSION_REWARD_TRACK_RESET	Réinitialise l’extension suivante	
+GLUE_PROGRESSION_REWARD_TRACK_REWARD_SCROLL_TITLE	Récompense du niveau {0} !	
+GLUE_PROGRESSION_REWARD_TRACK_UNLOCK_BUY_BUTTON	Débloquer avec un ticket de la taverne	
+GLUE_PROGRESSION_REWARD_TRACK_XP_PROGRESS	{0}/{1}	
+GLUE_PROGRESSION_REWARD_TRACK_XP_TOOLTIP_BOOST_BODY	EXP supplémentaire : +{0} %	
+GLUE_PROGRESSION_REWARD_TRACK_XP_TOOLTIP_BOOST_TITLE	Bonus d’EXP	
+GLUE_PROGRESSION_REWARDS_TITLE	Parcours de récompenses	
 GLUE_PROLOGUE_REWARD	Terminez le prologue pour débloquer la classe\nchasseur de démons ainsi que 30 cartes.	
 GLUE_PUSH_NOTIFICATION_CONTEXT_BODY	Souhaitez-vous recevoir des notifications annonçant nos nouveautés ?	
 GLUE_PUSH_NOTIFICATION_CONTEXT_CANCEL	Non	
 GLUE_PUSH_NOTIFICATION_CONTEXT_CONFIRM	Oui !	
 GLUE_PUSH_NOTIFICATION_CONTEXT_HEADER	Notifications	
 GLUE_PUSH_NOTIFICATION_EXTENDED_CONTEXT_BODY	Il semblerait que vous ayez désactivé les notifications pour Hearthstone. Rendez-vous dans les réglages de votre appareil et autorisez les notifications pour l’application.	
+GLUE_PVPDR	Duels	
+GLUE_PVPDR_BEST_WINS_AS_CLASS	Meilleure série avec {0}	0 = Class name
+GLUE_PVPDR_BUILD_DECK	Création de deck	
+GLUE_PVPDR_DECK_ERROR_DESC	Une erreur s’est produite lors du chargement du deck. Veuillez réessayer plus tard.	
+GLUE_PVPDR_DECK_ERROR_TITLE	Erreur de deck	
+GLUE_PVPDR_DECK_TRAY_HEADER	Deck de duels	
+GLUE_PVPDR_EARLY_ACCESS_SHOP_ERROR_BODY	Il n’y a actuellement aucun produit en accès anticipé pour le mode Duels. Revenez plus tard.	
+GLUE_PVPDR_END_OF_RUN_HEADER	Fin de la virée	
+GLUE_PVPDR_END_OF_RUN_TIER_0_WIN	Vous avez fait de votre mieux.\nRetournez-y et retentez votre chance !\n<color=#e3ab0c>Cote en mode non classé : {0}</color>	
+GLUE_PVPDR_END_OF_RUN_TIER_1_WIN	Vous avez réalisé de belles choses.\nVoulez-vous rejouer ?\n<color=#e3ab0c>Cote en mode non classé : {0}</color>	
+GLUE_PVPDR_END_OF_RUN_TIER_2_WIN	Quelle formidable virée ! Voulez-vous rejouer ?\n<color=#e3ab0c>Cote en mode non classé : {0}</color>	
+GLUE_PVPDR_END_OF_RUN_TIER_MAX_WIN	Incroyable ! Vous avez obtenu le nombre maximal\nde victoires. Félicitations !\n<color=#e3ab0c>Cote en mode non classé : {0}</color>	
+GLUE_PVPDR_ENTRY_POPUP_BUTTON_LOCKED	Prochainement !	
+GLUE_PVPDR_ENTRY_POPUP_DESCRIPTION_HEROIC	Combattez pour des récompenses	
+GLUE_PVPDR_ENTRY_POPUP_DESCRIPTION_NORMAL	Testez vos compétences	
+GLUE_PVPDR_ENTRY_POPUP_LABEL_HEROIC	Duel héroïque	
+GLUE_PVPDR_ENTRY_POPUP_LABEL_NORMAL	Duel non classé	
+GLUE_PVPDR_EXPANSION_SUBTITLE	Duels de sorciers	
+GLUE_PVPDR_FOOTER	Choisissez un héros, créez un deck, puis améliorez-le entre chaque combat !	
+GLUE_PVPDR_HEROIC_POPUP_DESCRIPTION_HASTICKETS	Vous avez une admission pour la taverne ! Pas besoin de payer les frais, cette fois-ci !	
+GLUE_PVPDR_HEROIC_POPUP_DESCRIPTION_NOTICKETS	Qui dit plus de victoires, dit plus de récompenses !\nUtilisez une admission pour la taverne pour y accéder.	
+GLUE_PVPDR_HEROIC_POPUP_HEADER	Vous entrez dans le mode Héroïque	
+GLUE_PVPDR_HIGH_WATERMARK_LABEL	Meilleure série (victoires)	
+GLUE_PVPDR_LABEL_RATING_RESET_DAYS	La cote est réinitialisée dans {0} |4(jour,jours)	
+GLUE_PVPDR_LABEL_RATING_RESET_HOURS	La cote est réinitialisée dans {0} |4(heure,heures)	
+GLUE_PVPDR_LABEL_RATING_RESET_MINUTES	La cote est réinitialisée dans {0} |4(minute,minutes)	
+GLUE_PVPDR_LABEL_RATING_RESET_OVER_1_MONTH	La cote est réinitialisée dans plus de 1 mois	
+GLUE_PVPDR_LABEL_RATING_RESET_SECONDS	La cote est réinitialisée dans {0} |4(seconde,secondes)	
+GLUE_PVPDR_LABEL_RATING_RESET_WEEKS	La cote est réinitialisée dans {0} |4(semaine,semaines)	
+GLUE_PVPDR_LABEL_SEASON_ENDING_DAYS	La saison se termine dans {0} |4(jour,jours)	
+GLUE_PVPDR_LABEL_SEASON_ENDING_HOURS	La saison se termine dans {0} |4(heure,heures)	
+GLUE_PVPDR_LABEL_SEASON_ENDING_MINUTES	La saison se termine dans {0} |4(minute,minutes)	
+GLUE_PVPDR_LABEL_SEASON_ENDING_OVER_1_MONTH	La saison se termine dans plus de 1 mois	
+GLUE_PVPDR_LABEL_SEASON_ENDING_SECONDS	La saison se termine dans {0} |4(seconde,secondes)	
+GLUE_PVPDR_LABEL_SEASON_ENDING_WEEKS	La saison se termine dans {0} |4(semaine,semaines)	
+GLUE_PVPDR_LABEL_VAULT_LIVES	Vies	
+GLUE_PVPDR_LABEL_VAULT_WINS	Victoires	
+GLUE_PVPDR_LOCK_IN	Confirmer le deck	
+GLUE_PVPDR_LOCK_IN_DESC	Avez-vous fini de créer votre deck de duels ? Une fois confirmé, vous ne pourrez plus le modifier.	
+GLUE_PVPDR_RATING_LABEL	Cote	
+GLUE_PVPDR_RATING_LABEL_HEROIC	Cote (héroïque)	
+GLUE_PVPDR_RATING_LABEL_NORMAL	Cote (non classé)	
+GLUE_PVPDR_SESSION_END_ERROR	Une erreur s’est produite en terminant votre session de duels. Veuillez réessayer.	
+GLUE_PVPDR_SESSION_START_FAILED_BODY	Échec de la création d’une session de duels. Veuillez réessayer plus tard.	
+GLUE_PVPDR_SIGNUPS_CLOSED	Cette saison sera bientôt terminée. Les inscriptions sont clôturées.	
+GLUE_PVPDR_UNLOCKS_LABEL	Récompenses	
+GLUE_PVPDR_UNLOCKS_TEXT	{0} / {1}	
 GLUE_QUEST_FINISHED_DAILY	Vous avez terminé toutes vos quêtes.	
 GLUE_QUEST_LOG_ARENA	Arène	
 GLUE_QUEST_LOG_BEST_FORGE_RECORD_HEADLINE	Meilleure clé d’Arène	
@@ -1313,6 +1457,8 @@ GLUE_ROTATED_SETS_DIALOG	Les ensembles suivants sont désormais Libres !
 GLUE_SET_ROTATION_CURRENT_YEAR	Année du Dragon	
 GLUE_SET_ROTATION_NEXT_YEAR	Année du Phénix	
 GLUE_SHOP_BOOSTER_SKU_BUTTON	{0} |4(paquet,paquets)	
+GLUE_SHOP_CLOSED_ALERT_HEADER	Boutique fermée	
+GLUE_SHOP_CLOSED_ALERT_TEXT	La boutique est temporairement fermée. Revenez plus tard.	
 GLUE_SHOP_CONVERT_TO_ARCANE_ORBS_HEADER	Convert Runestones to Arcane Orbs	
 GLUE_SHOP_DESCRIPTION_HEADER	{0} comprend :	
 GLUE_SHOP_GET_MORE_RUNESTONES	Vous n’avez pas assez de pierres runiques pour effectuer cet achat. En obtenir davantage ?	
@@ -1559,7 +1705,10 @@ GLUE_STORE_PAYMENT_INFO_URL_DETAILS	Appuyez sur « {0} » pour plus d’inform
 GLUE_STORE_PRE_PURCHASE_HAS_ENDED	La précommande de ce produit n’est plus possible.	
 GLUE_STORE_PREORDER	PRÉCOMMANDE	
 GLUE_STORE_PREORDER_APRIL	Disponible en\navril* !	
+GLUE_STORE_PREORDER_DUST_APRIL	Paquets disponibles en\navril* !	
+GLUE_STORE_PREORDER_DUST_NOVEMBER	Paquets disponibles en\nnovembre* !	
 GLUE_STORE_PREORDER_EXCLUSIVE	DOS DE CARTE EXCLUSIF !	
+GLUE_STORE_PREORDER_NOVEMBER	Disponible en\nnovembre* !	
 GLUE_STORE_PRODUCT_DETAILS_BRM_PART_1	Affrontez les terribles boss de cette aile en combat singulier.	0=wing name
 GLUE_STORE_PRODUCT_DETAILS_BRM_PART_2	Gagnez de nouvelles cartes du mont Rochenoire pour votre collection, y compris 1 carte légendaire !	
 GLUE_STORE_PRODUCT_DETAILS_DALA_PART_1	Affrontez les terribles boss de ce chapitre en combat singulier.	0=wing name
@@ -1615,6 +1764,7 @@ GLUE_STORE_PRODUCT_NAME_MOBILE_UNKNOWN	Achat via mobile
 GLUE_STORE_PRODUCT_NAME_NAXX_WING_BUNDLE	Aventure Naxxramas ({0} |4(aile,ailes))	
 GLUE_STORE_PRODUCT_NAME_OG_PRESALE_BUNDLE	Les murmures des Dieux très anciens (préachat)	
 GLUE_STORE_PRODUCT_NAME_PACK	{0} |4(paquet,paquets) {1}	0=quantity,1=pack type
+GLUE_STORE_PRODUCT_NAME_PROGRESSION_BONUS	Ticket de la taverne	
 GLUE_STORE_PRODUCT_NAME_TGT_PRESALE_BUNDLE	Le Grand Tournoi (préachat)	
 GLUE_STORE_PRODUCT_NAME_ULD_PRESALE_BUNDLE	Les Tombes de la Terreur (préachat)	
 GLUE_STORE_PRODUCT_NAME_ULD_WING_BUNDLE	Aventure Les Tombes de la terreur ({0} |4(chapitre,chapitres))	
@@ -1655,6 +1805,7 @@ GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_FIRST_PURCHASE_BUNDLE	이용기간: 서비�
 GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_FORGE_TICKET	투기장 입장료는 구매 후 환불되지 않으며, 구매 즉시 투기장에 입장합니다.	only displayed for Korean customers, should always be in Korean
 GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_HERO	본 상품은 구매 후 환불되지 않으며, 구매 즉시 이용이 가능합니다.	
 GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_PACK_PREORDER	사전 구매 상품은 실제 상품 출시 전까지 환불이 가능합니다.	
+GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_PROGRESSION_BONUS	이용기간: 다음 확장팩 출시일 전까지. 본 상품은 구매 즉시 효과가 적용되므로 구매 후 환불이 불가능합니다.	
 GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_TAVERN_BRAWL_TICKET	영웅 난이도 난투 입장료는 구매 후 환불되지 않으며, 구매 즉시 영웅 난이도 난투에 입장합니다.\n서비스 제공기간: 해당 영웅 난이도 난투 만료시까지.\n만료 시 승리한 횟수에 따라 보상이 차등 지급되므로 만료 시간을 확인하시기 바랍니다.	
 GLUE_STORE_SUMMARY_PAY_NOW_TEXT	Payer	this is what you see when you confirm the purchase
 GLUE_STORE_SUMMARY_PRICE_HEADLINE	Prix	
@@ -1662,6 +1813,9 @@ GLUE_STORE_SUMMARY_TAX_DISCLAIMER	TVA applicable incluse.
 GLUE_STORE_SUMMARY_TAX_DISCLAIMER_USD	Plus les taxes applicables en vigueur.	
 GLUE_STORE_SUMMARY_TOS_AGREEMENT	En appuyant sur « {0} », vous reconnaissez avoir lu et accepté les Conditions de vente. Appuyez sur le bouton « {1} » pour modifier votre moyen de paiement ou accéder aux Conditions de vente sur le site Blizzard.	0=GLUE_STORE_SUMMARY_PAY_NOW_TEXT,1=GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT
 GLUE_STORE_SUMMARY_TOS_AGREEMENT_EU	En cliquant sur « {0} », vous acceptez les Conditions de vente et la fourniture immédiate de votre commande. Une fois la procédure de livraison lancée, vous perdrez votre droit de rétraction. Cliquez sur le bouton « {1} » pour modifier votre moyen de paiement par défaut ou lire les Conditions de vente.	0=GLUE_STORE_SUMMARY_PAY_NOW_TEXT,1=GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT
+GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT	Débloquez tous les objets jusqu’à votre niveau actuel du parcours de récompenses !	
+GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT_CHINA_DISCLAIMER	Remportez tous les objets que vous avez débloqués en atteignant votre niveau actuel en parcours de récompenses ! En raison des règles encadrant le temps de jeu des mineurs, les joueurs mineurs seront peut-être dans l’incapacité d’obtenir toutes les récompenses de quêtes.	
+GLUE_STORE_TAVERN_PASS_HEADLINE_TEXT	Le ticket de la taverne comprend des récompenses à débloquer*, telles que :	
 GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT	?	
 GLUE_STORE_TGT_PREORDER_DATE	Disponible en août !	
 GLUE_STORE_THIS_WEEK_ONLY	DISPONIBLE CETTE SEMAINE UNIQUEMENT !	
@@ -1725,6 +1879,17 @@ GLUE_TIP_ADVENTURE_0	Vous devez créer un deck personnalisé pour vaincre les bo
 GLUE_TIP_ADVENTURE_1	Ne laissez pas les boss puissants vous abattre. Construisez un deck personnalisé pour les écraser.	
 GLUE_TIP_ADVENTURE_2	Si vous perdez contre un boss, vous devriez peut-être modifier votre deck.	
 GLUE_TIP_ADVENTURE_3	Préparez-vous bien ! Construisez un deck capable de contrer le boss que vous allez affronter.	
+GLUE_TIP_ADVENTURE_BOH_1	Préparez-vous à vivre une aventure épique aux côtés d’un héros de Hearthstone !	
+GLUE_TIP_ADVENTURE_BOH_10	Apprenez-en plus sur vos héros en revivant\nleurs plus grands combats.	
+GLUE_TIP_ADVENTURE_BOH_11	Malfurion a VRAIMENT hâte\n de remettre les compteurs à zéro.	
+GLUE_TIP_ADVENTURE_BOH_2	Le périple de ce héros fournit les decks ainsi que les pouvoirs héroïques !	
+GLUE_TIP_ADVENTURE_BOH_3	Les pouvoirs héroïques seront améliorés après chaque mission !	
+GLUE_TIP_ADVENTURE_BOH_4	Certains de ces héros ont un passé mystérieux.\nD’autres sont célèbres pour leurs exploits !	
+GLUE_TIP_ADVENTURE_BOH_5	Certains des récits vont se recouper pour\nvous faire vivre l’histoire des deux côtés !	
+GLUE_TIP_ADVENTURE_BOH_6	Les pouvoirs héroïques changent aussi vite que les héros !	
+GLUE_TIP_ADVENTURE_BOH_7	Attendez-vous à tout ! La vie d’un héros prend souvent des tournants inattendus.	
+GLUE_TIP_ADVENTURE_BOH_8	Regardez les decks avant de commencer la mission\npour élaborer une stratégie contre l’adversaire.	
+GLUE_TIP_ADVENTURE_BOH_9	Les héros doivent surmonter d’immenses obstacles \npour assurer leur place dans l’histoire.	
 GLUE_TIP_ADVENTURE_BOT_0	Vous pouvez réinitialiser les casse-tête rapidement.\nAlors n’hésitez pas à faire des tests !	
 GLUE_TIP_ADVENTURE_BOT_1	Il n’est pas toujours nécessaire d’utiliser toutes les cartes.	
 GLUE_TIP_ADVENTURE_BOT_2	N’abandonnez pas. Cherchez des interactions de cartes inhabituelles.	
@@ -1870,7 +2035,7 @@ GLUE_TIP_BACON_10	Les séries de victoires sont affichées dans le tableau des s
 GLUE_TIP_BACON_11	Seules les améliorations effectuées dans la taverne sont permanentes.\nLes améliorations de combat disparaissent à la fin de la partie.	
 GLUE_TIP_BACON_12	Si vos adversaires achètent plusieurs fois le même serviteur, vous le verrez moins souvent.	
 GLUE_TIP_BACON_13	Si un serviteur est vendu, il revient dans l’inventaire, donc vous le verrez plus souvent.	
-GLUE_TIP_BACON_14	Si vous dépensez tout votre or pour améliorer votre niveau de taverne, votre troupe de guerre en pâtira et vous risquez de perdre.	
+GLUE_TIP_BACON_14	Si vous dépensez tout votre or pour améliorer votre niveau de taverne, votre armée en pâtira et vous risquez de perdre.	
 GLUE_TIP_BACON_15	Si vous n’améliorez jamais votre niveau de taverne, votre troupe de guerre sera à la traîne et vous risquez de perdre.	
 GLUE_TIP_BACON_16	Les Murlocs sont plus puissants en début de partie tandis que les Méca sont plus forts en fin de partie.	
 GLUE_TIP_BACON_17	S’il vous reste 1 pièce d’or, actualisez la taverne.\nSi un serviteur vous intéresse, gelez-le pour le prochain tour.	
@@ -1880,7 +2045,7 @@ GLUE_TIP_BACON_2	Le déphaseur Zerus peut se transformer en serviteur de n’imp
 GLUE_TIP_BACON_20	Quand vous éliminez un adversaire, ses serviteurs retournent dans l’inventaire.	
 GLUE_TIP_BACON_3	Quand vous gagnez, votre héros et vos serviteurs infligent des dégâts équivalents à leur niveau de taverne.	
 GLUE_TIP_BACON_4	Améliorer votre taverne coûte 1 pièce de moins à chaque tour.	
-GLUE_TIP_BACON_5	Il n’existe que sept copies des serviteurs de niveau 6.\nUne fois vendus, ils ne sont plus disponibles pour personne !	
+GLUE_TIP_BACON_5	Il n’existe que sept copies des serviteurs de niveau 6.\nUne fois achetés, ils ne sont plus disponibles pour personne !	
 GLUE_TIP_BACON_6	Gelez des serviteurs pour les acheter au tour suivant ou ciblez-les à nouveau pour les dégeler.	
 GLUE_TIP_BACON_7	Trois serviteurs dorés ne se combinent pas en un serviteur triple supérieur.	
 GLUE_TIP_BACON_8	Vous pouvez voir votre prochain adversaire dans le tableau des scores. Préparez-vous.	
@@ -1926,6 +2091,30 @@ GLUE_TIP_DEFAULT_7	Si vous n’avez plus de quêtes, revenez demain pour en obte
 GLUE_TIP_DEFAULT_8	Si lors d’une saison, vous gagnez 5_matchs en Partie classée, vous obtiendrez le dos de carte spécifique à cette saison.	
 GLUE_TIP_DEFAULT_8_RANKED_2.0	Si lors d’une saison, vous atteignez le rang 20, vous obtiendrez le dos de carte spécifique à cette saison.	
 GLUE_TIP_DEFAULT_9	Accomplissez des quêtes pour gagner de l’or. L’or peut être utilisé pour acheter des paquets de cartes ou entrer dans l’Arène.	
+GLUE_TIP_DUELS_0	Les serviteurs coûtant peu de mana peuvent être joués plus régulièrement.	
+GLUE_TIP_DUELS_1	Les serviteurs puissants et coûtant cher peuvent retourner la situation dans les derniers matchs.	
+GLUE_TIP_DUELS_10	Votre adversaire ne peut pas interagir avec les trésors passifs.	
+GLUE_TIP_DUELS_11	L’Attaque et la Vie de base d’un serviteur sont soigneusement équilibrées avec son coût en mana.	
+GLUE_TIP_DUELS_12	Les serviteurs légendaires peuvent être les piliers de certaines stratégies. Essayez de créer votre deck de départ autour d’eux.	
+GLUE_TIP_DUELS_13	Essayez de combiner les dégâts des sorts avec la réduction des coûts en mana pour un effet destructeur.	
+GLUE_TIP_DUELS_14	Attachez-vous bien, le mode Duels de Hearthstone comporte certains des decks les plus puissants jamais vus.	
+GLUE_TIP_DUELS_15	Dans le mode Duels, vous pouvez voir autant de copies d’une même carte que vous le souhaitez dans votre deck.	
+GLUE_TIP_DUELS_16	Les cartes à deux classes peuvent être utilisées par plusieurs classes.	
+GLUE_TIP_DUELS_17	Une virée se termine lorsque vous avez gagné douze fois ou perdu trois fois.	
+GLUE_TIP_DUELS_18	Si vous n’avez plus de cartes dans votre deck, vous subirez des dégâts de fatigue.	
+GLUE_TIP_DUELS_19	Certaines cartes apparaissent plus souvent que d’autres.	
+GLUE_TIP_DUELS_2	Vous avez du mal à contrer les stratégies agressives ? Ajoutez des sorts à bas prix qui infligent des dégâts à plusieurs serviteurs.	
+GLUE_TIP_DUELS_20	Avec leurs petits decks et le peu de vie des héros, les premiers matchs peuvent vite se terminer. Adaptez votre stratégie en conséquence.	
+GLUE_TIP_DUELS_21	Des héros différents sont proposés à chaque virée. Essayez-les tous !	
+GLUE_TIP_DUELS_22	Certains modèles de decks vous réserveront d’incroyables surprises !	
+GLUE_TIP_DUELS_23	C’est l’heure des D-D-D-D-DUELS !	
+GLUE_TIP_DUELS_3	Les cartes proposées entre chaque match varient selon le contenu de votre deck.	
+GLUE_TIP_DUELS_4	Utilisez souvent votre pouvoir héroïque pour optimiser son effet.	
+GLUE_TIP_DUELS_5	Le maximum de points de vie de votre héros augmente au fil de votre virée.	
+GLUE_TIP_DUELS_6	Les trésors spéciaux de votre classe vous indiquent les stratégies possibles.	
+GLUE_TIP_DUELS_7	Les serviteurs neutres peuvent être placés dans n’importe quel deck.	
+GLUE_TIP_DUELS_8	En mode Duels, vous pouvez jouer avec la dernière extension et de puissantes cartes du passé.	
+GLUE_TIP_DUELS_9	Plus vous avez de cartes dans votre deck, moins vous avez de chance de voir une carte particulière.	
 GLUE_TIP_FORGE_0	Votre deck d’Arène disparaîtra après que vous aurez perdu 3 parties.	
 GLUE_TIP_FORGE_1	Votre récompense d’Arène s’améliore à chaque partie gagnée !	
 GLUE_TIP_FORGE_2	Vous n’avez pas besoin de jouer tous vos matchs d’Arène d’un coup.	
@@ -1967,10 +2156,13 @@ GLUE_TOOLTIP_BUTTON_BACON_HEADLINE	Champs de bataille
 GLUE_TOOLTIP_BUTTON_COLLECTION_DESC	Consultez vos cartes ou construisez un deck.	
 GLUE_TOOLTIP_BUTTON_COLLECTION_HEADLINE	Ma collection	
 GLUE_TOOLTIP_BUTTON_DISABLED_DESC	Cette fonctionnalité a été temporairement désactivée.	
+GLUE_TOOLTIP_BUTTON_DUELS_HEADLINE	Duels	
 GLUE_TOOLTIP_BUTTON_FORGE_HEADLINE	Arène	
 GLUE_TOOLTIP_BUTTON_FORGE_NOT_UNLOCKED	Non disponible tant que vous n’êtes pas niveau 10 avec toutes les classes.	
 GLUE_TOOLTIP_BUTTON_GAME_MODES_DESC	Essayez de nouvelles façons de jouer.	
 GLUE_TOOLTIP_BUTTON_GAME_MODES_HEADLINE	Modes de jeu	
+GLUE_TOOLTIP_BUTTON_JOURNAL_DESC	Vos quêtes, vos hauts faits, vos récompenses, et bien plus encore !	
+GLUE_TOOLTIP_BUTTON_JOURNAL_HEADLINE	Journal	
 GLUE_TOOLTIP_BUTTON_PACKOPEN_DESC	Ouvrez vos paquets pour ajouter des cartes à votre collection !	
 GLUE_TOOLTIP_BUTTON_PACKOPEN_HEADLINE	Ouvrir des paquets	
 GLUE_TOOLTIP_BUTTON_QUESTLOG_DESC	Consultez votre progression.	
@@ -1991,7 +2183,7 @@ GLUE_TOOLTIP_GOLDEN_WINS_DESC	Gagnez 500 matchs en Partie classée ou en Arène 
 GLUE_TOOLTIP_GOLDEN_WINS_HEADER	Total de victoires	
 GLUE_TOOLTIP_HOW_TO_UNLOCK_DECKS	Débloquez ce deck en battant d’autres héros dans n’importe quel mode.	
 GLUE_TOOLTIP_RANKED_BUTTON	Affrontez d’autres joueurs pour tester vos compétences !	
-GLUE_TOOLTIP_VIRTUAL_CURRENCY_DESCRIPTION	Dépensez des pierres runiques pour acheter des orbes arcaniques, des héros, des aventures ou des admissions pour l’Arène.	
+GLUE_TOOLTIP_VIRTUAL_CURRENCY_DESCRIPTION	Dépensez des pierres runiques pour acheter des orbes arcaniques, des héros, des aventures ou des admissions pour la taverne.	
 GLUE_TOOLTIP_VIRTUAL_CURRENCY_HEADER	Pierres runiques	
 GLUE_TOURNAMENT	Partie	
 GLUE_TOURNAMENT_CASUAL	Non classé	

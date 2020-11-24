@@ -34,7 +34,7 @@ GAMEPLAY_BACON_MINION_MOVE_TUTORIAL	ลากไปทางขวา[b]เพ�
 GAMEPLAY_BACON_MINION_UPGRADE_TAVERN_TUTORIAL	อัพเกรดโรงเตี๊ยม!	
 GAMEPLAY_BACON_MULLIGAN_AVAILABLE_RACES	ประเภทมินเนี่ยนในเกมนี้: {0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
 GAMEPLAY_BACON_MULLIGAN_CHOOSE_HERO_BANNER	เลือกฮีโร่	
-GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER	ผู้เล่น {0}/8 คนพร้อมแล้ว	0=number of players ready
+GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER	ผู้เล่น {0}/{1} คนพร้อมแล้ว	0=number of players ready, 1=number of players in game
 GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER_SUBTITLE	เวลาที่เหลือ	
 GAMEPLAY_BACON_PLAY_MINION_TUTORIAL	เล่นเลย!	
 GAMEPLAY_BACON_RECENT_COMBATS	การต่อสู้ที่ผ่านมา	
@@ -67,6 +67,7 @@ GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MINIONS	เลือกหนึ่งอย่า
 GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MURLOCS	เลือกหนึ่งอย่างให้เมอร์ล็อคทั้งหมดของคุณ:	
 GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_RECRUITS	เลือกหนึ่งอย่างให้นักรบทั้งหมดของคุณ:	
 GAMEPLAY_CHOOSE_ONE_HERO_POWER	เลือกหนึ่งอย่าง	will be displayed for choosing a Hero Power e.g. Sir Finley Mrrgglton
+GAMEPLAY_CHOOSE_ONE_WINNER	ทายผู้ชนะ!	
 GAMEPLAY_COIN_TOSS_LOST	คุณได้รับการ์ดเพิ่มหนึ่งใบ	
 GAMEPLAY_COIN_TOSS_WON	คุณเริ่มก่อน	
 GAMEPLAY_COPY_DEATHRATTLE	ก๊อปปี้เสียงสุดท้ายจาก {0}	
@@ -112,6 +113,7 @@ GAMEPLAY_END_OF_GAME_PLACE_6	อันดับ 6
 GAMEPLAY_END_OF_GAME_PLACE_7	อันดับ 7	
 GAMEPLAY_END_OF_GAME_PLACE_8	อันดับ 8	
 GAMEPLAY_END_OF_GAME_RATING	คะแนน	
+GAMEPLAY_END_OF_GAME_TIE	เสมอ!	
 GAMEPLAY_END_OF_GAME_TIE_ESCAPED	หนีสำเร็จ!	
 GAMEPLAY_END_OF_GAME_VICTORY	ชนะ!	
 GAMEPLAY_END_OF_GAME_VICTORY_MAYBE	ชนะ?	
@@ -220,7 +222,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_IF_AVAILABLE_AND_PLAYER_HEALTH_CHANGED_THIS_TURN	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAGNET	มีมินเนี่ยนที่คุณต้องเลือกเป็นเป้าหมาย	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAX_ATTACK	เลือกตัวละครที่มีพลังโจมตี {0} หรือน้อยกว่า	
 GAMEPLAY_PlayErrors_REQ_TARGET_MIN_ATTACK	เลือกตัวละครที่มีพลังโจมตี {0} หรือมากกว่า	
-GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	มินเนี่ยนตัวนั้นเป็นสีทองแล้ว	
+GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	ใช้กับมินเนี่ยนสีทองไม่ได้	
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_DAMAGEABLE_ONLY_BY_WEAPONS	ตัวละครนั้นจะได้รับความเสียหายจากอาวุธเท่านั้น	
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_DORMANT	มินเนี่ยนตัวนั้นจำศีลอยู่	
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_VAMPIRE	มินเนี่ยนตัวนั้นเป็นแวมไพร์แล้ว	
@@ -231,6 +233,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_TO_PLAY	คุณไม่สามารถเ�
 GAMEPLAY_PlayErrors_REQ_TARGET_WITH_BATTLECRY	เลือกตัวละครหนึ่งตัวที่มีคำรามสู้ศึก	
 GAMEPLAY_PlayErrors_REQ_TARGET_WITH_DEATHRATTLE	เลือกตัวละครหนึ่งตัวที่มีเสียงสุดท้าย	
 GAMEPLAY_PlayErrors_REQ_TARGET_WITH_RACE	นั่นไม่ใช่ประเภทของมินเนี่ยนที่ถูกต้อง	
+GAMEPLAY_PlayErrors_REQ_TWO_OF_A_KIND	ต้องมีมินเนี่ยนที่ทำทริปเปิ้ลได้	
 GAMEPLAY_PlayErrors_REQ_UNDAMAGED_TARGET	คุณต้องเลือกตัวละครที่พลังชีวิตเต็มเป็นเป้าหมาย	
 GAMEPLAY_PlayErrors_REQ_UNIQUE_SECRET	มีการ์ดใบนี้อยู่ในสนามแล้ว	
 GAMEPLAY_PlayErrors_REQ_WEAPON_EQUIPPED	คุณต้องมีอาวุธ	
@@ -251,8 +254,10 @@ GAMEPLAY_SECRET_NAME_ROGUE	กับดักโร้ก
 GAMEPLAY_SPECTATOR_DISCONNECT_BODY	คุณถูกตัดการเชื่อมต่อ โปรดเริ่ม Hearthstone ใหม่เพื่อดำเนินการต่อ คุณอาจต้องเริ่มโหมดผู้ชมอีกครั้ง 	
 GAMEPLAY_SPECTATOR_DISCONNECT_BODY_RESET	คุณถูกตัดการเชื่อมต่อ กำลังเชื่อมต่อใหม่ คุณอาจต้องเริ่มโหมดผู้ชมอีกครั้ง 	
 GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_DESC	{0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
-GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_HEADLINE	ประเภทมินเนี่ยน:	
+GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_HEADLINE	มีในเกมนี้:	
 GAMEPLAY_TOOLTIP_BACON_GOLD	ใช้ทองของคุณ[b]ซื้อมินเนี่ยน	
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_DESC	{0}, {1}	0=first race, 1=second race
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	ไม่มีในเกมนี้:	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	คุณมีการ์ด {0}_ใบ[b]ในเด็คของคุณ	
 GAMEPLAY_TOOLTIP_DECK_HEADLINE	เด็ค	
 GAMEPLAY_TOOLTIP_ENEMYDECK_DESC	มีการ์ด {0}_ใบในเด็ค[b]ของฝ่ายตรงข้าม	
@@ -261,6 +266,8 @@ GAMEPLAY_TOOLTIP_ENEMYHAND_DESC	ในมือของฝ่ายตรงข
 GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_SINGLE	ในมือของฝ่ายตรงข้าม[b]มีการ์ด {0}_ใบ	0= number of cards in hand.
 GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_TUT	การ์ดในมือของฝ่ายตรงข้าม ผู้เล่นจั่วการ์ดหนึ่งใบ[b]ในแต่ละเทิร์น	
 GAMEPLAY_TOOLTIP_ENEMYHAND_HEADLINE	การ์ดบนมือฝ่ายตรงข้าม	
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_DESC	<b>โอเวอร์โหลด</b> คริสตัลมานาไป {0}_อัน	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_HEADLINE	โอเวอร์โหลดของศัตรู	
 GAMEPLAY_TOOLTIP_FATIGUE_DECK_DESCRIPTION	การ์ดของคุณหมดแล้ว! จากนี้ไปคุณจะได้รับความเสียหาย[b]ทุกครั้งที่คุณจั่วการ์ด	
 GAMEPLAY_TOOLTIP_FATIGUE_DECK_HEADLINE	เหนื่อยล้า	
 GAMEPLAY_TOOLTIP_FATIGUE_ENEMYDECK_DESCRIPTION	คู่แข่งของคุณการ์ดหมดแล้ว! จากนี้ไปเขาจะได้รับความเสียหาย[b]ทุกครั้งที่เขาจั่วการ์ด	
@@ -273,8 +280,10 @@ GAMEPLAY_TOOLTIP_MANA_COIN_DESCRIPTION	ใช้เศษทองของค�
 GAMEPLAY_TOOLTIP_MANA_COIN_HEADLINE	เศษทอง	
 GAMEPLAY_TOOLTIP_MANA_DESCRIPTION	เมื่อเริ่มเทิร์นของคุณ[b]คุณจะได้รับคริสตัลเพิ่ม[b]หนึ่งอัน และคริสตัลที่ว่าง[b]จะถูกเติมจนเต็ม	
 GAMEPLAY_TOOLTIP_MANA_HEADLINE	คริสตัลมานา	
-GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION	คุณเล่นการ์ดที่มี[b]โอเวอร์โหลดใน[b]เทิร์นที่แล้ว	
-GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE	คริสตัลมานาถูกล็อค	
+GAMEPLAY_TOOLTIP_MANA_LOCKED_DESCRIPTION	เทิร์นที่แล้ว <b>โอเวอร์โหลด</b> คริสตัลมานาไป {0}_อัน	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_LOCKED_HEADLINE	คริสตัลมานาถูกล็อค	
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION	มีคริสตัลมานา {0} อัน[b]ที่<b>โอเวอร์โหลด</b> อยู่	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE	โอเวอร์โหลด	
 GAMEPLAY_TOT_109t_STASIS_DRAGON_1	ตื่นและได้รับ <b>จู่โจม</b> หลังผ่านไปสองเทิร์น	
 GAMEPLAY_TOT_109t_STASIS_DRAGON_2	ตื่นและได้รับ <b>จู่โจม</b> ในอีกหนึ่งเทิร์น	
 GAMEPLAY_TRLA_TROLL_SHRINE_1	จำนวนเทิร์น\nก่อนคืนชีพ: 3	

@@ -1,4 +1,5 @@
 TAG	TEXT	COMMENT
+PRESENCE_ADVENTURE_MODE_BOH	กำลังอ่าน Book of Heroes	
 PRESENCE_ADVENTURE_MODE_BOT	กำลังดูห้องแล็บของด็อกเตอร์บูม	
 PRESENCE_ADVENTURE_MODE_BRM_CLASS_CHALLENGE	การทดสอบคลาสของแบล็คร็อค	
 PRESENCE_ADVENTURE_MODE_BRM_HEROIC	Blackrock Mountain (ระดับฮีโร่)	
@@ -23,6 +24,30 @@ PRESENCE_ADVENTURE_MODE_NAXX_NORMAL	 Naxxramas
 PRESENCE_ADVENTURE_MODE_RETURNING_PLAYER_CHALLENGE	กำลังเดินทางกลับด้วยความยินดี!	
 PRESENCE_ADVENTURE_MODE_TRL	กำลังเตรียมตัวตะลุมบอน...	
 PRESENCE_ADVENTURE_MODE_ULD	กำลังวางแผนออกเดินทาง	
+PRESENCE_SCENARIO_BOH_FIGHT_01	กำลังโน้มน้าวอาร์คเมจแอนโทไนดัส	
+PRESENCE_SCENARIO_BOH_FIGHT_02	กำลังพบปะเจ้าชายเคลธาส	
+PRESENCE_SCENARIO_BOH_FIGHT_03	กำลังโต้เถียงกับเจ้าชายอาร์ธัส	
+PRESENCE_SCENARIO_BOH_FIGHT_04	กำลังห้ามปรามกรอมแมช เฮลสครีม	
+PRESENCE_SCENARIO_BOH_FIGHT_05	กำลังหลอกล่ออาร์คิมอนด์	
+PRESENCE_SCENARIO_BOH_FIGHT_06	กำลังปกป้องเธอรามอร์	
+PRESENCE_SCENARIO_BOH_FIGHT_07	กำลังกล่าวโทษธรอล	
+PRESENCE_SCENARIO_BOH_FIGHT_08	กำลังขับไล่กลุ่มซันรีฟเวอร์	
+PRESENCE_SCENARIO_BOH2_FIGHT_01	กำลังโต้แย้งว่าควรลงมือ	
+PRESENCE_SCENARIO_BOH2_FIGHT_02	กำลังโน้มน้าวผู้นำชนเผ่า	
+PRESENCE_SCENARIO_BOH2_FIGHT_03	กำลังผูกมิตรกับมิชา	
+PRESENCE_SCENARIO_BOH2_FIGHT_04	กำลังกู้เกียรติยศของมอกริน	
+PRESENCE_SCENARIO_BOH2_FIGHT_05	กำลังสืบสวนร่วมกับเจน่า	
+PRESENCE_SCENARIO_BOH2_FIGHT_06	กำลังช่วยเบน บลัดฮูฟ	
+PRESENCE_SCENARIO_BOH2_FIGHT_07	กำลังต้านการรุกรานของเดลิน	
+PRESENCE_SCENARIO_BOH2_FIGHT_08	กำลังปกป้องชาวมอคนาธัล	
+PRESENCE_SCENARIO_BOH3_FIGHT_01	กำลังพบปะเกรทมาเธอร์	
+PRESENCE_SCENARIO_BOH3_FIGHT_02	กำลังโต้เถียงกับเรห์การ์	
+PRESENCE_SCENARIO_BOH3_FIGHT_03	กำลังพิชิตนอร์ธเรนด์	
+PRESENCE_SCENARIO_BOH3_FIGHT_04	กำลังดับไฟในออร์กริมมาร์	
+PRESENCE_SCENARIO_BOH3_FIGHT_05	กำลังดวลมัคโกรา	
+PRESENCE_SCENARIO_BOH3_FIGHT_06	กำลังโจมตีเธอรามอร์	
+PRESENCE_SCENARIO_BOH3_FIGHT_07	กำลังลั่นระฆังสวรรค์	
+PRESENCE_SCENARIO_BOH3_FIGHT_08	กำลังถูกปิดล้อมในออร์กริมมาร์	
 PRESENCE_SCENARIO_BOTA_CLEAR_BOOM	กำลังไขปริศนา	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_1	กำลังไขปริศนา	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_2	กำลังไขปริศนา	
@@ -327,6 +352,12 @@ PRESENCE_STATUS_BATTLEGROUNDS_SCREEN	กำลังอยู่ใน Battlegro
 PRESENCE_STATUS_COLLECTION	กำลังดูคอลเลกชันการ์ด	
 PRESENCE_STATUS_CRAFTING	กำลังสร้างการ์ด	
 PRESENCE_STATUS_DECKEDITOR	กำลังจัดเด็ค	
+PRESENCE_STATUS_DUELS_FORGE	กำลังสร้างเด็คดวลเดือด	
+PRESENCE_STATUS_DUELS_GAME	กำลังดวลเดือด	
+PRESENCE_STATUS_DUELS_IDLE	กำลังเข้าสู่โหมดดวลเดือด	
+PRESENCE_STATUS_DUELS_PURCHASE	กำลังคิดจะเริ่มเล่นโหมดดวลเดือด	
+PRESENCE_STATUS_DUELS_QUEUE	กำลังค้นหาคู่ต่อสู้ในโหมดดวลเดือด	
+PRESENCE_STATUS_DUELS_REWARD	กำลังรับรางวัลดวลเดือด	
 PRESENCE_STATUS_FIRESIDE_BRAWL_SCREEN	กำลังไปที่เกมท้าประลอง Fireside	
 PRESENCE_STATUS_FRIENDLY_DECKPICKER	กำลังเตรียมตัวสู้กับเพื่อน	
 PRESENCE_STATUS_FRIENDLY_GAME	กำลังสู้กับเพื่อน	
@@ -354,6 +385,7 @@ PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_HEROIC	กำลังชม Naxx
 PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_NORMAL	กำลังชมการต่อสู้ใน Naxxramas!	
 PRESENCE_STATUS_SPECTATING_GAME_ARENA	กำลังชมการต่อสู้ในลานประลอง	
 PRESENCE_STATUS_SPECTATING_GAME_BATTLEGROUNDS	กำลังชมแมตช์ Battlegrounds	
+PRESENCE_STATUS_SPECTATING_GAME_BOH	กำลังชม Book of Heroes	
 PRESENCE_STATUS_SPECTATING_GAME_BOT	กำลังร่วมทดลองกับคู่หู	
 PRESENCE_STATUS_SPECTATING_GAME_BTA	กำลังชม Trial by Felfire	
 PRESENCE_STATUS_SPECTATING_GAME_BTA_HEROIC	กำลังชมบททดสอบ Trial by Felfire	
@@ -362,6 +394,7 @@ PRESENCE_STATUS_SPECTATING_GAME_DAL	กำลังสอดแนมแผน�
 PRESENCE_STATUS_SPECTATING_GAME_DAL_HEROIC	กำลังสอดแนมแผนปล้นดาลารัน	
 PRESENCE_STATUS_SPECTATING_GAME_DRG	กำลังชมดราก้อนไบลท์	
 PRESENCE_STATUS_SPECTATING_GAME_DRG_HEROIC	กำลังชมดราก้อนไบลท์	
+PRESENCE_STATUS_SPECTATING_GAME_DUELS	กำลังชมการต่อสู้ดวลเดือด	
 PRESENCE_STATUS_SPECTATING_GAME_FRIENDLY	กำลังชมการต่อสู้กระชับมิตร	
 PRESENCE_STATUS_SPECTATING_GAME_GIL	กำลังชมการล่ามอนสเตอร์	
 PRESENCE_STATUS_SPECTATING_GAME_GIL_BONUS_CHALLENGE	กำลังชมการต่อสู้กับฮากาธา	
@@ -383,6 +416,7 @@ PRESENCE_STATUS_TAVERN_BRAWL_QUEUE	กำลังค้นหาคู่ต่
 PRESENCE_STATUS_TAVERN_BRAWL_SCREEN	กำลังไปที่โหมดท้าประลอง	
 PRESENCE_STATUS_TUTORIAL_GAME	กำลังพยายามเอาชนะ {0}	0 = PRESENCE_TUTORIAL_*
 PRESENCE_STATUS_TUTORIAL_PREGAME	กำลังเริ่มเล่นเกมเป็นครั้งแรก	
+PRESENCE_STATUS_VIEWING_JOURNAL	กำลังดูบันทึก	
 PRESENCE_STATUS_WAIT_FOR_OPPONENT_RECONNECT	รอให้คู่ต่อสู้กลับเข้าเกม	
 PRESENCE_STATUS_WELCOMEQUESTS	กำลังเลือกเควสต์ใหม่!	
 PRESENCE_TUTORIAL_CHO	ลอร์วอล์คเกอร์ โช	

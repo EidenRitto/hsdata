@@ -34,7 +34,7 @@ GAMEPLAY_BACON_MINION_MOVE_TUTORIAL	Faites-les glisser vers la droite pour les r
 GAMEPLAY_BACON_MINION_UPGRADE_TAVERN_TUTORIAL	Améliorer la taverne	
 GAMEPLAY_BACON_MULLIGAN_AVAILABLE_RACES	Types de serviteurs dans cette partie : {0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
 GAMEPLAY_BACON_MULLIGAN_CHOOSE_HERO_BANNER	Choisissez un héros	
-GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER	{0}/8 joueurs prêts	0=number of players ready
+GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER	{0}/{1} joueurs prêts	0=number of players ready, 1=number of players in game
 GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER_SUBTITLE	Temps restant	
 GAMEPLAY_BACON_PLAY_MINION_TUTORIAL	Jouez-le !	
 GAMEPLAY_BACON_RECENT_COMBATS	Combats récents	
@@ -67,6 +67,7 @@ GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MINIONS	Choix pour tous vos serviteurs
 GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MURLOCS	Choix pour tous vos Murlocs	
 GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_RECRUITS	Choix pour toutes vos recrues	
 GAMEPLAY_CHOOSE_ONE_HERO_POWER	Choisir	will be displayed for choosing a Hero Power e.g. Sir Finley Mrrgglton
+GAMEPLAY_CHOOSE_ONE_WINNER	Devinez le vainqueur !	
 GAMEPLAY_COIN_TOSS_LOST	Une carte supplémentaire	
 GAMEPLAY_COIN_TOSS_WON	Vous commencez	
 GAMEPLAY_COPY_DEATHRATTLE	Râle d’agonie copié sur {0}.	
@@ -112,6 +113,7 @@ GAMEPLAY_END_OF_GAME_PLACE_6	6e place
 GAMEPLAY_END_OF_GAME_PLACE_7	7e place	
 GAMEPLAY_END_OF_GAME_PLACE_8	8e place	
 GAMEPLAY_END_OF_GAME_RATING	Cote	
+GAMEPLAY_END_OF_GAME_TIE	Égalité !	
 GAMEPLAY_END_OF_GAME_TIE_ESCAPED	Fuite !	
 GAMEPLAY_END_OF_GAME_VICTORY	Victoire !	
 GAMEPLAY_END_OF_GAME_VICTORY_MAYBE	Victoire ?	
@@ -220,7 +222,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_IF_AVAILABLE_AND_PLAYER_HEALTH_CHANGED_THIS_TURN	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAGNET	Vous devez viser un serviteur	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAX_ATTACK	Sélectionnez un personnage avec {0} à l’attaque maximum	
 GAMEPLAY_PlayErrors_REQ_TARGET_MIN_ATTACK	Sélectionnez un personnage avec {0} à l’attaque minimum	
-GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	Ce serviteur est déjà doré	
+GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	Ne peut pas être utilisé sur un serviteur doré	
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_DAMAGEABLE_ONLY_BY_WEAPONS	Ce personnage ne peut être blessé que par des armes	
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_DORMANT	Ce serviteur est en sommeil	
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_VAMPIRE	Ce serviteur est déjà un vampire	
@@ -231,6 +233,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_TO_PLAY	Vous ne pouvez pas faire ça sans cible
 GAMEPLAY_PlayErrors_REQ_TARGET_WITH_BATTLECRY	Sélectionnez un personnage avec Cri de guerre	
 GAMEPLAY_PlayErrors_REQ_TARGET_WITH_DEATHRATTLE	Sélectionnez un personnage avec Râle d’agonie	
 GAMEPLAY_PlayErrors_REQ_TARGET_WITH_RACE	Ce n’est pas la bonne race	
+GAMEPLAY_PlayErrors_REQ_TWO_OF_A_KIND	Vous devez posséder un triple potentiel	
 GAMEPLAY_PlayErrors_REQ_UNDAMAGED_TARGET	Vous devez viser un personnage indemne	
 GAMEPLAY_PlayErrors_REQ_UNIQUE_SECRET	Cette carte est déjà en jeu	
 GAMEPLAY_PlayErrors_REQ_WEAPON_EQUIPPED	Vous devez posséder une arme	
@@ -251,8 +254,10 @@ GAMEPLAY_SECRET_NAME_ROGUE	Secret de voleur
 GAMEPLAY_SPECTATOR_DISCONNECT_BODY	Vous avez été déconnecté. Relancez Hearthstone pour continuer. Vous devrez peut-être redémarrer le mode spectateur.	
 GAMEPLAY_SPECTATOR_DISCONNECT_BODY_RESET	Vous avez été déconnecté. Reconnexion en cours. Vous devrez peut-être redémarrer le mode spectateur.	
 GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_DESC	{0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
-GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_HEADLINE	Types de serviteurs :	
+GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_HEADLINE	Dans cette partie :	
 GAMEPLAY_TOOLTIP_BACON_GOLD	Dépensez votre or pour acheter des serviteurs.	
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_DESC	{0}, {1}	0=first race, 1=second race
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	Pas dans cette partie :	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	Vous avez {0} |4(carte,cartes) dans votre deck.	
 GAMEPLAY_TOOLTIP_DECK_HEADLINE	Votre deck	
 GAMEPLAY_TOOLTIP_ENEMYDECK_DESC	Il y a {0} |4(carte,cartes) dans le deck de votre adversaire.	
@@ -261,6 +266,8 @@ GAMEPLAY_TOOLTIP_ENEMYHAND_DESC	Votre adversaire a {0} |4(carte,cartes) dans sa 
 GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_SINGLE	Votre adversaire a {0} |4(carte,cartes) dans sa main.	0= number of cards in hand.
 GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_TUT	La main de votre adversaire. Les joueurs piochent une carte à chaque tour.	
 GAMEPLAY_TOOLTIP_ENEMYHAND_HEADLINE	Main adverse	
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_DESC	{0} |4(cristal,cristaux) de mana en <b>Surcharge</b>.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_HEADLINE	Surcharge de l’adversaire	
 GAMEPLAY_TOOLTIP_FATIGUE_DECK_DESCRIPTION	Vous n’avez plus de cartes_! Désormais, vous subirez des dégâts chaque fois que vous essaierez d’en piocher.	
 GAMEPLAY_TOOLTIP_FATIGUE_DECK_HEADLINE	Fatigué	
 GAMEPLAY_TOOLTIP_FATIGUE_ENEMYDECK_DESCRIPTION	Votre adversaire n’a plus de cartes ! Désormais, il subira des dégâts chaque fois qu’il essaiera d’en piocher.	
@@ -273,8 +280,10 @@ GAMEPLAY_TOOLTIP_MANA_COIN_DESCRIPTION	Dépensez vos pièces d’or pour acheter
 GAMEPLAY_TOOLTIP_MANA_COIN_HEADLINE	Pièces d’or	
 GAMEPLAY_TOOLTIP_MANA_DESCRIPTION	Quand votre tour commence, vous obtenez un nouveau cristal et ceux qui sont vides se remplissent.	
 GAMEPLAY_TOOLTIP_MANA_HEADLINE	Cristaux de mana	
-GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION	Vous avez joué une carte avec Surcharge au tour précédent.	
-GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE	Cristaux de mana verrouillés	
+GAMEPLAY_TOOLTIP_MANA_LOCKED_DESCRIPTION	{0} |4(cristal,cristaux) de mana en <b>Surcharge</b> au tour précédent.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_LOCKED_HEADLINE	Cristaux de mana verrouillés	
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION	{0} |4(cristal,cristaux) de mana en <b>Surcharge</b>.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE	Surcharge	
 GAMEPLAY_TOT_109t_STASIS_DRAGON_1	Se réveille avec <b>Ruée</b> au bout de deux tours.	
 GAMEPLAY_TOT_109t_STASIS_DRAGON_2	Se réveille avec <b>Ruée</b> dans encore un tour.	
 GAMEPLAY_TRLA_TROLL_SHRINE_1	Tours avant\nréactivation :_3.	

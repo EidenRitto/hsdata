@@ -1833,7 +1833,7 @@ VO_DALA_BOSS_06dk_Male_Goblin_EmoteResponseWellPlayed_01	Godny z ciebie przeciwn
 VO_DALA_BOSS_06dk_Male_Goblin_EmoteResponseWow_01	Zadziwiające!	
 VO_DALA_BOSS_06dk_Male_Goblin_HeroPower_01	Lok'narosh!	
 VO_DALA_BOSS_06dk_Male_Goblin_HeroPower_02	Żadnej litości!	
-VO_DALA_BOSS_06dk_Male_Goblin_HeroPower_03	Grzmot i jucha!	
+VO_DALA_BOSS_06dk_Male_Goblin_HeroPower_03	Grzmot i_jucha!	
 VO_DALA_BOSS_06dk_Male_Goblin_Idle_01	Hmmm... Zastanawiam się...	
 VO_DALA_BOSS_06dk_Male_Goblin_Idle_02	Co teraz...	
 VO_DALA_BOSS_06dk_Male_Goblin_Idle_03	Czas leci...	
@@ -2175,7 +2175,7 @@ VO_DALA_BOSS_22h_Female_Pandaren_Northrend_Boss5_Exchange2_01	Wasza czwórka nab
 VO_DALA_BOSS_22h_Female_Pandaren_Northrend_Boss5_Exchange3_01	Połowa książek z biblioteki zaginęła z waszej winy.	
 VO_DALA_BOSS_22h_Female_Pandaren_Northrend_Boss5_Exchange3Response2_01	CIII!	
 VO_DALA_BOSS_22h_Female_Pandaren_Northrend_Boss5_Exchange4_01	Lepiej odkryj sposób na oddawanie książek w terminie.	
-VO_DALA_BOSS_22h_Female_Pandaren_Northrend_Boss5_Start_01	 Jeśli chodzi o te kary do zapłacenia...	
+VO_DALA_BOSS_22h_Female_Pandaren_Northrend_Boss5_Start_01	Jeśli chodzi o te kary do zapłacenia...	
 VO_DALA_BOSS_22h_Female_Pandaren_Northrend_Boss5_Start_02	…czas je uregulować, podli przetrzymywacze!	
 VO_DALA_BOSS_22h_Female_Pandaren_PlayerBabblingBook_01	Nawet twoje KSIĄŻKI bełkoczą?	
 VO_DALA_BOSS_22h_Female_Pandaren_PlayerBattlecry_01	Czy twoi znajomi muszą być tak głośno?!	
@@ -7273,6 +7273,7 @@ VO_Rakanishu_Male_Elemental_CastSpell5_01	Wszystko spłonie!
 VO_Rakanishu_Male_Elemental_EventRagnaros_02	Mój bohater!	
 VO_Rakanishu_Male_Elemental_FF_Start_02	Widział ktoś Ragnarosa? Czy jestem za wcześnie? <śmiech>	
 VO_Rakanishu_Male_Elemental_Intro_01	Zniszczyć! Zabrać skarb!	
+VO_SCH_507_Female_Human_Play_01	Nigdy nie bój się swojej wewnętrznej mocy.	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareDeath_02	Bo zupa była za słooona...	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareEmoteResponse_01	Nadszedł czas polerowania!	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareForkedLightning_01	Lubisz widelce? Mam widelce!	
@@ -7280,6 +7281,550 @@ VO_SilverwareGolem_Male_SilverwareGolem_SilverwareHeroPower_01	Przygotujcie sto�
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareKnifeJuggler_01	Och, rzut nożem!	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareOpen_01	Taniec to świetna zabawa!	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwarePlateTossing_01	Talerz dla ciebie, i dla ciebie, i dla ciebie też!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Death_01	<Zgon>	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8EmoteResponse_01	O co ci chodzi?	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8ExchangeB_01	Całkowicie oszalałaś.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8ExchangeC_01	Kirin Tor jest ponad konfliktem Hordy i Przymierza.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8ExchangeD_01	Nie mam pojęcia o czym teraz mówisz!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8HeroPower_01	Diel fin'al!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8HeroPower_02	Czas rozpalić ogień!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8HeroPower_03	Anar'alah belore!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Idle_01	Opamiętaj się, arcymagini!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Idle_02	Nie wiem, kto zwrócił się przeciwko tobie, ale to nie byłem ja.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Idle_03	Słońcobójcy zawsze wiernie służyli Kirin Torowi.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Intro_01	To także NASZE miasto, Proudmoore.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Loss_01	Teraz chyba rzeczywiście cię zdradziłem... jakoś będę z tym żył.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6EmoteResponse_01	Masz nas za głupich?	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6ExchangeB_01	Czeka cię klatka, mieszańcu.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6ExchangeC_01	Straciliście mnóstwo wojowników. Ten jeden nie zrobi różnicy.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6HeroPower_01	Walcz dla nas!	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6HeroPower_02	Będzie nam go brakowało.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6HeroPower_03	Słuchaj swego chana.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Idle_01	Żaden z ciebie sojusznik taurenów. Dlaczego chcesz go uratować?	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Idle_02	Jeszcze nigdy nie porwaliśmy pół orka, pół ogra...	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Idle_03	To nie jest kraj dla taurenów. Ani dla ciebie.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Intro_01	Tauren jest nasz, głupcze.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Loss_01	Przeklęte mieszańce…	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4EmoteResponse_01	Hhrrww!	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4HeroPower_01	Hhrrww!	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4HeroPower_02	Hraaww!	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4HeroPower_03	Uyyuhgh!	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4Loss_01	Hhrrww!	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1EmoteResponse_01	Dzielisz się uczuciami? To krok do przodu.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeA_01	Chyba nie chcesz, żebym cię do tego zmusiła.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeB_01	Nasza przeszłość, przodkowie – są we wszystkim.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeC_01	Jak na takiego silnego młodziana jesteś zaskakująco delikatny.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeD_01	To nieprawda. Dokonujesz własnych wyborów.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1HeroPower_01	Weź głęboki oddech...	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1HeroPower_02	Powrót do zdrowia to długi proces.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1HeroPower_03	Nadzieja bierze się z wnętrza.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Idle_01	Nasz lud ucierpiał z powodu czerwonej ospy, lecz ostatecznie zaraza okazała się naszym wybawieniem.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Idle_02	My Mag'harowie nie mamy zielonej skóry, bo nie napiliśmy się krwi demonów.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Idle_03	Gdy nasi pobratymcy na ciebie patrzą, widzą twojego ojca, ale to się zmieni.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Intro_01	Garoszu, przynoszę dobre wieści.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Loss_01	Słuchaj i ucz się. W odpowiednim czasie twoje życie się odmieni.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Victory_01	Koniec tego odwlekania! Wysłuchaj mojego wnuka. Przybył z bardzo daleka.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7EmoteResponse_01	Jak do tego doszło, że zboczyłeś ze swej ścieżki?	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7ExchangeB_01	Nie pozwolę ci na to. Klnę się na Światłość!	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7ExchangeD_01	Mogu wykuli Boski Dzwon, by siać chaos. Pandareni stworzyli Młot Harmonii jako jego przeciwwagę.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7ExchangeD_02	Ten młot pozostawał w ukryciu przez tysiące lat – aż do dzisiaj.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7HeroPower_01	Niech wybrzmi harmonia!	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7HeroPower_02	Narodziła się nowa pieśń.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7HeroPower_03	Ta melodia cię uleczy.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Idle_01	Sam opracowałem ten plan. Czy to... oczywiste?	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Idle_02	Nie mieliśmy jeszcze przyjemności. Jestem... Anduin Wrynn!	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Idle_03	Chcę ci tylko pomóc. Sza są niebezpieczne.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Intro_01	Stój, Garoszu! Nie wiesz, co potrafi ten dzwon!	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Loss_01	Tyle trudu, a jedynie sprowadziłeś na siebie klęskę.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1EmoteResponse_01	Skupmy się na bieżących sprawach.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeB_01	Rzeczywiście, nawet nieźle!	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeC_01	Jest mnóstwo szanowanych magów, którzy mogli by cię szkolić.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeC_02	Aaa... Przez grzeczność nie zaprzeczę…	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeD_01	Myślałaś o wstąpieniu na nauki do arcymaga Kel'Thuzada?	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1HeroPower_01	Przeróbmy zaawansowany materiał...	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1HeroPower_02	Musisz się jeszcze wiele nauczyć.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1HeroPower_03	Aha!	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Idle_01	Moje badania dla Kirin Toru pochłaniają mnóstwo czasu.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Idle_02	Jesteśmy w stanie wojny z orczymi najeźdźcami. Te sprawy zaprzątają moją uwagę.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Idle_03	Wyczuwam w tobie coś wyjątkowego, panno Jaino.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Intro_01	Obawiam się, że nie mam na to czasu, moja droga.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Loss_01	Wybacz mi, panno Jaino. Jestem pewien, że z czasem zostaniesz wspaniałą czarodziejką.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Victory_01	No dobrze, panno Jaino. Przekonałaś mnie. Nie wyobrażam sobie lepszej kandydatki na uczennicę.	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Death_01	<Zgon>	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5EmoteResponse_01	Żałosny śmiertelnik!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5ExchangeA_01	Nie brak ci odwagi, skoro ośmielasz się stanąć przeciw mnie.	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5ExchangeA_02	Gdyby wszyscy ludzie byli tak dzielni, ścieranie was z powierzchni tego świata sprawiałoby mi jeszcze więcej przyjemności!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5ExchangeB_01	Gdybym wiedział, że opór śmiertelników będzie tak marny, wysłałbym moje armie już wieki temu!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5HeroPower_01	Wasz opór jest bez znaczenia!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5HeroPower_02	Pochłoniemy wszelkie stworzenie!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5HeroPower_03	Ten świat pochłonie ogień!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Idle_01	Jesteście niczym w obliczu mojej potęgi.	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Idle_02	Opłakuj przemijanie wszystkiego, co znasz.	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Idle_03	Cały twój trud pójdzie na marne.	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Intro_01	Nadszedł czas rozliczenia!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Loss_01	Wkrótce serce tego świata zabije po raz ostatni...	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3EmoteResponse_01	Tym razem to na mnie nie zadziała.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3ExchangeA_01	Ty zaczęłaś. Zostaje nam tylko pojedynek.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3ExchangeB_01	Zaczynasz brzmieć jak Uther.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3ExchangeD_01	Będę walczył za moje królestwo. Tego oczekuje ode mnie lud.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3HeroPower_01	Spójrz na to z_mojej perspektywy.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3HeroPower_02	Jestem pod ogromną presją!	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3HeroPower_03	Nikt mnie nie rozumie!	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Idle_01	Nie cierpię się z tobą kłócić.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Idle_02	Musimy dojść do porozumienia, Jaino. Zależy od tego nasza wspólna przyszłość.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Idle_03	Ta zaraza to najgorsza rzecz, jaką kiedykolwiek widziałem. Lordaeron jest o krok od upadku.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Intro_01	Nie sądzisz, że mam wystarczająco dużo na głowie i bez twoich oskarżeń?!	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Loss_01	Jakaś część mnie wie, że masz rację... Po prostu nie wiem, co innego mógłbym zrobić.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Victory_01	Ja… przepraszam... Gdy to wszystko się już skończy, znów będzie jak dawniej. Obiecuję.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2EmoteResponse_01	Walcz! Nie rozmawiaj.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeA_01	Jesteś jednym z mok'nathalów, czyż nie?	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeB_01	Mógłbym zmiażdżyć twój klan w mgnieniu oka.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeC_01	Ha! Wojna rządzi się swoimi prawami, chłopcze. Orkowie wiele poświęcili...	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeC_02	Jeśli mnie pokonasz, rozważę twoją prośbę.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeD_01	Dobrze walczysz jak na mok'nathala. Przydałby mi się tak silny wojownik.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2HeroPower_01	Za Hordę!	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2HeroPower_02	Drżyj przede mną!	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2HeroPower_03	Nie wystawiaj na próbę mojej cierpliwości.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Idle_01	Potęga Hordy jest wykuta z krwi i strachu.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Idle_02	Mój klan został stworzony do wielkich czynów... Podbijemy wszystkich. To będzie nasze dziedzictwo.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Idle_03	Siła to jedyne prawo, którego wszyscy muszą przestrzegać.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Intro_01	Rozmowy są dla słabeuszy. Chcesz być wysłuchany, to walcz.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Loss_01	Jesteś marnym półorkiem, niegodnym mojej uwagi.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Victory_01	Dosyć! Przekonałeś mnie. W zamian jednak musisz służyć Hordzie.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5EmoteResponse_01	Obawiam się, że dojdziemy do porozumienia tylko przez walkę.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5ExchangeA_01	Nie jesteś taki sprytny, jak ci się wydaje.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5ExchangeB_01	Walczę nie tylko za siebie. Walczę o przyszłość Hordy.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5ExchangeC_01	Zawsze kierowałem się w życiu honorem. Możesz zaufać moim radom.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5HeroPower_01	Ishne'alo'porah!	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5HeroPower_02	Za honor!	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5HeroPower_03	Uszanuj nasze obyczaje.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Idle_01	Powinieneś uczyć się od starszych, a nie walczyć z nimi!	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Idle_02	Sympatia, jaką darzył cię Thrall, przysłoniła mu twoje prawdziwe oblicze.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Idle_03	Gdybyś tylko słuchał równie dobrze, jak walczysz.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Intro_01	Matko Ziemio… wesprzyj mnie w walce.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Loss_01	Niszczyć jest łatwo. Ale stworzyć coś trwałego – oto prawdziwe wyzwanie.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission5Victory_01	Ach, Jaino. Nareszcie cię odnalazłem!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission5Victory_02	Cóż za naiwność, moje dziecko. Odsuń się, muszę pozbyć się ścierwa.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7EmoteResponse_01	Nie wiem, jak moja córka mogła cię tolerować.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7ExchangeE_01	Banda potworów!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7ExchangeF_01	Nie macie pojęcia, co to znaczy bronić swojego domu, swoich bliskich. Porzuciliście swój świat, aby zniszczyć nasz.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7HeroPower_01	Ognia!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7HeroPower_02	Uderzać w słabe punkty!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7HeroPower_03	Wyeliminować ich!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Idle_01	Pokój jest jak sen. Piękny, ulotny i nieosiągalny.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Idle_02	Szkoda, że moja córka nie potrafi oceniać innych tak dobrze jak ja.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Idle_03	Horda zabiła mojego syna. Moją krew. Nigdy im nie wybaczę.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Intro_01	Chodźcie, dzikusy! Zapłacicie za to, co zrobiliście! Zapłacicie za Wichrogród i Lordaeron!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Loss_01	Wiedziałem. Te dzikusy nie potrafią ze sobą współpracować.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5EmoteResponse_01	Powierzchniowcy są tacy dziwni!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5ExchangeF_01	Dosssyć tego!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5ExchangeG_01	Odzyssskamy nasze ziemie.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5HeroPower_01	Athero bathre'las!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5HeroPower_02	Za Nazjatar!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5HeroPower_03	Stań do walki z burzą!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Idle_01	Człowiek i półork razem? Hehehe. Co za nonsens.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Idle_02	Wasze małostkowe spory nic dla mnie nie znaczą.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Idle_03	Dno i metr mułu.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Intro_01	Morza są nasze!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Loss_01	Kiedyś świat był nasz... i wkrótce znów będzie.	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4Death_01	<Zgon>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4EmoteResponse_01	<Żywiołowe warknięcie>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4HeroPower_01	<Żywiołowa reakcja>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4HeroPower_02	<Żywiołowa reakcja>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4HeroPower_03	<Żywiołowa reakcja>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4Loss_01	<Żywiołowa reakcja>	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1ExchangeB_01	Wszystkie twoje „wieści” dotyczą przeszłości. Mam tego dość.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1ExchangeC_01	Po prostu nie chcę więcej słuchać o moim ojcu i jego zbrodniach!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1ExchangeD_01	Wiem, czyja krew we mnie płynie… Jestem zagrożeniem dla naszego ludu.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1Intro_01	Nie mam ochoty tego słuchać.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1Victory_01	Zdjąłeś z moich ramion ogromne brzemię... Dziękuję ci, Thrallu.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2ExchangeA_01	A ja nie zaakceptuję słabości!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2ExchangeB_01	Słowa zazdrości z ust słabego wroga.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2ExchangeC_02	Widzę Hordę taką, jaka powinna być – silną i śmiałą.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2Intro_01	Nie jestem już chłopcem. Kompromisami i kapitulacją tylko osłabiasz Hordę!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2Victory_01	Następnym razem zastanów się, czy chcesz mi wchodzić w drogę.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3ExchangeA_01	Horda nie będzie dłużej tolerować waszej agresji!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3ExchangeB_01	Twój gatunek pozostanie jedynie lichym wspomnieniem.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Intro_01	Zmieciemy twoich pobratymców z powierzchni ziemi raz na zawsze.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3PeonInfo_01	Mogę przyzywać peonów, jeśli będę potrzebował większej armii.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Summon_01	Naprzód, peonie!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Summon_02	Napierać na wroga!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Summon_03	Do boju!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Victory_01	Udało nam się odeprzeć armię Plagi i zabezpieczyć przyczółek na Północnej Grani.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4ExchangeA_01	Thrall ewakuował tych, którzy nie mogą walczyć. Będą bezpieczni.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4ExchangeB_01	Zmiażdżyć te żywiołaki! Wypędzić je z naszej ziemi!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4ExchangeC_01	Thrallu, co tam się może dziać?	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4Intro_01	Wokół miasta otworzyły się szczeliny, z których atakują żywiołaki. Muszę jak najszybciej je zamknąć!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4Victory_01	Nie zawiodę cię, wodzu.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5ExchangeA_01	Zacne zagranie. Wygląda na to, że tylko twój umysł jest powolny.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5ExchangeB_01	Ha!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5ExchangeC_01	Chciałeś chyba powiedzieć „tchórzostwem”. I nie ufam ci ani trochę.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5Intro_01	Chcesz ze mną walczyć, starcze?	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5Victory_01	Wielki Kairn Krwawe Kopyto został pokonany! Dobrze się zastanówcie, zanim znów zakwestionujecie moją władzę!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5Victory_02	Chwila... czy to nie było ZBYT łatwe?	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeA_01	Napierać na bramy!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeB_01	Bramy zniszczone! Uderzać na Przymierze!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeC_01	Natychmiastowa kapitulacja.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeD_01	Ten wasz „pokój” okazał się żałosnym kłamstwem!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ExchangeA_01	Haha... a więc ostatecznie to nie Varian, lecz jego szczeniak, staje ze mną twarzą w twarz.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ExchangeA_02	Dzielnie gnasz na spotkanie śmierci, młodzieńcze.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ExchangeB_01	A więc powstrzymaj mnie, człowieczku.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7Intro_01	Dzięki Boskiemu Dzwonowi wyplenię wszelką słabość z wojowników Hordy!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ShaCallout_01	Walcz z sza! Opanuj go! Wykorzystaj!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ShaCallout_02	Zwątpienie to oznaka słabości!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ShaCallout_03	Kontroluj swoją nienawiść, swój strach!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7Victory_01	Giń, szczeniaku! Przymierze musi być zdesperowane, skoro wysyła przeciwko mnie dzieci.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeA_01	Moi mroczni szamani wypaczyli żywioły. Teraz cię nie usłyszą.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeB_01	Złość, nienawiść, strach! Oto broń potrzebna na wojnie – narzędzia godne wodza Hordy!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeB_02	Tak... Widzę przyszłość tego świata... świata rządzonego przez Hordę... MOJĄ Hordę.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeC_01	Usłysz wezwanie przedwiecznego.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Intro_01	Odchodząc, zdradziłeś nasz lud. A teraz zdradzasz mnie!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Victory_01	Powaliłem go. Niegdysiejszy wódz Hordy leżał ogłuszony na ziemi.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Victory_02	Awanturnicy Thralla cudem zdołali mnie pokonać i uwięzić... na jakiś czas.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Victory_03	Ale pokazałem im wszystkim, co to znaczy zaznać chwały na polu walki... być orkiem i wojownikiem... być PIEKŁORYCZEM!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission1_01	Moje życie rozpoczęło się w cieniu klątwy. Wiele lat temu mój ojciec był pierwszym orkiem, który wypił krew demonów i wypaczył Hordę.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission1_02	Poprowadził orków na wojnę, zostawiając w domu jedynie słabych i chorych.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission1_03	Dopiero po wielu latach, poznałem prawdę o tym, jak mój ojciec odkupił swoje winy.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission2_01	Thrall zaproponował mi, bym towarzyszył mu podczas wyprawy na Azeroth.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission2_02	Byłem gotów kontynuować wielkie dzieło mojego ojca, lecz pozostali doradcy Thralla nie byli tego tacy pewni...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission3_01	Gdy Plaga zaatakowała, miałem szansę dowieść wszystkim słuszności mojej strategii.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission3_02	Thrall wysłał mnie na Północną Grań, abym poprowadził siły Hordy i wyeliminował naszych wrogów.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission4_01	Powróciłem do Orgrimmaru, gdzie powitano mnie jak bohatera. Spokój nie trwał długo – wkrótce miasto zaatakowały oszalałe żywiołaki.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission4_02	Rwałem się do walki, by po raz kolejny dowieść mojego męstwa.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission5_01	Doradcy Thralla obiecali, że będą mnie wspierać, lecz zwrócili się przeciwko mnie, gdy tylko wyruszył.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission5_02	Jeden z nich, Kairn Krwawe Kopyto, był tak bezczelny, że wyzwał mnie na mak'gorę... pojedynek o przywództwo w Hordzie.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission6_01	Magata pomogła mi wygrać mak'gorę i splamiła mój honor. Za karę została wygnana przez taurenów.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission6_02	Wiedziałem, że Horda może osiągnąć coś wielkiego, jeśli zjednoczymy wszystkie siły.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission6_03	Na początek musieliśmy zabezpieczyć nasze ziemie, eliminując siły Przymierza na Theramore...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission7_01	Siły Przymierza rwały się do zemsty, ale póki mieliśmy przewagę, nic nie mogli zrobić.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission7_02	Aby ją zapewnić, wyruszyłem do Pandarii w poszukiwaniu pewnego artefaktu, Boskiego Dzwonu. Wróg szybko zaczął utrudniać sprawę…	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission8_01	Z wielkim trudem znalazłem inny, potężniejszy artefakt: serce Y'shaarja. Lecz zdrajcy w szeregach Hordy bali się mojej mocy.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission8_02	Wojownicy, którzy mieli służyć mnie, zwrócili się do Thralla, błagając go o powrót.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Hero_GarroshAttack_01	Na honor!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Hero_GarroshConcede_01	Nieważne.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Hero_GarroshThreaten_01	Nie mam do tego cierpliwości.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6EmoteResponse_01	Nie zmienisz tego, co się stanie.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6ExchangeA_01	Zatem bądź gotowa na konsekwencje.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6ExchangeB_01	To nieistotne.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6HeroPower_01	Theramore upadnie!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6HeroPower_02	Zmiażdżę cię!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6HeroPower_03	Zwycięstwo albo śmierć!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Idle_01	Nigdy nie poznałaś prawdziwej Hordy.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Idle_02	Twój ojciec nas zaatakował. Ty zrobisz to samo...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Idle_03	Thrall siedział u twoich stóp jak posłuszny piesek. Ja taki nie będę!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Intro_01	Nastał czas nowego wodza.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Loss_01	Pod moim przywództwem Horda podbije wszystko…	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Victory_01	A teraz nasza ostateczna broń!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8EmoteResponse_01	Coooooo?	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8ExchangeC_01	Słaba krew. Mały jak ork, śmierdoli jak ogr.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8ExchangeD_01	Pułapki niedobre!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8ExchangeE_01	Wzioł z zaskoczenia.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8HeroPower_01	Rrrrr!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8HeroPower_02	Ja wielki gronn!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8HeroPower_03	Ty na mnie za mały!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Idle_01	Ja syn Gruula Smokobójcy. Też tłuc smoki. Paszczom, a potem połykać.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Idle_02	Krwawe Młoty sie mnie słuchajom. A mok'nathale słuchajom sie Krwawych Młotów.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Idle_03	Ładny masz dźwiedź. Gorgrom lubić dźwiedzie.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Intro_01	Kto tyrpie Gorgroma?	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Intro_02	Jakiś mały bohater.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Loss_01	Małe słabiaki nie tyrpać wielkiego Gorgroma.	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4EmoteResponse_01	CICHO!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4ExchangeA_01	Żadna klatka mnie nie zatrzyma.	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4ExchangeB_01	Milcz, różowoskóra.	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4HeroPower_01	Gdzie jest Rzezimiot?!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4HeroPower_02	Rrrrraaaaaa!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4HeroPower_03	Posmakuj mego ostrza!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Idle_01	Nic nie może się równać z mocą, którą dały nam demony!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Idle_02	Krwawa mgła spowija wszystko...	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Idle_03	Zostawiłem mój dom... schorowanego syna... wszystko dla chwały!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Intro_01	Wynoś się z tej krainy, różowoskóra.	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Intro_02	Zawsze jesteśmy o krok przed wami.	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Loss_01	Co mnie opętało? Nie chciałem tego zrobić...	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Victory_01	Mój umysł jest teraz wolny. Wybacz... Wybacz mi, błagam.	
+VO_Story_Hero_Jaina_Female_Human_Error_Hand_Full_01	Mam za mało miejsca.	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6EmoteResponse_01	Byłoby dużo łatwiej, gdybyśmy spróbowali negocjacji.	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6ExchangeC_01	Czy istnieją warunki, które byś przyjął?	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6ExchangeD_01	Wchodzisz na ścieżkę, z której nie ma powrotu.	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6HeroPower_01	Za Theramore!	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6HeroPower_02	Zmusiłeś mnie do tego!	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6HeroPower_03	Ufałam Thrallowi. Dlaczego chcesz to odrzucić?	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Idle_01	Nie wiesz, że okrywasz Thralla wstydem?	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Idle_02	Mieszkańcy Theramore chcą tylko pokoju.	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Idle_03	Po co ta walka? I bez tego mamy wystarczająco wielu wrogów.	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Loss_01	Dzięki Światłości! Theramore jest bezpieczne...	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Victory_01	Horda zapłaci za ten dzień.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeA_01	Zrobię co w mojej mocy, żeby pomóc.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeB_01	Mam nadzieję, że mi ufasz.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeC_01	Nasz pokój w przyszłości zależy od tego, co tu znajdziemy. Niepokoi mnie to.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeD_01	Nie różnimy się tak bardzo. Myślę, że nasze ludy pragną tego samego.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeE_01	Rozpoznaję tego piechura... Chyba już wiem, co tu się dzieje.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeE_02	Wytłumaczę później.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5Intro_01	Musimy się ich pozbyć. Wtedy dowiemy się, co się tu naprawdę wydarzyło.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5Victory_01	Ojcze. Wiedziałam, że to twoja sprawka. Musisz zrozumieć, że Horda nie jest już naszym wrogiem.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5Victory_02	Rexxarze, uciekaj!	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission7ExchangeA_01	Thrallu, Rexxarze... Wiedzcie, że nie miałam z tym nic wspólnego.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission7ExchangeA_02	Wiem. Zróbcie, co uznacie za słuszne.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeA_01	Udowodnię ci moją wartość!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeB_01	Nawet na moim ojcu zrobiło to wrażenie! A przecież jemu nic się nigdy nie podoba.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeC_01	Ale ja chcę, żebyś to był ty! Jesteś najlepszy!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeD_01	Tylko nie on. Aż mnie ciarki przechodzą na samą myśl.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1Intro_01	Proszę, przyjmij mnie jako swoją uczennicę!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1Victory_01	Naprawdę? Dziękuję!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2ExchangeA_01	A... no dobrze...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2ExchangeB_01	Wolałabym o tym zapomnieć.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2ExchangeC_01	Po prostu nie chcę spopielić więcej literatury.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2Intro_01	Oczywiście, wasza wysokość.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2Victory_01	Dziękuję za propozycję, ale na razie moje miejsce jest w Dalaranie.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeA_01	Przecież cię nie oskarżam! Nie musisz mnie atakować.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeB_01	Jesteś człowiekiem wiary. Nie musisz darzyć wroga taką nienawiścią...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeC_01	Utherowi po prostu na tobie zależy... Mnie także.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeD_01	Rozumiem. Ale możliwe, że tej zarazy nie da się pokonać siłą.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3Intro_01	Martwię się o ciebie, Arthasie. Ostatnio nie jesteś sobą.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3Victory_01	Skoro tak twierdzisz.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4ExchangeA_01	Udało ci się uciec z obozu internowania?	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4ExchangeB_01	Wyczuwam w tobie mroczną magię... Zostałeś spaczony.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4ExchangeC_01	A więc musimy go poskromić... Połączmy siły.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4Intro_01	Nigdy! Skąd się tu w ogóle wzięliście?	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4Victory_01	Jeśli będziemy współpracować, być może uda nam się powstrzymać plany demonów.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5ExchangeA_01	Czy wy, demony, umiecie tylko gadać?	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5ExchangeB_01	Hm... niczego nie podejrzewa.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5Intro_01	Zaiste. Lecz to ty zostaniesz rozliczony.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5Victory_01	Stało się to na co liczyliśmy. Gdy Archimond zorientował się, że to pułapka, było już dla niego za późno.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6ExchangeA_01	Nie sprowokujesz mnie do agresji!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6ExchangeB_01	Ufałam Thrallowi. Dlaczego chcesz to odrzucić?	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6ExchangeC_01	Kiedyś wierzyłam w pokój, więcej nie popełnię tego błędu. Teraz wiem, do czego mogą się posunąć.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6GatesAttacked_01	Wzmocnić nasze bramy!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6GatesAttacked_02	Bramy wkrótce padną!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6GatesGone_01	Nasze bramy są zniszczone...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6Intro_01	Nasze ludy żyły w pokoju przez wiele lat. Mieliśmy umowę z wodzem Hordy!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6Victory_01	Nie porzucę moich ludzi!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7ExchangeA_01	Twój wódz zrównał Theramore z ziemią! Zniszczył wszystko!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7ExchangeB_01	Cała Horda to potwory, Thrallu. Ty sam mnie zawiodłeś.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7ExchangeC_01	Nie pojmiesz tego. Nie było cię tam. Nie widziałeś, co zrobili Theramore... co zrobili mnie.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7Intro_01	Jak śmiesz mnie tak nazywać?! To wszystko twoja wina, Thrallu...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7Victory_01	Nie... nie pozwolę, by uszło im to na sucho.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7Victory_02	Dobrze... ale niech wie, że już nigdy nie będzie moim sojusznikiem.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeA_01	Ha! No dobrze. W takim razie usunę was stąd siłą.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeB_01	Nie, postanowiłam w końcu zaakceptować prawdę.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeC_01	Nie. Nie, gdy wbijasz mi nóź w plecy!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeD_01	Pomogłeś Garoszowi a tego nigdy ci nie wybaczę.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Intro_01	Zdradziłeś Kirin Tor, Słońcobójco. Ty i tobie podobni nie jesteście tu już nile widziani.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Victory_01	W końcu uwolniłam się od Hordy oraz brzemienia, jakim było utrzymywanie chwiejnego pokoju.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Victory_02	Bywały momenty, gdy marzyłam o wcielaniu w życie dawnych ideałów, ale to już melodia przeszłości.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Victory_03	Stałam się osobą, którą musiałam się stać – taką, która w obliczu niekończącej się wojny jest wcieleniem zdecydowania, nie łagodności.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission1_01	Wszystko się zmienia. Tym właśnie jest magia – transformacją, stworzeniem... zniszczeniem.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission1_02	Lecz choć potrafię nią władać, nigdy nie zdawałam sobie sprawy, jak mocno sama odczuję zmianę – zmianę ideałów\ni wartości, w które wierzyłam.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission1_03	Wychowałam się na Kul Tiras. Mój talent magiczny rozwijał się, a ja zapragnęłam uczyć się pod okiem arcymaga Antonidasa w Dalaranie.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission2_01	Antonidas był dobrym i cierpliwym nauczycielem. Robiłam postępy\nw niesamowitym tempie, lecz rosła także presja, którą odczuwałam.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission2_02	Spędzałam kolejne dni z magami, którzy byli ode mnie dużo starsi i potężniejsi. W związku z tym bywało niezręcznie...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission3_01	Nie mogłam powiedzieć Kael'thasowi, że moje serce należy do innego księcia – Arthasa. Nasze drogi miały się znów skrzyżować, kiedy zaraza zaczęła opanowywać Lordaeron.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission3_02	Wspólnie wyruszyliśmy, by znaleźć jej źródło. Ale z każdym dniem stawało się dla mnie coraz bardziej jasne, że go tracę.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission4_01	Ciemność, którą wyczułam u Arthasa, była sprawką demonów. Wypaczyły jego duszę, przemieniając go w Króla Lisza...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission4_02	A on robił to, czego od niego chciały. Niszczył własne królestwo. Antonidas powierzył mi zadanie ewakuowania ludności cywilnej za morze.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission4_03	Jednak nawet tam dało się odczuć wpływ demonów, wyjątkowo silny.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission5_01	Miałam rację. Los połączył nas w samą porę, byśmy wspólnie zmierzyli się z potężnym wrogiem: Archimondem.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission5_02	Sprzymierzyliśmy się z nocnymi elfami, a demon ruszył ku Drzewu Świata, by je splugawić.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission5_03	To była nasza szansa, by zastawić na niego pułapkę... i zniszczyć go.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission6_01	Nasze przymierze z nocnymi elfami wytrzymało próbę czasu, lecz Horda podążyła inną ścieżką.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission6_02	Pomimo wielu przeszkód, wliczając próbę wywołania wojny przez mojego ojca, pozostałam lojalna wobec Thralla i_dbałam o nasz kruchy pokój.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission6_03	Wtedy jednak Thrall zrezygnował z_dalszego przewodzenia Hordzie a jego miejsce zajął... potwór. Zaatakował nas przy pierwszej okazji.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission7_01	Choć pokonana, nie byłam bezradna. Odnalazłam sposób, by pomścić ofiary... zaklęcie, które mogło zebrać moc konieczną do zniszczenia całego Orgrimmaru.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission7_02	Tylko jedna osoba mogła mi w tym przeszkodzić.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission8_01	Tego dnia Kaleg zdołał mnie powstrzymać. Jednak kolejna zdrada ze strony Hordy była wyłącznie kwestią czasu.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission8_02	Zostałam przywódczynią Kirin Toru. Co dało mi możliwość i prawo wygnać ich z Dalaranu. Na zawsze.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Threaten_01	Musisz wszystko utrudniać?	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission1EmoteResponse_01	Cóż za czarująca myśl.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeA_01	Mów mi Kael.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeB_01	Nie tak dawno zdarzało ci się nieumyślnie podpalać książki!	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeC_01	Widzę, że ciągle wolisz magię lodu.\nDo mnie przemawia ogień!	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeC_02	Haha, ma to sens.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2HeroPower_01	Ot, sztuczka!	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2HeroPower_02	Zaimponowałem ci?	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2HeroPower_03	Spójrz tylko na to!	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Idle_01	Niełatwo być księciem, ale ktoś musi nieść to brzemię.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Idle_02	Moja ojczyzna to przepiękne miejsce, ale ty przydałabyś jej jeszcze więcej uroku.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Idle_03	To miła odmiana spędzać czas z kimś, kogo nie onieśmielam.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Intro_01	Czy mógłbym prosić\no małą próbkę umiejętności, lady Proudmoore?	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Loss_01	Ubolewam, że tak wyszło, a słyszałem o tobie tyle dobrego.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Victory_01	Niesamowicie się rozwinęłaś, Jaino. Koniecznie musisz odwiedzić kiedyś ze mną Srebrną Lunę.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1EmoteResponse_01	Lepiej zamilcz.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeA_01	Mój własny syn śmie tak mówić?! Oduczę cię nieposłuszeństwa.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeB_01	Nie dojdzie do tego, jeśli będziemy siedzieć cicho.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeC_01	Jesteśmy pół ogrami, pół orkami. Obcy nigdy nas nie przyjmą.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeD_01	Góry zapewnią nam kryjówkę i schronienie. To wystarczy!	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeE_01	Myślisz jak oni. Nie tak cię wychowałem.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1HeroPower_01	Słuchaj mnie!	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1HeroPower_02	Bądź posłuszny.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1HeroPower_03	Ojciec wie lepiej!	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Idle_01	Uwierz w pokój. Nie ma bezpieczniejszej drogi.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Idle_02	Boję się, że kroczysz mroczną ścieżką, mój synu.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Idle_03	Ta ziemia nas karmi. Bestie nas słuchają. Czego więcej chcesz?	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Intro_01	Zaufaj naszym obyczajom. Zawsze dobrze nam służyły.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Loss_01	Mądrość ojca jest surowa, lecz sprawiedliwa.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Victory_01	Dowiodłeś, że nie ma tu dla ciebie miejsca. Idź precz.	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3EmoteResponse_01	Ghrrrr!	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3HeroPower_01	Rwwrrr!	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3HeroPower_02	Grwaw!	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3HeroPower_03	Rrrrr!	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3Intro_01	Graaaa!	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3Loss_01	Hrrrrrrrm.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2EmoteResponse_01	Tak zwracasz się do starszych?	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2ExchangeA_01	Nie będę się godził na taki brak szacunku!	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2ExchangeB_01	Thrall nie powinien był mianować cię doradcą. Każdy widzi, że nie masz o niczym pojęcia!	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2ExchangeC_01	Powiódłbyś nas ku bezsensownej wojnie.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2HeroPower_01	Poczuj, jak drży ziemia!	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2HeroPower_02	Jestem tarczą Hordy!	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2HeroPower_03	Niech ziemia pochłonie moich wrogów!	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Idle_01	Thrall kocha tylko odbicie twojego ojca, które w tobie widzi.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Idle_02	Powinieneś czyścić buty peonom. To by cię nauczyło szacunku.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Idle_03	Pokój osiąga się przez negocjacje. Nawet dzieci to wiedzą.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Intro_01	Dlaczego zawsze podważasz moje słowa, chłopcze?	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Intro_02	Głupi Mag'har…	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Loss_01	Poproszę Thralla, by wysłał cię z powrotem na Draenor, tam, gdzie twoje miejsce.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Victory_01	Pewnego dnia zapłacisz za swoją bezczelność...	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Attack_01	Nie dajesz mi wyboru.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Greetings_01	Witaj!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1ExchangeB_01	Horda jest potężna. Mogą zmiażdżyć nas w każdym momencie, tak jak zmiażdżyli draenei.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1ExchangeC_01	Mimo to musimy spróbować.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1ExchangeD_01	Nasz klan jest zbyt mały. Mamy niewielu sojuszników.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1Intro_01	Narodziny Hordy zmieniają wszystko. Musimy opowiedzieć się po jednej ze stron!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1Victory_01	Dowiodłem swoich racji!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2ExchangeA_01	Tak. To w ich imieniu przychodzę.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2ExchangeB_01	Musisz ich oszczędzić!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2ExchangeC_01	Wiem o tym. Ale mój lud nie jest gotowy na takie poświęcenia.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2Intro_01	Wodzu Czarnoręki! Możemy porozmawiać?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2Intro_02	Zatem walczmy.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2Victory_01	Niech tak będzie.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeA_01	Minęło trochę czasu, odkąd spotkałem „cywilizowaną” istotę.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeB_01	Walczysz, bo się boisz. To tak, jak ja.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeC_01	Powinniśmy zostać przyjaciółmi. Nie mam innych.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeD_01	No już… już…	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeE_01	Hej, spokojnie!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3Intro_01	Co za wspaniała bestia!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3Intro_02	Oswoję cię, choć pewnie zajmie mi to trochę czasu.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3Victory_01	Wiedziałem, że się przekonasz. Będę się tobą opiekował. Żadne z nas nie musi już kroczyć samotnie.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeA_01	Jesteś ciężko ranny. Zajmę się pozostałymi!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeB_01	Niewiele mogę zrobić, aby uśmierzyć twój ból.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeB_02	Dlaczego?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeC_01	Dostarczę twoją wiadomość. Nie splamisz swego honoru.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeC_02	Obyś szybko spotkał się z duchami swych przodków, wojowniku.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Intro_01	Co to za zamieszanie? Jakaś bitwa?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Intro_02	Nie będziesz sam w tej walce, nieznajomy.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Victory_01	Mam dla ciebie wiadomość, wodzu. Mogrin powierzył mi ją przed śmiercią.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Victory_02	Tylko jeśli pozwolisz mi na nią zapracować.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeB_01	Thrall ci ufa. To mi wystarczy.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeC_01	Pokój jest kruchy z natury.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeD_01	Właśnie dlatego ze sobą wojujemy.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeE_01	Co masz na myśli?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5Intro_01	Nagi zniszczyły nasz obóz!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5Victory_01	Już po nagach. Ale kim byli ludzie, którzy nas atakowali?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6ExchangeA_01	Tak też się stanie.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6ExchangeB_01	Dzikich stworzeń nie trzyma się w klatkach.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6ExchangeC_01	Zamilcz!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6Intro_01	Porwałeś Baina Krwawe Kopyto. Złamałeś jego ojcu serce. Wypuść go, natychmiast!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6Victory_01	Bainie! Jesteś cały?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission7ExchangeC_01	Lok'tar ogar! Za Hordę! Za Durotar!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission7Intro_01	Przeszłości nie da się wymazać.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission7Victory_01	Moje miejsce jest w dziczy, wśród bestii i potęgi żywiołów. Ale zawsze będziesz mógł na mnie liczyć w potrzebie, bracie.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8ExchangeA_01	Z taką bestią nie można się dogadać.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8ExchangeB_01	To jak walka z górą...	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8ExchangeC_01	Jestem, jaki jestem.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Intro_01	Rexxar. Jestem bohaterem Hordy i synem mok'nathalów.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Victory_01	Gdy zabiłem olbrzyma, skończyło się moje wygnanie. Mój lud przyjął mnie jak swego. Nie licząc ojca... Muszę dać mu czas.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Victory_02	Przez te wszystkie lata nauczyłem się, że nie ma nic ważniejszego, niż wędrówka, którą odbywamy we własnych sercach.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Victory_03	Musimy pozostać dzicy i wolni, a odnajdziemy właściwą ścieżkę.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission1_01	Przebyłem długą drogę... Za mną liczne światy i wojny... więzi stworzone i zerwane.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission1_02	Ta wędrówka może wiele cię nauczyć, jeśli masz w sobie dość siły, by ją prześledzić.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission1_03	Urodziłem się na Draenorze. Gdy wokół nas rozszalała się wojna, mój lud – mok'nathalowie – wybrał pokój. I był całkowicie nieprzygotowany na to, co przyszło potem.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission2_01	Zostałem wygnany z jedynego domu, jaki znałem. Nie mogłem przekonać mojego klanu do działania, więc musiałem sam stanąć twarzą w twarz z Hordą.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission2_02	Jeśli posłuchają, moja strata nie pójdzie na marne.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission3_01	Walcząc dla Hordy trafiłem przez Mroczny Portal do dalekiego świata Azeroth.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission3_02	Nie wiedziałem nic o tamtejszych mieszkańcach poza tym, że wódz pragnął ich śmierci. Ale ostatecznie padł w boju.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission3_03	Walczyłem dla nich w dwóch wojnach, to było dla mnie aż nadto. Ukojenie znajdowałem jedynie w dziczy.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission4_01	Opuściłem Hordę. Z Miszą u mego boku wędrowałem przez dzikie ostępy Kalimdoru.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission4_02	Byłem ostrożny i zawsze unikałem miast. Aż pewnego dnia nie miałem już wyjścia...	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission5_01	Nowy wódz miał wiele na głowie. Zawarł przymierze z przedstawicielką ludzi, Jainą. Mimo to ktoś ciągle napadał na nasze obozy.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission5_02	Jaina zapewniła, że rozkaz nie wyszedł od niej. Wspólnie wyruszyliśmy, by odnaleźć prawdziwego wroga.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission6_01	Tylko dzięki Jainie zdołałem uciec. Niemniej znów rozgorzała wojna, a co najgorsze, wrogowie mieli nad nami przewagę liczebną.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission6_02	Thrall zrozumiał, że potrzebujemy sojuszników. Rozkazał mi uratować z rąk centaurów młodego taurena. Liczył, że dzięki temu przeciągnie jego lud na naszą stronę.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission7_01	Bain nie kłamał. Jego ojciec, wódz Kairn, obiecał, że taureńscy wojownicy wspomogą naszą sprawę.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission7_02	Byliśmy gotowi zmierzyć się z admirałem Proudmoore'em... i jego nienawiścią.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission8_01	Mijał czas, a mnie zżerała tęsknota za ojczyzną. Mroczny Portal znów działał i mogłem wrócić do domu.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission8_02	Gdy wreszcie odnalazłem mój lud, spełniły się moje obawy. Napadły ich ogry z Krwawych Młotów, którym przewodził ogromny gronn.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission8_03	Wszystkie lata spędzone na wojaczce miały mi pomóc ocalić pobratymców.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Threaten_01	Gdyby tylko twoja mądrość dorównywała temperamentowi.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission1Victory_01	Garoszu, synu Piekłorycza, twój ojciec żył i zginął jako wielki bohater.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission1Victory_02	Ocalił nas wszystkich, gdy zabił demona Mannorotha i zdjął z orków klątwę.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission3Victory_01	Jak twoja wyprawa, Garoszu?	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission3Victory_02	Dobra robota, przyjacielu. Znów mi zaimponowałeś.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4ExchangeC_01	Jakaś siła zaburzyła żywioły w całym Azeroth... ale nie wiem, co to takiego.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4Victory_01	Zabezpieczyłeś miasto, Garoszu. Teraz muszę wyruszyć, by odkryć źródło tych kłopotów.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4Victory_02	Rozkazuję ci przewodzić Hordzie pod moją nieobecność.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4Victory_03	Masz w sobie siłę i odwagę, których nasz lud potrzebuje w tych trudnych czasach.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8EmoteResponse_01	Sprawiasz mi ból tymi słowami.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8ExchangeA_01	Duchy wiatru, ziemi i wody, usłuchajcie mego wezwania! Przybądźcie mi z pomocą!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8ExchangeC_01	Muszę naprawić błąd popełniony dawno temu...	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8HeroPower_01	Za Zgładziciela!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8HeroPower_02	Jesteś niegodny!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8HeroPower_03	Grzmot i jucha!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Idle_01	Nie jestem bezsilny. I nigdy nie jestem sam.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Idle_02	Gdybyś tylko pojął, że siła ma niejedno oblicze.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Idle_03	Przynajmniej Geyah nie dowie się, jak nisko upadłeś...	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Intro_01	Jeszcze nie jest za późno, Garoszu. Zrzeknij się tytułu wodza Hordy, i skończymy to... tu i teraz.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Loss_01	Miałem wobec ciebie wielkie plany, Garoszu. Z bólem muszę je pogrzebać...	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ExchangeC_01	Jestem Thrall, przywódca Hordy. Ten wojownik odpowiada przede mną, lecz jego umysłem zawładnął gniew.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ThrallHelp_01	Pomogę ci.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ThrallHelp_02	Postaram się pomóc.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ThrallHelp_03	Pozwól mi pomóc.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4Victory_01	Już wszystko dobrze. Dzięki, lady Proudmoore.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission5Thrall_01	Naprzód, wojownicy! Nic nie powstrzyma Hordy!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission5Victory_01	Nie docenił siły naszego ducha.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7EmoteResponse_01	Spróbuj ze mną porozmawiać.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7ExchangeA_01	Współczuję ci, ale wiedz, że zemsta nie przywróci tego, co straciłaś.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7ExchangeB_01	Walcz z Garoszem.\nNie będę cię powstrzymywał. Ale mój lud nie jest ci wrogiem.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7HeroPower_01	Grzmot i_jucha!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7HeroPower_02	Żywioły, prowadźcie mnie!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7HeroPower_03	Piorunie, ziemio i ogniu - usłuchajcie mego wezwania!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Idle_01	Nie pozwól, by zaślepił cię gniew. Stawka w tej grze jest dużo wyższa.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Idle_02	Popełniłem straszliwy błąd, ufając Garoszowi...	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Idle_03	Myślałem, że brzydzisz się przemocą?!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Intro_01	Żywioły wezwały mnie, bym cię powstrzymał, przyjaciółko...	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Loss_01	Jaino... nie chciałem tego. Tak mi przykro.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission4Victory_01	Rozumiem. Wyświadczyłeś nam ogromną przysługę. Przyjmij proszę gościnę Durotaru.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7ExchangeA_01	Wierzę ci. Ale wiesz, co musimy zrobić.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7ExchangeB_01	Musimy zabić admirała. Tylko wtedy Horda będzie bezpieczna.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7ExchangeD_01	Jesteś bohaterem Hordy. Jeśli ty nie zapewnisz nam zwycięstwa, nikt tego nie zrobi.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7Intro_01	To były inne czasy. Horda się zmieniła.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7Victory_01	Uratowałeś nasz lud, Rexxarze. Nigdy nie zdołam ci się za to odwdzięczyć. Zostaniesz z nami?	
+VO_Story_Hero_Tyrande_Female_NightElf_Story_Jaina_Mission5Tyrande_01	Za Elunę!	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3EmoteResponse_01	Jesteś zwykłym robakiem.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3ExchangeA_01	Wkrótce będzie nam w niej pomagać.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3ExchangeB_01	My, nerubianie, jesteśmy wieczni jak kamień, lód i kość.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3HeroPower_01	Chodź do nas...	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3HeroPower_02	Narodzisz się na nowo.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3HeroPower_03	Śmierć to nie koniec.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Idle_01	W ogóle nie zważasz na swoje sługi. Byłby z ciebie dobry dowódca Plagi.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Idle_02	Nigdy nie widziałeś wroga takiego, jak Plaga.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Idle_03	Jeśli zostaniesz tu wystarczająco długo, twoje serce zamarznie jak ta ziemia.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Intro_01	Muszę ci podziękować za dostarczanie wojowników w nasze szeregi…	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Loss_01	Szkoda, że nie przemieniliśmy cię w rycerza śmierci...	
+VO_Story_Minion_Baine_Male_Tauren_Story_Rexxar_Mission6ExchangeA_01	Ojciec wie, że tu jestem?! Musisz mnie do niego zabrać!	
+VO_Story_Minion_Baine_Male_Tauren_Story_Rexxar_Mission6Victory_01	Tak, przyjacielu. Mam u ciebie ogromny dług. Mój ojciec spełni każde twoje życzenie.	
+VO_Story_Minion_Cairne_Male_Tauren_Story_Rexxar_Mission7ExchangeC_01	Jesteśmy z tobą, Rexxarze. Prowadź!	
+VO_Story_Minion_Footman_Male_Human_Story_Footman_Play_01	Pani Jaina? To ty?	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission6ExchangeC_01	Nie mają żadnych skrupułów…	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission6Victory_01	Musisz się wycofać, Jaino. Ratuj się!	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission6Victory_02	Twoja śmierć na nic im się nie przyda.	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission7Victory_01	Nie jesteś taka jak oni, Jaino. Możesz poradzić sobie z Hordą w inny sposób!	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission7Victory_02	Oczywiście. Ale pozwól Thrallowi odejść.	
+VO_Story_Minion_Magatha_Female_Tauren_Story_Minion_Magatha_Play_01	Daje ci wielkie błogosławieństwo...	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Mogrin_Play_01	Tchórzliwe kolcozwierze!	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeA_01	Zjawiły się znikąd!	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeB_01	Wiem. To... to by była dobra śmierć, gdyby nie to, że zawiodłem...	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeC_01	Miałem... dostarczyć bardzo ważny raport... mojemu wodzowi.	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeC_02	Lecz teraz... nie mogę. Zwiodłem i... utraciłem honor.	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeD_01	Odszukaj... miasto Orgrimmar. Znajdź w nim Thralla. Powiedz mu, że...	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4Intro_01	Chodźcie tu, kundle! Posmakujcie stali Mogrina!	
 VO_TB_FelFirefest_FelRagnaros_Male_Elemental_FelfireFest_Intro01_01	Rozpoczyna się mój Festiwal Spaczognia! Okryj się chwałą lub przegraj i PŁACZ, ROBAKU!	
 VO_TB_FelFirefest_FelRagnaros_Male_Elemental_FelfireFest_Intro02_01	Nie można łamać zasad, które nie istnieją!	
 VO_TB_FelFirefest_FelRagnaros_Male_Elemental_FelfireFest_Intro03_01	Dwóch wchodzi, jeden PŁONIE!	
@@ -7437,6 +7982,323 @@ VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Attack_01	Poznasz smak niesko
 VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Loss_01	Teraz wiem, co muszę zrobić. Nie pozwolę, by ktokolwiek mi przeszkodził!	
 VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Start1_01	Mroźny Tron należy do mnie, demonie. Zejdź mi z drogi.	
 VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Start3_01	Nigdy!	
+VO_TB_PVPDR_Bob_Male_Human_TavernCollection_01	No, niezła kolekcja. Aż miło popatrzeć.	
+VO_TB_PVPDR_Bob_Male_Human_TavernCollection_02	Hej! Obracasz się w nie byle jakim towarzystwie!	
+VO_TB_PVPDR_Bob_Male_Human_TavernCollection_03	Zaczynam łapać, co cię interesuje.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_01	Głowa do góry. Dzisiaj na stołówce serwujemy racuchy!	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_02	Nie przejmuj się nimi. Masz, napij się pysznej kawusi, z życzeniami miłego dzionka.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_03	Nie wiem, po ci mi dali tę siatkę na włosy, ale widocznie tak musi być.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_04	Nie poddawaj się jeszcze. Zająłem ci stolik na stołówce!	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_05	Mam wszystko, czego ci trzeba. Stronników. I... piwo kremówkowe!	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_06	Nawet najlepsi muszą od czasu do czasu pomajstrować przy talii.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_07	Uratował cię dzwonek! Ale do domu jeszcze nie idziesz.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_08	Kiedy ja chodziłem do szkoły, to nie było tak ciężko.	
+VO_TB_PVPDR_Bob_Male_Human_TavernLegendary_01	Zacna legendarka!	
+VO_TB_PVPDR_Bob_Male_Human_TavernType_01	Tak ci się przyglądam i chyba już wiem na co masz ochotę.	
+VO_TB_PVPDR_Bob_Male_Human_TavernWeapons_01	Oręż, hmmm? Mam coś, co ci się spodoba.	
+VO_TB_PVPDR_Fireheart_Female_Human_Attack_01	Niezapowiedziana kartkówka!	
+VO_TB_PVPDR_Fireheart_Female_Human_Concede_01	Wiem, kiedy walka jest przegrana.	
+VO_TB_PVPDR_Fireheart_Female_Human_Error_01	Ani mi się śni.	
+VO_TB_PVPDR_Fireheart_Female_Human_ErrorSpace_01	Nie widzisz, że nie ma miejsca?	
+VO_TB_PVPDR_Fireheart_Female_Human_LowCards_01	Zaczyna mi brakować kart.	
+VO_TB_PVPDR_Fireheart_Female_Human_NoCards_01	Nie mam więcej kart!	
+VO_TB_PVPDR_Fireheart_Female_Human_Oops_01	Każda okazja jest dobra do nauki.	
+VO_TB_PVPDR_Fireheart_Female_Human_Picked_01	Wypróbujmy tę wiedzę w praktyce, hmm?	
+VO_TB_PVPDR_Fireheart_Female_Human_Start_01	Nie licz na taryfę ulgową. Nie znoszę naśladowców.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartIllucia_01	To ewaluacja mojej pracy czy wyzwanie, Lady Barow?	
+VO_TB_PVPDR_Fireheart_Female_Human_StartKelThuzad_01	Płomienie naginają się do mej woli!	
+VO_TB_PVPDR_Fireheart_Female_Human_StartLilian_01	U mnie nie ma wolnych słuchaczy!	
+VO_TB_PVPDR_Fireheart_Female_Human_StartMirror_01	Proszę cię. To ja jestem tutaj oryginałem.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartMozaki_01	Wiedziałam, że to z tobą przyjdzie mi walczyć o awans.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartOmu_01	Pytałam o to, ale dyrektor Kel'Thuzad się nie zgodził. A więc walczymy!	
+VO_TB_PVPDR_Fireheart_Female_Human_StartRattllegore_01	Nie ma tu miejsca dla ciebie. Wylatujesz!	
+VO_TB_PVPDR_Fireheart_Female_Human_StartSlate_01	Zawsze możesz wycofać się z rywalizacji, profesorze.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartStelina_01	Mało wiesz o działaniu  żywiołów...	
+VO_TB_PVPDR_Fireheart_Female_Human_StartTuralyon_01	Magia kontra pancerz? To mi się podoba.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartWillow_01	Ha! TOBIE dyrektor nie powierzyłby nawet swojej kolacji!	
+VO_TB_PVPDR_Fireheart_Female_Human_Thanks_01	Dziękuję.	
+VO_TB_PVPDR_Fireheart_Female_Human_Threaten_01	Są dwie rzeczy, których nie mogę znieść – pyskaci uczniowie i nauczyciele bez powołania.	
+VO_TB_PVPDR_Fireheart_Female_Human_Time_01	Nie mam dużo czasu.	
+VO_TB_PVPDR_Fireheart_Female_Human_Welcome_01	Drzwi do mojej klasy zawsze stoją otworem.	
+VO_TB_PVPDR_Fireheart_Female_Human_WellPlayed_01	Ktoś tu odrobił lekcje.	
+VO_TB_PVPDR_Fireheart_Female_Human_Wow_01	Masz świadectwo z paskiem, prawda?	
+VO_TB_PVPDR_HH_Male_Human_Error_01	Nie mogę.	
+VO_TB_PVPDR_HH_Male_Human_ErrorSpace_01	Mam za mało miejsca.	
+VO_TB_PVPDR_HH_Male_Human_LowCards_01	Kończą mi się karty!	
+VO_TB_PVPDR_HH_Male_Human_NoCards_01	Skończyły mi się karty!	
+VO_TB_PVPDR_HH_Male_Human_Start_01	Pędzę przez ciemność po ziemskim padole, pora zasiać chaos w tej magicznej szkole.	
+VO_TB_PVPDR_HH_Male_Human_StartMirror_01	Patrzcie wszyscy, co za draka! Zaraz pokonam gorszego bliźniaka!	
+VO_TB_PVPDR_HH_Male_Human_Time_01	Choć czasu brakuje, ja ciągle rymuję!	
+VO_TB_PVPDR_HH_Male_Human_Welcome_01	Witaj, śmiertelniku. AHAHAHA!	
+VO_TB_PVPDR_Illucia_Female_Human_Attack_01	Uznaj to za sprawdzian końcowy.	
+VO_TB_PVPDR_Illucia_Female_Human_Concede_01	Mam tego dość!	
+VO_TB_PVPDR_Illucia_Female_Human_Error_01	Nie.	
+VO_TB_PVPDR_Illucia_Female_Human_ErrorSpace_01	Nie ma miejsca!	
+VO_TB_PVPDR_Illucia_Female_Human_Greetings_01	Aaa, to ty.	
+VO_TB_PVPDR_Illucia_Female_Human_LowCards_01	Mam mało kart.	
+VO_TB_PVPDR_Illucia_Female_Human_NoCards_01	Skończyły mi się karty.	
+VO_TB_PVPDR_Illucia_Female_Human_Oops_01	Coś strasznego.	
+VO_TB_PVPDR_Illucia_Female_Human_Picked_01	Wiedziałam, że mnie wybierzesz.	
+VO_TB_PVPDR_Illucia_Female_Human_Start_01	Wiedziałam, ze osiągnę więcej, mając sobowtóra.	
+VO_TB_PVPDR_Illucia_Female_Human_StartFireheart_01	Niech zwycięży chłodniejsza głowa.	
+VO_TB_PVPDR_Illucia_Female_Human_StartKelThuzad_01	Aleksiej i ja całkowicie cię wspieramy.	
+VO_TB_PVPDR_Illucia_Female_Human_StartLilian_01	Wynoś się z mojej szkoły, intruzie!	
+VO_TB_PVPDR_Illucia_Female_Human_StartMirror_01	Obawiam się, że tylko jedna z nas może wygrać.	
+VO_TB_PVPDR_Illucia_Female_Human_StartMozaki_01	To będzie zabawny sprawdzian.	
+VO_TB_PVPDR_Illucia_Female_Human_StartOmu_01	Jesteś nauczycielką czy krzakiem?	
+VO_TB_PVPDR_Illucia_Female_Human_StartRattllegore_01	A więc tutaj się chowasz...	
+VO_TB_PVPDR_Illucia_Female_Human_StartSlate_01	Nigdy nie widziałam nikogo z takim zamiłowaniem do grzybów.	
+VO_TB_PVPDR_Illucia_Female_Human_StartStelina_01	Zobaczymy, czy jesteś tak dobra, jak twoje oceny.	
+VO_TB_PVPDR_Illucia_Female_Human_StartTuralyon_01	Wszystko robię po swojemu.	
+VO_TB_PVPDR_Illucia_Female_Human_StartWillow_01	Sporo potrafisz, ale nie więcej niż ja.	
+VO_TB_PVPDR_Illucia_Female_Human_Thanks_01	To było przydatne.	
+VO_TB_PVPDR_Illucia_Female_Human_Threaten_01	Zwę się Barow. Ta szkoła jest NASZA!	
+VO_TB_PVPDR_Illucia_Female_Human_Time_01	Muszę się pospieszyć.	
+VO_TB_PVPDR_Illucia_Female_Human_Welcome_01	Witaj w Scholomancjum.	
+VO_TB_PVPDR_Illucia_Female_Human_WellPlayed_01	Zacięta rywalizacja, nieprawdaż?	
+VO_TB_PVPDR_Illucia_Female_Human_Wow_01	Intrygujące!	
+VO_TB_PVPDR_KelThuzad_Male_Human_Attack_01	Nie życzę sobie rozczarowania!	
+VO_TB_PVPDR_KelThuzad_Male_Human_Attack_02	Spróbuj tego!	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_01	Waszymi konkurentami będą... inni nauczyciele.	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_02	Miejsce jest tylko jedno. A więc... przyłóżcie się.	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_03	Tylko jeden nauczyciel zasłuży na moją uwagę.	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_04	No co jest... nie chcieliście się nigdy nawzajem ponaparzać?	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_05	Chwila, czy ty się aby tutaj nie uczysz? A, co mi tam...	
+VO_TB_PVPDR_KelThuzad_Male_Human_ExceptionalRun_01	Gratuluję! Po takim popisie nawet szóstka to za mało. Szóstka ze słoneczkiem.	
+VO_TB_PVPDR_KelThuzad_Male_Human_FirstBossLoss_01	Nie zniechęcaj się. Niektórych wykładowców BARDZO łatwo przechytrzyć.	
+VO_TB_PVPDR_KelThuzad_Male_Human_FirstBossLoss_02	Ucz się pilnie i próbuj dalej, a w końcu ci się powiedzie. Ja bym tak zrobił, ale wolę iść na skróty.	
+VO_TB_PVPDR_KelThuzad_Male_Human_GoodRun_01	Wspaniały pokaz wiedzy! Zasługujesz na piątkę z plusem!	
+VO_TB_PVPDR_KelThuzad_Male_Human_GoodRun_02	Och, masz tyle WSPANIAŁYCH możliwości na wyciągnięcie ręki.	
+VO_TB_PVPDR_KelThuzad_Male_Human_Intro_01	Prowadzę właśnie nowe, przełomowe badania. Potrzebuję pomocy NAJLEPSZEGO nauczyciela. Czy to będziesz właśnie ty?	
+VO_TB_PVPDR_KelThuzad_Male_Human_Intro_Banner_01	Witam wszystkich wykładowców! Z okazji nadchodzących wakacji przygotowałem coś WYJĄTKOWEGO...	
+VO_TB_PVPDR_KelThuzad_Male_Human_Intro_Banner_02	Semestr wkrótce dobiegnie końca. I na pewno zastanawiacie się, co dalej?	
+VO_TB_PVPDR_KelThuzad_Male_Human_MediumRun_01	Ach, sytuacja zaczyna się klarować. Gdyby to był sprawdzian, dałbym ci zaliczenie!	
+VO_TB_PVPDR_KelThuzad_Male_Human_MediumRun_02	Masz potencjał. Kto wie, może kiedyś obejmiesz kierownictwo nad jednym z wydziałów.	
+VO_TB_PVPDR_KelThuzad_Male_Human_Start_01	To JA? Ja jestem najlepszy w całym Scholomacjum?	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartFireheart_01	Palisz się do tej posady, co? Powinnaś trochę ostudzić ten zapał.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartIllucia_01	To dopiero początek naszego dzieła!	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartLilian_01	Intruz?! Zapłacisz za to wtargnięcie...	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartMirror_01	Właściwie, ma to sens.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartMozaki_01	Muszę cię ostrzec, że oceniam magów bardzo surowo.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartOmu_01	Mam wątpliwości, czy... nadajesz się do tego zadania.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartRattlegore_01	Nie ma to jak nieumarły sługa.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartSlate_01	Szczerze mówiąc, nie mogę cię do końca rozgryźć.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartStelina_01	Uczeń pokonał nauczycieli? Ciekawe.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartTuralyon_01	Twój niepohamowany zapał wygląda obiecująco.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartWillow_01	Teraz prześledzę twoje postępy z bliska.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_01	Ach, tak. Kariera akademicka ma swoje plusy.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_02	To powinno pomóc. Albo przynajmniej wywołać lekki chaos.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_03	Ach, niesamowitości ze skarbca Scholomancjum!	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_04	Widzę, że obie strony gromadzą skarby...	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_01	Nie zapomnij zabrać materiałów.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_02	Oczekuję wyników na najwyższym poziomie!	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_04	Udało ci się odblokować wspaniały skarb! Sam bym go chętnie przygarnął.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_05	Widzę, że twoja kolekcja rośnie... Weź to.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_93	No dalej, zaimponuj mi.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TutorialMatchmaking_01	Twoi przeciwnicy otrzymali podobną możliwość stworzenia talii.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TutorialOpponents_01	Musimy znaleźć ci przeciwnika o... podobnych kwalifikacjach.	
+VO_TB_PVPDR_KelThuzad_Male_Human_Victory_01	Muszę przyznać, że mnie zaskakujesz! Twoja kariera naukowa właśnie nabrała tempa...	
+VO_TB_PVPDR_KelThuzad_Male_Human_Victory_02	Wróżę ci świetlaną przyszłość! Prawda, Panie Sierściuchu? ...To chyba znaczy tak.	
+VO_TB_PVPDR_KelThuzad_Male_Human_Victory_03	Szukałem właśnie kogoś takiego, jak ty. Kto wie, może kiedyś zostaniesz tu dyrektorem! Hahahaha, sam się rozśmieszyłem.	
+VO_TB_PVPDR_Lilian_Female_Human_Attack_01	Moje ostrza są jak brzytwy.	
+VO_TB_PVPDR_Lilian_Female_Human_Concede_01	Zrobiłam, co w_mojej mocy.	
+VO_TB_PVPDR_Lilian_Female_Human_Error_01	Nie mogę.	
+VO_TB_PVPDR_Lilian_Female_Human_ErrorSpace_01	Nie ma miejsca.	
+VO_TB_PVPDR_Lilian_Female_Human_Greetings_01	Witaj. Czego chcesz?	
+VO_TB_PVPDR_Lilian_Female_Human_LowCards_01	Mało mam kart.	
+VO_TB_PVPDR_Lilian_Female_Human_NoCards_01	I po kartach!	
+VO_TB_PVPDR_Lilian_Female_Human_Oops_01	Nieprzewidziane konsekwencje...	
+VO_TB_PVPDR_Lilian_Female_Human_Picked_01	Dowiem się, co się tu wyrabia.	
+VO_TB_PVPDR_Lilian_Female_Human_Start_01	Chcesz zrujnować moje przeszpiegi?	
+VO_TB_PVPDR_Lilian_Female_Human_StartFireheart_01	Nie wyobrażaj sobie, że mogłabym się czegokolwiek od ciebie nauczyć!	
+VO_TB_PVPDR_Lilian_Female_Human_StartIllucia_01	Jeśli pomożesz Kel'Thuzadowi, zniszczysz swoją rodzinę!	
+VO_TB_PVPDR_Lilian_Female_Human_StartKelThuzad_01	Wiem doskonale, co robisz, i nie pozwolę ci na to!	
+VO_TB_PVPDR_Lilian_Female_Human_StartMirror_01	Nie, ale ty rujnujesz moje!	
+VO_TB_PVPDR_Lilian_Female_Human_StartMozaki_01	Stanę do walki z każdym nauczycielem, jeśli będę musiała.	
+VO_TB_PVPDR_Lilian_Female_Human_StartOmu_01	Nie chcę ci zrobić żadnej krzywdy, ale to jedyny sposób.	
+VO_TB_PVPDR_Lilian_Female_Human_StartRattllegore_01	Zakończę twoje katusze.	
+VO_TB_PVPDR_Lilian_Female_Human_StartSlate_01	Uwierzysz, że to mój pierwszy dzień?	
+VO_TB_PVPDR_Lilian_Female_Human_StartStelina_01	Wracaj na lekcję! Daj mi spokój!	
+VO_TB_PVPDR_Lilian_Female_Human_StartTuralyon_01	Nie tak głośno, dobrze?	
+VO_TB_PVPDR_Lilian_Female_Human_StartWillow_01	Znam prawdę, wszyscy jesteście nekromantami!	
+VO_TB_PVPDR_Lilian_Female_Human_Thanks_01	Dzięki.\nAlbo i nie.	
+VO_TB_PVPDR_Lilian_Female_Human_Threaten_01	Ta szkoła to zło – nawet większe, niż zwykła szkoła.	
+VO_TB_PVPDR_Lilian_Female_Human_Time_01	Prawie skończył mi się czas.	
+VO_TB_PVPDR_Lilian_Female_Human_Welcome_01	Przygotuj się na rozliczenie.	
+VO_TB_PVPDR_Lilian_Female_Human_WellPlayed_01	Nieźle sobie radzisz jak na kogoś, kto nie powinien tego robić.	
+VO_TB_PVPDR_Lilian_Female_Human_Wow_01	Co to było?!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Concede_01	Nie mam cajtu na to wszystko!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Error_01	Nici z tego!	
+VO_TB_PVPDR_Mozaki_Female_Troll_ErrorSpace_01	Miejsca ni ma!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Greetings_01	Też mi rywalizacja. Za dobra jestem!	
+VO_TB_PVPDR_Mozaki_Female_Troll_LowCards_01	Karty kończom mi sie!	
+VO_TB_PVPDR_Mozaki_Female_Troll_NoCards_01	I po kartach!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Oops_01	A to ci dopiero.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Picked_01	Miszczyni pojedynków pokaże, co potrafi!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Start_01	Lustrzane odbicie, czad!	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartFireheart_01	A wienc pomachaj mu na do widzenia.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartIllucia_01	No cóż, ze mnom nauka to frajda!	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartKelThuzad_01	Zrobię na tobie wrażenie, rektorze. Bankowo.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartLilian_01	Podejrzanie mi wyglondasz. Zgłaszam cie do dyrekcji!	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartMirror_01	Haha, to mi sie podobie.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartOmu_01	Prosze cie. Ta twoje chwasty nie mogom sie ze mnom równać.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartRattllegore_01	To MASZKARA tutaj nie uczy!	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartSlate_01	Po prostu lubię se ponaparzać.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartStelina_01	Zaklencia to najgodniejsza broń ze wszystkich.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartTuralyon_01	NIE ZNOSZE takich paladynów jak ty.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartWillow_01	Ja ZASŁUGUJE na te posadke, nie to co ty.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Thanks_01	Ha, dzienki.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Threaten_01	Fajno być najlepszom, tylko samotność czasem cikno doskwiera...	
+VO_TB_PVPDR_Mozaki_Female_Troll_Time_01	No już, przebieraj giczałami!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Welcome_01	Witaj na zajenciach zaawansowanych.	
+VO_TB_PVPDR_Mozaki_Female_Troll_WellPlayed_01	Starasz sie. To ci przyznam.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Wow_01	Ho! Źle cie oceniłam.	
+VO_TB_PVPDR_Omu_Female_Botani_Concede_01	Ktoś rozkwita, ktoś więdnie.	
+VO_TB_PVPDR_Omu_Female_Botani_Error_01	Nie wolno mi.	
+VO_TB_PVPDR_Omu_Female_Botani_ErrorSpace_01	Nie ma miejsca.	
+VO_TB_PVPDR_Omu_Female_Botani_Greetings_01	Bądź jednością z naturą.	
+VO_TB_PVPDR_Omu_Female_Botani_LowCards_01	Mam tak mało kart.	
+VO_TB_PVPDR_Omu_Female_Botani_NoCards_01	Nie mam już kart.	
+VO_TB_PVPDR_Omu_Female_Botani_Oops_01	Oj! To wspaniała okazja do nauki.	
+VO_TB_PVPDR_Omu_Female_Botani_Picked_01	Jest czas na sianie... i czas na zbieranie.	
+VO_TB_PVPDR_Omu_Female_Botani_Start_01	Hm, zaginiona sadzonka-bliźniaczka?	
+VO_TB_PVPDR_Omu_Female_Botani_StartFireheart_01	Powinnyśmy podzielić się tym stanowiskiem, tak jak uczniami!	
+VO_TB_PVPDR_Omu_Female_Botani_StartIllucia_01	O proszę, oto tajemnicza Lady Barow!	
+VO_TB_PVPDR_Omu_Female_Botani_StartKelThuzad_01	Twoje badania rozkwitną pod moim okiem.	
+VO_TB_PVPDR_Omu_Female_Botani_StartLilian_01	Nie jesteś uczennicą ani nauczycielką. Co tu w ogóle robisz?	
+VO_TB_PVPDR_Omu_Female_Botani_StartMirror_01	Niech wyrośnie silniejsza z nas!	
+VO_TB_PVPDR_Omu_Female_Botani_StartMozaki_01	Istnieje magia, o której nie masz pojęcia.	
+VO_TB_PVPDR_Omu_Female_Botani_StartRattllegore_01	Nie ma w tobie ani krzty życia, wypaczony potworze!	
+VO_TB_PVPDR_Omu_Female_Botani_StartSlate_01	Dziś przynoszę tylko potęgę natury!	
+VO_TB_PVPDR_Omu_Female_Botani_StartStelina_01	Uczniowie z wymiany są mile widziani.	
+VO_TB_PVPDR_Omu_Female_Botani_StartTuralyon_01	Zobaczymy, które z nas rozwinie liście.	
+VO_TB_PVPDR_Omu_Female_Botani_StartWillow_01	Poznaj potęgę mego lasu!	
+VO_TB_PVPDR_Omu_Female_Botani_Thanks_01	Dziękuję ci.	
+VO_TB_PVPDR_Omu_Female_Botani_Threaten_01	Moja cierpliwość wkrótce przekwitnie.	
+VO_TB_PVPDR_Omu_Female_Botani_Time_01	Zaraz tu zakwitnę.	
+VO_TB_PVPDR_Omu_Female_Botani_Welcome_01	Witam cię w moim lesie.	
+VO_TB_PVPDR_Omu_Female_Botani_WellPlayed_01	Rośniesz zdrowo!	
+VO_TB_PVPDR_Omu_Female_Botani_Wow_01	Widzę, że rozkwitasz!	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Attack_01	<Gardłowy ryk>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Concede_01	<Zachrypnięte westchnięcie>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Greetings_01	<Warkot>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_NoCards_01	<Zaprzeczające stęki>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Oops_01	<Ryczek>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Picked_01	<Ryk podjarki!>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Start_01	<Zirytowany ryk>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_StartMirror_01	<Zdziwiony warkot>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Threaten_01	<Ryk średniego poziomu>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_WellPlayed_01	Ooo...	
+VO_TB_PVPDR_Slate_Male_Human_Attack_01	Potężna rzecz...	
+VO_TB_PVPDR_Slate_Male_Human_Attack_02	A to co takiego!	
+VO_TB_PVPDR_Slate_Male_Human_Attack_03	Cóż za świeżość! Cóż za moc!	
+VO_TB_PVPDR_Slate_Male_Human_Concede_01	Muszę wrócić do badań terenowych.	
+VO_TB_PVPDR_Slate_Male_Human_Error_01	O nie, nie, nie.	
+VO_TB_PVPDR_Slate_Male_Human_ErrorSpace_01	Do wzrostu potrzebna jest przestrzeń!	
+VO_TB_PVPDR_Slate_Male_Human_Greetings_01	O, witaj!	
+VO_TB_PVPDR_Slate_Male_Human_LowCards_01	Nie zostało mi wiele kart.	
+VO_TB_PVPDR_Slate_Male_Human_NoCards_01	No i skończyły mi się karty!	
+VO_TB_PVPDR_Slate_Male_Human_Oops_01	Ups!	
+VO_TB_PVPDR_Slate_Male_Human_Picked_01	Co? Yyy... tak! Witaj!	
+VO_TB_PVPDR_Slate_Male_Human_Start_01	O, witaj. Jesteś nowym nauczycielem?	
+VO_TB_PVPDR_Slate_Male_Human_StartFireheart_01	Wybacz, że z tobą walczę, ale dyrektor się tego domaga!	
+VO_TB_PVPDR_Slate_Male_Human_StartIllucia_01	Ach, muszę ci pokazać wyniki moich najnowszych badań!	
+VO_TB_PVPDR_Slate_Male_Human_StartKelThuzad_01	Jestem gotów na ewaluację mojej pracy, rektorze!	
+VO_TB_PVPDR_Slate_Male_Human_StartLilian_01	Yyy, jesteś tu nowa?	
+VO_TB_PVPDR_Slate_Male_Human_StartMirror_01	Należę raczej do starej gwardii!	
+VO_TB_PVPDR_Slate_Male_Human_StartMozaki_01	Nie podejrzewałem, że CIEBIE interesują badania!	
+VO_TB_PVPDR_Slate_Male_Human_StartOmu_01	Hmm... przyniosłaś mi jakieś grzyby, Omu?	
+VO_TB_PVPDR_Slate_Male_Human_StartRattllegore_01	Uaaaa! Kto tu wpuścił to okropieństwo?!	
+VO_TB_PVPDR_Slate_Male_Human_StartStelina_01	Moich badań nie pojmie byle studencina!	
+VO_TB_PVPDR_Slate_Male_Human_StartTuralyon_01	Przyszło mi walczyć z wielkim Turalyonem? Cóż za odżywcze doświadczenie!	
+VO_TB_PVPDR_Slate_Male_Human_StartWillow_01	Przypomnij mi, nad czym pracujesz?	
+VO_TB_PVPDR_Slate_Male_Human_Thanks_01	Dziękuję, bardzo dziękuję!	
+VO_TB_PVPDR_Slate_Male_Human_Threaten_01	Twoja kariera naukowa legnie w gruzach!	
+VO_TB_PVPDR_Slate_Male_Human_Time_01	Kończy mi się czas.	
+VO_TB_PVPDR_Slate_Male_Human_Welcome_01	Wszyscy głodni nauki są tu mile widziani.	
+VO_TB_PVPDR_Slate_Male_Human_WellPlayed_01	Dałbym ci piątkę z badań terenowych!	
+VO_TB_PVPDR_Slate_Male_Human_Wow_01	A niech mnie!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Attack_01	Mam zawsze najlepsze wyniki!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Concede_01	Ech... Czas na ferie.	
+VO_TB_PVPDR_Stelina_Female_NightElf_Error_01	Ani mi się śni.	
+VO_TB_PVPDR_Stelina_Female_NightElf_ErrorSpace_01	Mam za mało miejsca.	
+VO_TB_PVPDR_Stelina_Female_NightElf_Greetings_01	Dzień dobry! Czy ta walka będzie na sprawdzianie?	
+VO_TB_PVPDR_Stelina_Female_NightElf_LowCards_01	Mam mało kart.	
+VO_TB_PVPDR_Stelina_Female_NightElf_NoCards_01	Uch, nie mam więcej kart.	
+VO_TB_PVPDR_Stelina_Female_NightElf_Oops_01	Ojć!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Picked_01	Zawsze jestem wybierana jako pierwsza!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Start_01	O nie, to TY. To znaczy JA.	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartFireheart_01	Instruktorka Fireheart? Porównajmy notatki.	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartIllucia_01	Tylko bez trudnych pytań, Lady Barow. Jestem twoją najlepszą uczennicą!	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartKelThuzad_01	Jestem tu najlepszą uczennicą! Nikt inny się nie nadaje!	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartLilian_01	Co to za szpieg, który zakrada się do szkoły magii?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartMirror_01	Jak mam odpisywać z własnego sprawdzianu?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartMozaki_01	Czy magowie nie nudzą się bez broni?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartOmu_01	Nie myślałam, że trafię kiedyś na te zajęcia...	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartRattllegore_01	Skąd się tutaj wziąłeś?!	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartSlate_01	Zawsze chciałam zapytać... o co chodzi z tymi grzybami?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartTuralyon_01	Och... dzień dobry, profesorze Turalyonie...	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartWillow_01	Chcesz żeby mi obniżyli zachowanie?!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Thanks_01	Bardzo ci dziękuję!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Threaten_01	Za bójkę z_uczennicą jesteś u pani!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Time_01	Mam tak mało czasu.	
+VO_TB_PVPDR_Stelina_Female_NightElf_Welcome_01	Kłania się prymuska z czerwonym paskiem.	
+VO_TB_PVPDR_Stelina_Female_NightElf_WellPlayed_01	Ktoś się tu przygotował, co?	
+VO_TB_PVPDR_Stelina_Female_NightElf_Wow_01	Nie pomyślałam o tym!	
+VO_TB_PVPDR_Turalyon_Male_Human_Attack_02	Niech prowadzi mnie Światłość!	
+VO_TB_PVPDR_Turalyon_Male_Human_Attack_1	Do boju!	
+VO_TB_PVPDR_Turalyon_Male_Human_Concede_01	Ciesz się swoim zwycięstwem.	
+VO_TB_PVPDR_Turalyon_Male_Human_Error_01	Nie mogę.	
+VO_TB_PVPDR_Turalyon_Male_Human_ErrorSpace_01	Za mało miejsca.	
+VO_TB_PVPDR_Turalyon_Male_Human_Greetings_01	Moja wiara jest moją tarczą.	
+VO_TB_PVPDR_Turalyon_Male_Human_LowCards_01	Zaczyna mi brakować kart.	
+VO_TB_PVPDR_Turalyon_Male_Human_NoCards_01	Nie mam kart!	
+VO_TB_PVPDR_Turalyon_Male_Human_Oops_01	Nikt tego nie widział.	
+VO_TB_PVPDR_Turalyon_Male_Human_Picked_01	Światłość będzie z nami.	
+VO_TB_PVPDR_Turalyon_Male_Human_Start_01	Będę się radował tym zwycięstwem!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartFireheart_01	Przyjacielski pojedynek, instruktorko Fireheart?	
+VO_TB_PVPDR_Turalyon_Male_Human_StartIllucia_01	Kapłan powinien służyć Światłości, a ty czaisz się w cieniu.	
+VO_TB_PVPDR_Turalyon_Male_Human_StartKelThuzad_01	Niech Światłość opromieni Scholomancjum!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartLilian_01	Powinnaś tu w ogóle być?	
+VO_TB_PVPDR_Turalyon_Male_Human_StartMirror_01	Utherze! Czy to ty? Koniec żartów!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartMozaki_01	Muszę przyznać, że nigdy nie dogadywałem się z trollami.	
+VO_TB_PVPDR_Turalyon_Male_Human_StartOmu_01	Moc natury nie nie może się równać ze Światłością!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartRattllegore_01	Światłość cię odrzuciła!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartSlate_01	Haha, profesor Slate. To będzie pojedynek umysłów!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartStelina_01	Rozważasz podjęcie zawodu nauczycielki?	
+VO_TB_PVPDR_Turalyon_Male_Human_StartWillow_01	Nie mogę zaufać tej twojej magii.	
+VO_TB_PVPDR_Turalyon_Male_Human_Thanks_01	Dziękuję ci.	
+VO_TB_PVPDR_Turalyon_Male_Human_Threaten_01	Światłość ujawni wszelką zdradę!	
+VO_TB_PVPDR_Turalyon_Male_Human_Time_01	Czas działa przeciwko mnie.	
+VO_TB_PVPDR_Turalyon_Male_Human_Welcome_01	Dobrze cię widzieć.	
+VO_TB_PVPDR_Turalyon_Male_Human_WellPlayed_01	Bardzo dobrze.	
+VO_TB_PVPDR_Turalyon_Male_Human_Wow_01	Aż mi słów brakuje!	
+VO_TB_PVPDR_Willow_Female_Human_Concede_01	Aa! No i po mnie.	
+VO_TB_PVPDR_Willow_Female_Human_Error_01	No nic z tego.	
+VO_TB_PVPDR_Willow_Female_Human_ErrorSpace_01	Przecież nie ma miejsca.	
+VO_TB_PVPDR_Willow_Female_Human_Greetings_01	Uszanowanie.	
+VO_TB_PVPDR_Willow_Female_Human_LowCards_01	Wkrótce będzie po kartach.	
+VO_TB_PVPDR_Willow_Female_Human_NoCards_01	No… Nie mam więcej kart.	
+VO_TB_PVPDR_Willow_Female_Human_Oops_01	Ha! Ucieszny błąd.	
+VO_TB_PVPDR_Willow_Female_Human_Picked_01	Chaos i zniszczenie to moje znaki rozpoznawcze.	
+VO_TB_PVPDR_Willow_Female_Human_Start_01	Nie tak miało się objawić moje wewnętrzne rozdarcie.	
+VO_TB_PVPDR_Willow_Female_Human_StartFireheart_01	Mam nadzieję, że przyjmiesz z pokorą moją wygraną.	
+VO_TB_PVPDR_Willow_Female_Human_StartIllucia_01	Illucio. Wiedziałam, że prędzej czy później będziemy rywalkami.	
+VO_TB_PVPDR_Willow_Female_Human_StartKelThuzad_01	Rektorze! Cóż za zaszczyt.	
+VO_TB_PVPDR_Willow_Female_Human_StartLilian_01	Nie masz pojęcia, co cię czeka, intruzie.	
+VO_TB_PVPDR_Willow_Female_Human_StartMirror_01	No co ty nie powiesz.	
+VO_TB_PVPDR_Willow_Female_Human_StartMozaki_01	W dzisiejszych czasach rozdają ciepłe posadki jak leci.	
+VO_TB_PVPDR_Willow_Female_Human_StartOmu_01	Ostrzegam, wszystkie rośliny przy mnie więdną.	
+VO_TB_PVPDR_Willow_Female_Human_StartRattllegore_01	Jak można zabić to, co już nie żyje?	
+VO_TB_PVPDR_Willow_Female_Human_StartSlate_01	Profesor Slate. Cóż za niespodzianka!	
+VO_TB_PVPDR_Willow_Female_Human_StartStelina_01	Hej, TY. Marsz do kąta!	
+VO_TB_PVPDR_Willow_Female_Human_StartTuralyon_01	A co ty mi możesz zrobić? Pobłogosławić?	
+VO_TB_PVPDR_Willow_Female_Human_Thanks_01	No tak. Dzięki.	
+VO_TB_PVPDR_Willow_Female_Human_Threaten_01	Zaraz zrobi się niewesoło.	
+VO_TB_PVPDR_Willow_Female_Human_Time_01	Kończy mi się czas!	
+VO_TB_PVPDR_Willow_Female_Human_Welcome_01	Nie ma za co.	
+VO_TB_PVPDR_Willow_Female_Human_WellPlayed_01	A więc udało ci się czegoś nauczyć?	
+VO_TB_PVPDR_Willow_Female_Human_Wow_01	Całkiem przyzwoicie.	
 VO_TB_ReturningPlayer_Houndmastr2_Male_Demon_RP_Mission3_ExchangeA_01_01	Nie jesteś w stanie wyobrazić sobie potęgi mojego pana.	
 VO_TB_ReturningPlayer_Houndmastr2_Male_Demon_RP_Mission3_ExchangeB_01_01	Władasz tajemną mocą, ale mógłbyś mieć o wiele więcej.	
 VO_TB_ReturningPlayer_Houndmastr2_Male_Demon_RP_Mission3_ExchangeC_01_01	Wszystko, czego pragniesz, jest w zasięgu ręki. Wystarczy, że się wycofasz.	

@@ -877,6 +877,55 @@ VO__Female_Night Elf_Threaten_03	Я преподам тебе урок!
 VO__Female_Night Elf_Time_01	Пески времени утекают.	
 VO__Female_Night Elf_Well_Played_01	Твое мастерство поистине легендарно!	
 VO__Female_Night Elf_WOW_01	Я рада, что увидела это своими глазами.	
+VO__Female_Val'kyr_Attack_01	Ты канешь в небытие!	
+VO__Female_Val'kyr_Concede_01	Твоя взяла.	
+VO__Female_Val'kyr_Death_02	Все кончено...	
+VO__Female_Val'kyr_ERROR_FULL_MINIONS_01	Под моим началом слишком много существ.	
+VO__Female_Val'kyr_ERROR_GENERIC_03	Этому не бывать.	
+VO__Female_Val'kyr_ERROR_HAND_FULL_01	В моей руке слишком много карт.	
+VO__Female_Val'kyr_ERROR_I_ATTACKED_01	Я уже нанесла врагу удар.	
+VO__Female_Val'kyr_ERROR_MINION_ATTACKED_01	Этому существу нужен покой.	
+VO__Female_Val'kyr_ERROR_NEED_MANA_01	Недостаточно маны.	
+VO__Female_Val'kyr_ERROR_NEED_WEAPON_01	Для этого мне понадобится оружие.	
+VO__Female_Val'kyr_ERROR_PLAY_01	Я не могу сыграть эту карту.	
+VO__Female_Val'kyr_ERROR_STEALTH_01	Враг прячется.	
+VO__Female_Val'kyr_ERROR_SUMMON_SICKNESS_01	Это существо еще не восстановилось.	
+VO__Female_Val'kyr_ERROR_TARGET_01	До этой цели мне не дотянуться.	
+VO__Female_Val'kyr_ERROR_TAUNT_01	Меня снова провоцируют.	
+VO__Female_Val'kyr_FIRE_FESTIVAL_01	Огненный солнцеворот! Достойные будут сиять ярче яркого!	
+VO__Female_Val'kyr_Greetings_01	Новый претендент? Здравствуй.	
+VO__Female_Val'kyr_HAPPY_HALLOWEEN_01	Почтим тех, кто пал в славной битве.	
+VO__Female_Val'kyr_HAPPY_HOLIDAYS_01	От этого праздника у меня всегда на душе тепло.	
+VO__Female_Val'kyr_HAPPY_NEW_YEAR_01	С Новым годом!	
+VO__Female_Val'kyr_HAPPY_NEW_YEAR_LUNAR_01	С Новым годом!	
+VO__Female_Val'kyr_HAPPY_NOBLEGARDEN_01	Собирайте яйца, а я буду собирать воинов.	
+VO__Female_Val'kyr_LowCards_01	У меня заканчиваются карты.	
+VO__Female_Val'kyr_MIRROR_GREETINGS_01	Приветствую тебя, достойная дева.	
+VO__Female_Val'kyr_MIRROR_START_01	Именно этим я и собираюсь заняться!	
+VO__Female_Val'kyr_NoCards_01	У меня не осталось карт.	
+VO__Female_Val'kyr_Oops_01	Как необычно.	
+VO__Female_Val'kyr_Picked_01	Всегда достойный выбор!	
+VO__Female_Val'kyr_PIRATE_DAY_01	Мертвецы еще как болтают — если я прикажу!	
+VO__Female_Val'kyr_Sorry_01	Я искуплю свою вину.	
+VO__Female_Val'kyr_Start_01	Восстань и исполни волю нашей госпожи!	
+VO__Female_Val'kyr_Start_Sylvanas_01	На этот раз я не займу твое место.	
+VO__Female_Val'kyr_Thanks_02	Прими мою благодарность.	
+VO__Female_Val'kyr_Thinking_01	Хм...	
+VO__Female_Val'kyr_Thinking_03	Достойно? Недостойно?..	
+VO__Female_Val'kyr_Thinking_04	Что же дальше?	
+VO__Female_Val'kyr_Threaten_01	Встречай судьбу с высоко поднятой головой!	
+VO__Female_Val'kyr_Time_01	Время так быстротечно...	
+VO__Female_Val'kyr_TRIGGER_BRAWL_01	Кто же выйдет победителем?	
+VO__Female_Val'kyr_TRIGGER_DEAD_MANS_HAND_01	Смерть меня не тревожит.	
+VO__Female_Val'kyr_TRIGGER_DEADLY_ARSENAL_01	Сколько клинков!	
+VO__Female_Val'kyr_TRIGGER_DEVASTATE_01	Прими свою смерть с честью!	
+VO__Female_Val'kyr_TRIGGER_FORGE_OF_SOULS_01	Сила вечна.	
+VO__Female_Val'kyr_TRIGGER_HEROIC_STRIKE_01	Прими свою судьбу!	
+VO__Female_Val'kyr_TRIGGER_MORTAL_STRIKE_01	Тьма зовет тебя!	
+VO__Female_Val'kyr_TRIGGER_RAMPAGE_01	Твое время еще не пришло.	
+VO__Female_Val'kyr_TRIGGER_WARPATH_01	Вот что тебя ждет!	
+VO__Female_Val'kyr_Well_Played_01	Это было... достойно.	
+VO__Female_Val'kyr_WOW_01	Восхитительно!	
 VO__Male_Dragon_Attack_01	Уничтожить!	
 VO__Male_Dragon_Concede_02	Это КОНЕЦ ВСЕГО СУЩЕГО!	
 VO__Male_Dragon_ERROR_FULL_MINIONS_02	Я не услежу за этими ничтожествами, если их станет больше.	
@@ -1383,7 +1432,11 @@ VO_HERO_03a_TIMER_16	Быстрее!
 VO_HERO_03a_WELL_PLAYED_07	Неплохо сыграно.	
 VO_HERO_03a_WOW_35	Удивительно.	
 VO_HERO_04_HAPPY_NEW_YEAR_15	С Новым годом, герой!	
+VO_HERO_05_FACTION_CRY_24	За Орду!	
+VO_HERO_05_FIDGET_09	Время уходит…	
 VO_HERO_05_HAPPY_NEW_YEAR_15	С Новым годом!	
+VO_HERO_05_INDEED_05	Именно так!	
+VO_HERO_05_SALUTE_07	Впечатляет.	
 VO_HERO_05b_Female_Undead_Concede_01	С меня достаточно...	
 VO_HERO_05b_Female_Undead_ERROR_FULL_MINIONS_02	У меня слишком много существ.	
 VO_HERO_05b_Female_Undead_ERROR_GENERIC_02	Я не могу этого сделать.	
@@ -1424,6 +1477,75 @@ VO_HERO_05b_Female_Undead_WOW_01	Умно!
 VO_HERO_06_HAPPY_NEW_YEAR_15	С Новым годом!	
 VO_Hero_06_Male_NightElf_Start_Illidan_01	Тебе предстоит за многое ответить.	
 VO_HERO_07_HAPPY_NEW_YEAR_15	С Новым годом!	
+VO_Hero_07d_Male_OldGod_Attack_02	<атакует>	
+VO_Hero_07d_Male_OldGod_Concede_01	Снова... в сон...	
+VO_Hero_07d_Male_OldGod_Death_02	Все кончается...	
+VO_Hero_07d_Male_OldGod_ERROR_FULL_MINIONS_02	Слишком много.	
+VO_Hero_07d_Male_OldGod_ERROR_GENERIC_04	Это невозможно.	
+VO_Hero_07d_Male_OldGod_ERROR_HAND_FULL_01	В моей руке слишком много карт.	
+VO_Hero_07d_Male_OldGod_ERROR_I_ATTACKED_01	Я не могу атаковать.	
+VO_Hero_07d_Male_OldGod_ERROR_MINION_ATTACKED_01	Это существо истощено.	
+VO_Hero_07d_Male_OldGod_ERROR_NEED_MANA_02	Не хватает маны.	
+VO_Hero_07d_Male_OldGod_ERROR_NEED_WEAPON_01	Мне нужно оружие.	
+VO_Hero_07d_Male_OldGod_ERROR_PLAY_01	Я не могу разыграть эту карту.	
+VO_Hero_07d_Male_OldGod_ERROR_STEALTH_01	Это существо маскируется.	
+VO_Hero_07d_Male_OldGod_ERROR_STEALTH_02	Это существо скрыто от моего взора.	
+VO_Hero_07d_Male_OldGod_ERROR_SUMMON_SICKNESS_02	Дай этому существу подготовиться.	
+VO_Hero_07d_Male_OldGod_ERROR_TARGET_01	Мне нужна цель.	
+VO_Hero_07d_Male_OldGod_ERROR_TAUNT_01	Я должен атаковать провокатора.	
+VO_Hero_07d_Male_OldGod_FIRE_FESTIVAL_01	Огонь ненасытен, но пламя очищает.	
+VO_Hero_07d_Male_OldGod_Greetings_01	Здравствуй, слуга.	
+VO_Hero_07d_Male_OldGod_HAPPY_BIRTHDAY_01	Пламя свечей отражается в глади глазурной.	
+VO_Hero_07d_Male_OldGod_HAPPY_BIRTHDAY_02	С днем... рожденья... тебя...	
+VO_Hero_07d_Male_OldGod_HAPPY_HALLOWEEN_01	На Тыквовин завеса рвется...	
+VO_Hero_07d_Male_OldGod_HAPPY_HOLIDAYS_01	Ваш праздник наступил.	
+VO_Hero_07d_Male_OldGod_HAPPY_NEW_YEAR_01	С каждым годом все ближе к концу.	
+VO_Hero_07d_Male_OldGod_HAPPY_NEW_YEAR_LUNAR_01	С каждым годом все ближе к концу.	
+VO_Hero_07d_Male_OldGod_HAPPY_NOBLEGARDEN_01	Множество яиц, скрытых в глубине...	
+VO_Hero_07d_Male_OldGod_LowCards_01	Близок конец моей колоды...	
+VO_Hero_07d_Male_OldGod_MIRROR_GREETINGS_01	Мы погрузимся в сон вместе. Пробудится только один.	
+VO_Hero_07d_Male_OldGod_MIRROR_START_01	Да пробудится Спящий Город.	
+VO_Hero_07d_Male_OldGod_NoCards_01	Моя колода опустела!	
+VO_Hero_07d_Male_OldGod_Oops_02	Голоса сеют хаос.	
+VO_Hero_07d_Male_OldGod_Picked_01	Я спасу тебя от того, что грядет.	
+VO_Hero_07d_Male_OldGod_PIRATE_DAY_01	Йо... хо... хо...	
+VO_Hero_07d_Male_OldGod_Sorry_01	Я обрету искупление.	
+VO_Hero_07d_Male_OldGod_Start_01	Все глаза откроются!	
+VO_Hero_07d_Male_OldGod_START_ARTHAS_01	Будущее неизбежно, принц. Твоя корона откроет путь.	
+VO_Hero_07d_Male_OldGod_START_AZSHARA_01	Тщеславие. Одно лишь тщеславие.	
+VO_Hero_07d_Male_OldGod_START_DEATHWING_01	Разрушитель Миров. Ты услышал мой зов из глубин.	
+VO_Hero_07d_Male_OldGod_START_DRUID_01	Твои корни тянутся в глубину, пробуждая кошмар.	
+VO_Hero_07d_Male_OldGod_START_GARROSH_01	Наши дары тебе не оружие, вождь.	
+VO_Hero_07d_Male_OldGod_START_LADYPRESTOR_01	Я вижу твою истинную суть.	
+VO_Hero_07d_Male_OldGod_START_LADYVASHJ_01	Я так щедро одарил твой народ, твою королеву...	
+VO_Hero_07d_Male_OldGod_START_LAZUL_01	Как долго я нашептывал тебе...	
+VO_Hero_07d_Male_OldGod_START_MORGL_01	Глубины ждут тебя, малыш.	
+VO_Hero_07d_Male_OldGod_START_NEMSY_01	Ты тоже услышала зов из глубин.	
+VO_Hero_07d_Male_OldGod_START_SYLVANAS_01	Я вижу коварство в твоем темном сердце.	
+VO_Hero_07d_Male_OldGod_START_THUNDERKING_01	Пришло твое время, слуга титанов.	
+VO_Hero_07d_Male_OldGod_Thanks_01	Спасибо.	
+VO_Hero_07d_Male_OldGod_Thinking_01	Хм-м-м...	
+VO_Hero_07d_Male_OldGod_Thinking_02	...бесчисленные истины...	
+VO_Hero_07d_Male_OldGod_Thinking_04	...завеса рассеивается...	
+VO_Hero_07d_Male_OldGod_Threaten_02	Погрузись в мой сон...	
+VO_Hero_07d_Male_OldGod_Time_01	Час почти пробил!	
+VO_Hero_07d_Male_OldGod_TRIGGER_BANEOFDOOM_01	Конец — это новое начало.	
+VO_Hero_07d_Male_OldGod_TRIGGER_DECKOFCHAOS_01	Будущее — просто виток истории.	
+VO_Hero_07d_Male_OldGod_TRIGGER_DISCARD_01	Все глубже в бездну...	
+VO_Hero_07d_Male_OldGod_TRIGGER_DRAINLIFE_01	Ваши страдания придают мне сил.	
+VO_Hero_07d_Male_OldGod_TRIGGER_HELLFIRE_01	Смерть всему.	
+VO_Hero_07d_Male_OldGod_TRIGGER_HEROPOWER_01	Жертва...	
+VO_Hero_07d_Male_OldGod_TRIGGER_HEROPOWER_02	Еще...	
+VO_Hero_07d_Male_OldGod_TRIGGER_HEROPOWER_03	Я насыщаюсь...	
+VO_Hero_07d_Male_OldGod_TRIGGER_NZOTH_01	Я многолик.	
+VO_Hero_07d_Male_OldGod_TRIGGER_OPPONENT_SHADOWFORM_01	Да. Слейся с тьмой.	
+VO_Hero_07d_Male_OldGod_TRIGGER_PLOTTWIST_01	Все так обманчиво.	
+VO_Hero_07d_Male_OldGod_TRIGGER_SHADOWFLAME_01	Они сами идут ко мне.	
+VO_Hero_07d_Male_OldGod_TRIGGER_SOULFRAGMENT_01	Мои глаза открываются.	
+VO_Hero_07d_Male_OldGod_TRIGGER_TWISTEDKNOWLEDGE_01	Я знаю непостижимое. Вижу незримое.	
+VO_Hero_07d_Male_OldGod_TRIGGER_TWISTINGNETHER_01	Бездна пожирает.	
+VO_Hero_07d_Male_OldGod_Well_Played_01	Величие и ужас!	
+VO_Hero_07d_Male_OldGod_WOW_01	Сонм ликует!	
 VO_HERO_08_HAPPY_NEW_YEAR_15	С Новым годом!	
 VO_HERO_08b_HAPPY_NEW_YEAR_53	С Новым годом!	
 VO_Hero_08e_Male_Lich_Concede_01	Победа за тобой.	
@@ -1570,7 +1692,7 @@ VO_Hero_10_Male_NightElf_ERROR_TARGET_01	До этой цели мне не до
 VO_Hero_10_Male_NightElf_ERROR_TAUNT_01	Меня опять провоцируют! МЕНЯ!	
 VO_Hero_10_Male_NightElf_FIRE_FESTIVAL_01	Наши огни запылают ярче, чем все пламя Легиона!	
 VO_Hero_10_Male_NightElf_Greetings_01	Зло приближается.	
-VO_Hero_10_Male_NightElf_HAPPY_HALLOWEEN_01	<мрачно> Тьма окружает нас... <радостно> Это Тыквовин!	
+VO_Hero_10_Male_NightElf_HAPPY_HALLOWEEN_01	Тьма окружает нас… Это Тыквовин!	
 VO_Hero_10_Male_NightElf_HAPPY_HOLIDAYS_01	Почему нет Дня предателя?	
 VO_Hero_10_Male_NightElf_HAPPY_NEW_YEAR_01	С Новым годом!	
 VO_Hero_10_Male_NightElf_HAPPY_NEW_YEAR_LUNAR_01	С Новым годом!	
@@ -1724,6 +1846,7 @@ VO_HERO_18_Female_Gnome_Time_01	Пора поторопиться!
 VO_HERO_18_Female_Gnome_Well_Played_01	Ух ты! Неплохо сыграно!	
 VO_HERO_18_Female_Gnome_WOW_01	Это было КРУТО!	
 VO_ICC08_LichKing_Male_Human_YoungArthas_02	Ненавижу зеркальные матчи.	
+VO_INNKEEPER_Male_Dwarf_HERONAME_ANNHYLDE_01	Аннгильда!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_DEATHWING_01	Смертокрыл!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_ELISE_02	Элиза!	
 VO_Innkeeper_Male_Dwarf_HERONAME_ILLIDAN_01	Иллидан!	
@@ -1731,6 +1854,8 @@ VO_Innkeeper_Male_Dwarf_HERONAME_KELTHUZAD_01	Кел'Тузад!
 VO_INNKEEPER_Male_Dwarf_HERONAME_LAZUL_01	Лазул!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_LAZUL_02	Лазул!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_MECHAJAR_03	Меха-Джараксус!	
+VO_INNKEEPER_Male_Dwarf_HERONAME_NZOTH_02	Н'Зот!	
+VO_INNKEEPER_Male_Dwarf_HERONAME_NZOTH_03	Н'Зот!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_RASTAKHAN_01	Растахан!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_RASTAKHAN_02	Растахан!	
 VO_INNKEEPER_Male_Dwarf_Heroname_ThunderKing_01	Властелин Грома!	
@@ -1774,6 +1899,8 @@ VO_MechaJar_Male_Demon_TRIGGER_DOOM_01	БУМНЫЙ ДЕНЬ!
 VO_MechaJar_Male_Demon_TRIGGER_RENOUCEDARKNESS_01	ТЬМА УДАЛЕНА!	
 VO_MechaJar_Male_Demon_Well_Played_01	НЕПЛОХО СЫГРАНО!	
 VO_MechaJar_Male_Demon_WOW_01	НЕПЛОХО!	
+VO_Story_Hero_Rexxar_Male_Orc-Ogre_Story_Rexxar_Attack_01	Не хочу это делать... но придется.	
+VO_Story_Hero_Rexxar_Male_Orc-Ogre_Story_Rexxar_Greetings_01	Здравствуй.	
 VO_TBA01_4__Concede	(рычит)	
 VO_TBA01_4__Error_Full_Minions	(рычит)	
 VO_TBA01_4__Error_Generic	(рычит)	

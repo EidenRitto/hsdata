@@ -40,7 +40,7 @@ GLUE_ADVENTURE_CHAPTER_PURCHASED_POPUPDESCRIPTION_ULD_CHAPTER4	第IV章: 起源�
 GLUE_ADVENTURE_CHAPTER_PURCHASED_POPUPDESCRIPTION_ULD_CHAPTER5	第V章: 聖域	
 GLUE_ADVENTURE_CHAPTER_TITLE_BTP_PROLOGUE	序章	
 GLUE_ADVENTURE_CHAPTER_TITLE_DAL_CHAPTER1	I. ダララン銀行	
-GLUE_ADVENTURE_CHAPTER_TITLE_DAL_CHAPTER2	II. ヴァイオレット監獄 	
+GLUE_ADVENTURE_CHAPTER_TITLE_DAL_CHAPTER2	II. ヴァイオレット監獄	
 GLUE_ADVENTURE_CHAPTER_TITLE_DAL_CHAPTER3	III. ダラランの街	
 GLUE_ADVENTURE_CHAPTER_TITLE_DAL_CHAPTER4	IV. 最下層	
 GLUE_ADVENTURE_CHAPTER_TITLE_DAL_CHAPTER5	V. キリン・トア城砦	
@@ -72,7 +72,7 @@ GLUE_ADVENTURE_CHAPTERPAGE_DESCRIPTION_ULD_CHAPTER1	トルヴィアの失われ�
 GLUE_ADVENTURE_CHAPTERPAGE_DESCRIPTION_ULD_CHAPTER2	苛酷なウルドゥムの砂漠を、次々に襲い掛かる「狂気」と戦いながら横断しよう。	
 GLUE_ADVENTURE_CHAPTERPAGE_DESCRIPTION_ULD_CHAPTER3	[x]「死」に打ち克つ方法を求めて、複雑怪奇な\nカルトゥートの墓所の奥深くまで探索しよう。	
 GLUE_ADVENTURE_CHAPTERPAGE_DESCRIPTION_ULD_CHAPTER4	「怒りの災厄」に勝利するため、聖なる殿堂の巨大な守護者たちを倒そう。	
-GLUE_ADVENTURE_CHAPTERPAGE_DESCRIPTION_ULD_CHAPTER5	4人のヒーロー全員で一丸となって、炎の災厄王の力を手に入れたテカーンと対決しよう。 	
+GLUE_ADVENTURE_CHAPTERPAGE_DESCRIPTION_ULD_CHAPTER5	4人のヒーロー全員で一丸となって、炎の災厄王の力を手に入れたテカーンと対決しよう。	
 GLUE_ADVENTURE_CHAPTERPAGE_GLOBALRULE_DAL_CHAPTER1	どんでん返し: コイン入りの箱	
 GLUE_ADVENTURE_CHAPTERPAGE_GLOBALRULE_DAL_CHAPTER2	どんでん返し: 脱獄するミニオン	
 GLUE_ADVENTURE_CHAPTERPAGE_GLOBALRULE_DAL_CHAPTER3	どんでん返し: 狭い路地	
@@ -111,6 +111,10 @@ GLUE_ADVENTURE_DUNGEON_CRAWL_INTRO_BANNER_HEADER	冒険者求ム！
 GLUE_ADVENTURE_DUNGEON_CRAWL_INTRO_BANNER_TRL_HEADER	闘士よ 名乗りを上げよ！	
 GLUE_ADVENTURE_DUNGEON_CRAWL_MONSTERS_DEFEATED	撃破した怪物の数	
 GLUE_ADVENTURE_DUNGEON_CRAWL_MONSTERS_DEFEATED_AS_CLASS	{0}で撃破した怪物の数	0 = Class name
+GLUE_ADVENTURE_DUNGEON_CRAWL_RETIRE	リタイア	
+GLUE_ADVENTURE_DUNGEON_CRAWL_RETIRE_CONFIRMATION_BODY	本当にリタイアするんだな？	
+GLUE_ADVENTURE_DUNGEON_CRAWL_RETIRE_CONFIRMATION_HEADER	リタイア	
+GLUE_ADVENTURE_DUNGEON_CRAWL_RETIRE_FAILURE_BODY	リタイアできなかったぞ。もう一度試してみてくれ。	
 GLUE_ADVENTURE_DUNGEON_CRAWL_RUMBLE_RUN_WINS	大会優勝回数	
 GLUE_ADVENTURE_DUNGEON_CRAWL_RUN_WINS	攻略完了回数	
 GLUE_ADVENTURE_DUNGEON_CRAWL_SHRINE_TUTORIAL_BODY	ミコシは対戦開始時に陣地に出るぞ。\n\nミコシは非常に強力で、死ぬ代わりに休眠状態になるんだ。	
@@ -142,6 +146,7 @@ GLUE_ADVENTURE_LOE_WING4_LOCKED_PURCHASE	購入するには他の区画を\n全�
 GLUE_ADVENTURE_MODE_CLASS_CHALLENGE_CHOOSE	どのチャレンジを選ぶね？	
 GLUE_ADVENTURE_MORE_CARDS	さらなるカード	// full text appears as "+6 more cards"
 GLUE_ADVENTURE_NEW_MODE_UNLOCKED_POPUP_TEXT	新モード解禁	
+GLUE_ADVENTURE_NEWHEROBANNER_BOH	新ヒーロー！	
 GLUE_ADVENTURE_NUM_BOSSES_DEFEATED	{0}/{1}	
 GLUE_ADVENTURE_NUM_CARDS_COLLECTED	{0}/{1}	
 GLUE_ADVENTURE_NUM_CHAPTERS_OWNED	{0}つの章を所持	
@@ -234,6 +239,9 @@ GLUE_BACON_BONUS_PREPURCHASE_RULE_2	特典は、「灰に舞う降魔の狩人�
 GLUE_BACON_BONUS_RULE_1	ボーナスの開放には「<color=#DC5AFF>激闘！ドラゴン大決戦</color>」パックの入手が必要だ。	
 GLUE_BACON_BONUS_RULE_2	各ボーナスは次の拡張版のリリースまで有効だ。	
 GLUE_BACON_BONUS_TAG	ベータ以後に有効	
+GLUE_BACON_DISBAND_PARTY_CONFIRMATION_BODY	バトルグラウンドのパーティを解散するぞ。\n本当にいいんだな？	
+GLUE_BACON_EXPIRD_INVITE_BODY	このパーティへの招待は無効になったぞ。	
+GLUE_BACON_EXPIRED_INVITE_HEADER	無効な招待	
 GLUE_BACON_FIRST_PLACE_LABEL	1位	
 GLUE_BACON_FOOTER	[x]バトルグラウンドへようこそ！\n8人の闘士が入場。勝者となるのはただ1人。	
 GLUE_BACON_INFO_POPUP_COMBAT	戦闘フェーズ	
@@ -242,16 +250,31 @@ GLUE_BACON_INFO_POPUP_PAGE	ページ
 GLUE_BACON_INFO_POPUP_PLAY_TUTORIAL	チュートリアルをプレイ	
 GLUE_BACON_INFO_POPUP_RECRUIT	雇用フェーズ	
 GLUE_BACON_INFO_POPUP_RECRUIT_TIPS	<color=#C900FF>• 買う:</color> ミニオンを自分のヒーローまでドラッグすると3ゴールドで買える。\n<color=#C900FF>• 売る:</color> ミニオンをボブまでドラッグすると1ゴールドで売れる。\n<color=#C900FF>• トリプル:</color> 同じミニオンを3体揃えるとアップグレードでき、さらにボーナス賞品を得られる。\n<color=#C900FF>• 配置変更:</color> ミニオンはドラッグして並び順（＝攻撃順）を入れ替えられる。\n<color=#C900FF>• 成長:</color> 雇用フェーズ中の強化効果は永続する。\n<color=#C900FF>• 酒場グレード:</color> 酒場をアップグレードすると、より強いミニオンが現れるようになる。\n 	Every other Tier increases the number of shop minions.\n 
-GLUE_BACON_INFO_POPUP_SUMMARY	他のプレイヤー7人と対戦。最後まで生き残ったプレイヤーが優勝だ。 	
+GLUE_BACON_INFO_POPUP_SUMMARY	他のプレイヤー7人と対戦。最後まで生き残ったプレイヤーが優勝だ。	
 GLUE_BACON_INFO_POPUP_TITLE	バトルグラウンドのルール	
+GLUE_BACON_INVITE_WHILE_APPEARING_OFFLINE	オフライン表示中はパーティへの招待を受けられないぞ。	
+GLUE_BACON_INVITE_WHILE_APPEARING_OFFLINE_HEADER	招待エラー	
+GLUE_BACON_LEAVE_PARTY_CONFIRMATION_BODY	バトルグラウンドのパーティを抜けるぞ。\n本当にいいんだな？	
+GLUE_BACON_LEAVE_PARTY_CONFIRMATION_CANCEL	留まる	
+GLUE_BACON_LEAVE_PARTY_CONFIRMATION_CONFIRM	抜ける	
+GLUE_BACON_LEAVE_PARTY_CONFIRMATION_HEADER	パーティを抜ける	
 GLUE_BACON_LOW_MEMORY_BODY	「バトルグラウンド」が最適に動作するには、2GB以上のメモリを搭載したデバイスが必要だ。あんたのデバイスは、プレイするための最低条件を満たしてない可能性があるな。あんたのデバイスでのパフォーマンスの向上に取り組んでいくのは、ベータ版からの移行以降になる予定だぞ。	
 GLUE_BACON_LOW_MEMORY_HEADER	警告	
 GLUE_BACON_NOTIFICATION_POPUP_HEADER	バトルグラウンドのアップデート	
+GLUE_BACON_PARTY_INVITE_WHILE_IN_PARTY	新しいパーティに参加するには、今のパーティを抜ける必要があるぞ。	
+GLUE_BACON_PARTY_SPECTATE_ERROR_BODY	このプレイヤーは観戦できないぞ。	
+GLUE_BACON_PARTY_SPECTATE_ERROR_HEADER	観戦	
+GLUE_BACON_PARTY_TUTORIAL_DISABLED	パーティにいる時はできないぞ。	
 GLUE_BACON_PERKS	特典	
 GLUE_BACON_PERKS_ERROR_BODY	現在、バトルグラウンドボーナスはないぞ。また後で確認してみてくれ。	
 GLUE_BACON_PERKS_ERROR_HEADER	バトルグラウンドボーナス	
 GLUE_BACON_PERKS_EXPIRING_BODY	あんたのバトルグラウンドボーナスはもうすぐ期限切れになる。<color="#FF0156">灰に舞う降魔の狩人</color>がリリースされてから、新たに「酒場パス」を購入すると、次のシーズンのバトルグラウンド特典を利用できるようになるぞ。	
 GLUE_BACON_PERKS_ON_TICKET	特典	
+GLUE_BACON_PRIVATE_GAME	非公開ゲーム	
+GLUE_BACON_PRIVATE_PARTY_TITLE	バトルグラウンドのパーティ	
+GLUE_BACON_PRIVATE_PARTY_WARNING	{0}人以上招待すると、対戦は非公開になるぞ。それでもいいか？	0=number represent max ranked party size
+GLUE_BACON_QUEUE_CANCELED	<color=#{0}>{1}</color>が検索を取り下げたぞ。	0=color 1=player name
+GLUE_BACON_RANKED_GAME	ランク戦	
 GLUE_BACON_RATING_LABEL	レーティング	
 GLUE_BACON_STATS_LABEL_BIGGEST_MINION	[x]最大\nミニオン	
 GLUE_BACON_STATS_LABEL_DAMAGE_ONE_MINION	{0}によるダメージ	
@@ -287,6 +310,26 @@ GLUE_BLIZZCON2013_ARENA_5_WINS	これでもう、闘技場のベテランだな�
 GLUE_BLIZZCON2013_ARENA_GRAND_PRIZE	うおおおお！新たな闘技場チャンピオンの誕生だ！この画面をBlizzConの係員に見せて、特賞を受け取ってくれ！	
 GLUE_BLIZZCON2013_ARENA_NO_PRIZE	プレイしてくれてありがとう！中々だったな！近い内にまた会おう！	
 GLUE_BLIZZCON2013_ARENA_PRIZE	おめでとう！報酬を獲得したぞ！この画面をBlizzConの係員に見せてくれ！	
+GLUE_BOH_LOADING_BAR_TASK_1	写本を借用中	
+GLUE_BOH_LOADING_BAR_TASK_10	羽根ペンを跳ねさせ中	
+GLUE_BOH_LOADING_BAR_TASK_11	伝承師に伝達中	
+GLUE_BOH_LOADING_BAR_TASK_12	日誌の滲み取り中	
+GLUE_BOH_LOADING_BAR_TASK_13	出典に執着中	
+GLUE_BOH_LOADING_BAR_TASK_14	凡例を反映中	
+GLUE_BOH_LOADING_BAR_TASK_15	資料を使用中	
+GLUE_BOH_LOADING_BAR_TASK_16	神話の真偽を審議中	
+GLUE_BOH_LOADING_BAR_TASK_17	ヒーローを贔屓中	
+GLUE_BOH_LOADING_BAR_TASK_18	史家をシカト中	
+GLUE_BOH_LOADING_BAR_TASK_19	スクロールを透けさせ中	
+GLUE_BOH_LOADING_BAR_TASK_2	上質皮紙で上梓中	
+GLUE_BOH_LOADING_BAR_TASK_20	インクで印字中	
+GLUE_BOH_LOADING_BAR_TASK_3	羊皮紙を用意中	
+GLUE_BOH_LOADING_BAR_TASK_4	冊子をサーチ中	
+GLUE_BOH_LOADING_BAR_TASK_5	偏執的に編集中	
+GLUE_BOH_LOADING_BAR_TASK_6	公正に校正中	
+GLUE_BOH_LOADING_BAR_TASK_7	懸命に研究中	
+GLUE_BOH_LOADING_BAR_TASK_8	脚注を意訳中	
+GLUE_BOH_LOADING_BAR_TASK_9	メンバーと面談中	
 GLUE_BOT_LOADING_BAR_TASK_1	タイマーをセット中	
 GLUE_BOT_LOADING_BAR_TASK_10	ひも理論中	
 GLUE_BOT_LOADING_BAR_TASK_11	ブームロボをなだめ中	
@@ -380,7 +423,7 @@ GLUE_CHINA_STORE_MAMMOTH_BUNDLE_GIFT_2	30包卡牌包
 GLUE_CHINA_STORE_WELCOME_BUNDLE_GIFT_1	赠礼：\n\n10包卡牌包	
 GLUE_CHINA_STORE_WELCOME_BUNDLE_GIFT_2	1张传说卡牌	
 GLUE_CHOOSE	選択	
-GLUE_CHOOSE_DECK_NO_SELECTION	無料のデッキを1つ進呈するぞ！最近のカードを試してみな！ 	
+GLUE_CHOOSE_DECK_NO_SELECTION	無料のデッキを1つ進呈するぞ！最近のカードを試してみな！	
 GLUE_CHOOSE_DECK_NO_SELECTION_HEADER	クラスを選んでくれ	
 GLUE_CHOOSE_OPPONENT	対戦相手の選択	
 GLUE_CHOOSE_YOUR_DECK	デッキの選択	
@@ -394,8 +437,8 @@ GLUE_CLASS_DESCRIPTION_ROGUE	必殺のコンボ攻撃で仕掛けるか、はた
 GLUE_CLASS_DESCRIPTION_SHAMAN	大いなる精霊達を意のままに従えよ。されどその対価はゆめゆめ忘れるなかれ。	
 GLUE_CLASS_DESCRIPTION_WARLOCK	忠実な下僕、邪魔な敵、己が魂、全てを捧げよ。悪魔の力は汝のものなり。	
 GLUE_CLASS_DESCRIPTION_WARRIOR	強力無比なる数々の武器にて押し潰せ。血の渇きが汝の力をいや増さん。	
-GLUE_CLASS_INVALID_DECK_DESC	このデッキはクラスがおかしいぞ。 	
-GLUE_CLASS_INVALID_DECK_TITLE	不正なクラス 	
+GLUE_CLASS_INVALID_DECK_DESC	このデッキはクラスがおかしいぞ。	
+GLUE_CLASS_INVALID_DECK_TITLE	不正なクラス	
 GLUE_CLASS_UNLOCKED_CARDS_DEMONHUNTER	デーモンハンター用カードがコレクション可能になったぞ！	
 GLUE_CLASS_UNLOCKED_CARDS_MORE	新カード27種以上	
 GLUE_CLASS_UNLOCKED_CLASS	新クラスが開放されたぞ！	
@@ -431,6 +474,8 @@ GLUE_COLLECTION_CRAFTING_SHOW_SOULBOUND_CARDS	作成不能カードを含める
 GLUE_COLLECTION_CUSTOM_DECKNAME_SHORT	{0}{1}	0=class name, 1=incrementer
 GLUE_COLLECTION_CUSTOM_DECKNAME_TEMPLATE	カスタム{0}{1}	0=class name, 1=incrementer
 GLUE_COLLECTION_DECK	デッキ	
+GLUE_COLLECTION_DECK_CLIPBOARD_ACCESS_BODY	より快適なデッキ作りのため、「ハースストーン」は時々<b>あんたのデバイスのクリップボード</b>にアクセスして、外部のソースからコピーしたデッキコードがないか確認するんだ。あんたが自作のデッキを友達にシェアしたい時にも役に立つぞ！	
+GLUE_COLLECTION_DECK_CLIPBOARD_ACCESS_HEADER	クリップボード	
 GLUE_COLLECTION_DECK_COMPELTE_BUTTON	デッキ自動完成	
 GLUE_COLLECTION_DECK_COMPLETE_POPUP_CANCEL	やめる	
 GLUE_COLLECTION_DECK_COMPLETE_POPUP_CONFIRM	よし！	
@@ -509,6 +554,7 @@ GLUE_COLLECTION_DECK_WILD_POPUP_TEXT	これはワイルドデッキだ。お任�
 GLUE_COLLECTION_DELETE_CONFIRM_DESC	このデッキは削除されるぞ。本当にいいんだな？	
 GLUE_COLLECTION_DELETE_CONFIRM_HEADER	削除	
 GLUE_COLLECTION_DELETE_UNAVAILABLE_DESC	全種類のクラスを使用可能にするまでは、デッキを削除できないぞ。	
+GLUE_COLLECTION_DUEL_DECKNAME	デュエルデッキ	
 GLUE_COLLECTION_EMPTY_PAGE	ページ0	
 GLUE_COLLECTION_ERROR_HEADER	コレクションエラー	
 GLUE_COLLECTION_FEATURED_CARDS	注目のカード	
@@ -523,8 +569,11 @@ GLUE_COLLECTION_LOCK_CARD_NOT_PLAYABLE	解禁前
 GLUE_COLLECTION_LOCK_MAX_DECK_COPIES	選択上限: {0}	
 GLUE_COLLECTION_LOCK_NO_MORE_INSTANCES	在庫なし	
 GLUE_COLLECTION_MANAGER_CARD_BACKS_TITLE	カード裏面デザイン	
+GLUE_COLLECTION_MANAGER_COIN_TITLE	コイン	
+GLUE_COLLECTION_MANAGER_COINS_TITLE	コイン	
 GLUE_COLLECTION_MANAGER_FAVORITE_BUTTON	お気に入りにする	
 GLUE_COLLECTION_MANAGER_FAVORITE_CARD_BACK	お気に入り	
+GLUE_COLLECTION_MANAGER_FAVORITE_COIN	お気に入り	
 GLUE_COLLECTION_MANAGER_FAVORITE_DEFAULT_TEXT	お気に入り{0}	
 GLUE_COLLECTION_MANAGER_HELP_ME	ヒント	
 GLUE_COLLECTION_MANAGER_HERO_SKINS_TITLE	ヒーロー	
@@ -645,7 +694,7 @@ GLUE_DAL_LOADING_BAR_TASK_14	悪事を実行中
 GLUE_DAL_LOADING_BAR_TASK_15	遺恨を残し中	
 GLUE_DAL_LOADING_BAR_TASK_16	手をこまねき中	
 GLUE_DAL_LOADING_BAR_TASK_17	子分どもに怒鳴り散らし中	
-GLUE_DAL_LOADING_BAR_TASK_18	誇大妄想を垂れ流し中 	
+GLUE_DAL_LOADING_BAR_TASK_18	誇大妄想を垂れ流し中	
 GLUE_DAL_LOADING_BAR_TASK_19	大事件を巻き起こし中	
 GLUE_DAL_LOADING_BAR_TASK_2	ゲンコツを振り回し中	
 GLUE_DAL_LOADING_BAR_TASK_20	手先を徴集中	
@@ -672,7 +721,7 @@ GLUE_DECK_TRAY_GALAKROND_PROMPT_DESC	祈願カードをデッキに追加する�
 GLUE_DECK_TRAY_GALAKROND_PROMPT_TITLE	デッキに「ガラクロンド」を追加するか？	
 GLUE_DECK_TRAY_HEROES_UNLOCKED_COUNT_LABEL	入手済	
 GLUE_DEMON_HUNTER_LOCKED_HEADER	未開放のヒーローだ	
-GLUE_DEMON_HUNTER_LOCKED_PROLOGUE	ソロ・アドベンチャーの「灰に舞う降魔の狩人・デーモンハンター序章」をプレイして、このヒーローを開放しよう。 	
+GLUE_DEMON_HUNTER_LOCKED_PROLOGUE	ソロ・アドベンチャーの「灰に舞う降魔の狩人・デーモンハンター序章」をプレイして、このヒーローを開放しよう。	
 GLUE_DEVICE_PERFORMANCE_WARNING	このデバイスはハースストーンの必要動作環境を満たしていないため、プレイ中にグラフィックやパフォーマンス上の問題が発生する可能性があるぞ。\n\n詳しい情報は「サポート」をタップして確認してくれ。	
 GLUE_DEVICE_PERFORMANCE_WARNING_TITLE	端末のパフォーマンス	
 GLUE_DISABLED_WILD_DECK_DESC	こいつはスタンダードでは使えないぞ。ワイルドフォーマットに切り替えるか、デッキをスタンダード用に変換してくれ。	
@@ -709,10 +758,16 @@ GLUE_DRG_LOADING_BAR_TASK_6	火を吐き中
 GLUE_DRG_LOADING_BAR_TASK_7	パラシュートをたたみ中	
 GLUE_DRG_LOADING_BAR_TASK_8	大砲に装填中	
 GLUE_DRG_LOADING_BAR_TASK_9	チビドラゴンをあやし中	
+GLUE_DUELS_GENERIC_ERROR	このアクションをブロックするエラーが発生したぞ。後でもう一度試してみてくれ。\n問題が解決しない場合は、ハースストーンを再起動してみてくれ。	
+GLUE_DUELS_NEW_UNLOCKS_BODY	おめでとう！カードコレクションの進捗によって、「デュエル」の新アイテム{0}点が開放されたぞ！	
+GLUE_DUELS_NEW_UNLOCKS_BUTTON	すごい！	
+GLUE_DUELS_NEW_UNLOCKS_HEADER	アイテム開放！	
+GLUE_DUELS_NOTIFICATION_POPUP_HEADER	「デュエル」アップデート	
 GLUE_EDIT	編集	
 GLUE_EDIT_DECK	デッキの編集	
 GLUE_ERROR_DECK_RULESET_RULE_VIOLATION	選択したデッキは、このゲームモードでは使えないぞ。	
 GLUE_ERROR_DECK_VALIDATION_WRONG_FORMAT	このモードではワイルドデッキは使えないぞ。	
+GLUE_ERROR_PLAY_GAME_PARTY_NOT_ALLOWED	パーティに、レーティングが高すぎてグループでのランク戦が禁止されてるプレイヤーが混ざってるぞ。	
 GLUE_FAKE_QUEST_FIRST_DESCRIPTION	この街のヤバい区画によう来たのぉ…	
 GLUE_FAKE_QUEST_FIRST_NAME	ガジェッツァンへようこそ！	
 GLUE_FAKE_QUEST_FIRST_REWARD	0ゴールド	
@@ -823,12 +878,15 @@ GLUE_FSG_STARTING_MINUTES	{0} |4(分後,分後)に開催
 GLUE_FSG_STARTING_OVER_1_MONTH	1ヶ月以内に開催	
 GLUE_FSG_STARTING_SECONDS	{0} |4(秒後,秒後)に開催	
 GLUE_FSG_STARTING_WEEKS	{0}週間以内に開催	
+GLUE_FUN_CONFIRM_MESSAGE	ステキ！	
+GLUE_GAME_MODE_NEW_MODE_UNLOCKED_POPUP_HEADER	新モード解禁:	
 GLUE_GAME_MODES	特殊モード	
 GLUE_GAME_MODES_POPUP_BACON_DESC	プレイヤー8人でバトルロイヤルだ。	
 GLUE_GAME_MODES_POPUP_BETA	[x]ベータ	
 GLUE_GAME_MODES_POPUP_EARLY_ACCESS	早期アクセス	
 GLUE_GAME_MODES_POPUP_FORGE_DESC	ドラフトでカード30枚のデッキを組むぞ。	
 GLUE_GAME_MODES_POPUP_HEADER	モードを選んでくれ	
+GLUE_GAME_MODES_POPUP_PVPDR_DESC	[PH]宝を集め、ドラフトして、栄光を賭けて闘おう！	
 GLUE_GENERIC_RANDOM_CARD_SCROLL_DESC	{0}がバンドルに入ってたぞ！	This is meant to replace the above welcome bundle strings until we have the tech to show custom strings per reward.
 GLUE_GENERIC_RANDOM_CARD_SCROLL_TITLE	こいつはレジェンドカードだ！	This is meant to replace the above welcome bundle strings until we have the tech to show custom strings per reward.
 GLUE_GHOST_CARD_MISSING_DESCRIPTION	選択したカードを持っていません！\nクリックして使用できるカードを探しましょう。	
@@ -878,7 +936,7 @@ GLUE_HEROIC_BRAWL_PLAY_CONFIRMATION	一連の挑戦が終わるまで、デッ�
 GLUE_HEROIC_BRAWL_PLAY_CONFIRMATION_CANCEL	いや、ちょっと待った！	
 GLUE_HEROIC_BRAWL_PLAY_CONFIRMATION_OK	確定する！	
 GLUE_HEROIC_BRAWL_PLAY_CONFIRMATION_TITLE	このデッキで確定するか？	
-GLUE_HEROIC_BRAWL_REWARDS_DESCRIPTION	勝てば勝つほど報酬も増えるぞ！12勝すると報酬は最大だ。3敗するとそこで終わりだからな。\n参加資格があり、最大連勝したプレイヤーは、マスターズツアー大会への出場権を獲得できるんだ。\n以下をクリックすると、blizz.ly/brawl にある参加規約に同意したことになるからな。	
+GLUE_HEROIC_BRAWL_REWARDS_DESCRIPTION	褒賞は勝者の手に！勝てば勝つほど報酬も増えるぞ！\n12勝すると報酬は最大だ。3敗するとそこで終わりだからな。	
 GLUE_HEROIC_BRAWL_REWARDS_NOTICE_DESC	ヒロイック喧嘩の報酬	
 GLUE_HEROIC_BRAWL_REWARDS_WIN_BANNER_TEXT	{0}勝！	
 GLUE_HEROIC_BRAWL_RULES_TITLE	ルール	
@@ -928,6 +986,7 @@ GLUE_INKEEPER_RANDOM_CARD_DECK_RECIPE_WARRIOR	おお！ウォリアーのレジ�
 GLUE_INNKEEPERS_SPECIAL_CONFIRM_POPUP_HEADER	ブラウザで開く	
 GLUE_INNKEEPERS_SPECIAL_CONFIRM_POPUP_MESSAGE	このコンテンツはウェブブラウザで開きます。続行しますか？	
 GLUE_INNKEEPERS_SPECIAL_LEARN_MORE	もっと詳しく	
+GLUE_JOURNAL_PHONE_BUTTON	日誌	
 GLUE_KABAL_CLASS_NAMES	メイジ、プリースト、ウォーロック	
 GLUE_KARA_LOADING_BAR_TASK_1	銀食器を磨き中	
 GLUE_KARA_LOADING_BAR_TASK_10	風呂を沸かし中	
@@ -1021,7 +1080,7 @@ GLUE_LOADINGSCREEN_PROGRESS_UNITY_1	ダウンロード完了まで待ってく�
 GLUE_LOADINGSCREEN_PROGRESS_UNITY_2	ゲームデータのダウンロード中	
 GLUE_LOADINGSCREEN_PROGRESS_UNITY_3	木箱を開き中	
 GLUE_LOADINGSCREEN_PROGRESS_UNITY_4	アプリを切り替えるとアップデートが一時停止するぞ	
-GLUE_LOADINGSCREEN_PROGRESS_UNITY_5	アプリを切り替えない方が、早く終わるぞ！ 	
+GLUE_LOADINGSCREEN_PROGRESS_UNITY_5	アプリを切り替えない方が、早く終わるぞ！	
 GLUE_LOADINGSCREEN_PROGRESS_UNITY_6	プレイを続行するにはアップデートが必要だ	
 GLUE_LOADINGSCREEN_PROGRESS_UNITY_7	ダウンロード進行中だ	
 GLUE_LOADINGSCREEN_PROGRESS_UNITY_8	しばらく時間がかかるかもな	
@@ -1057,7 +1116,7 @@ GLUE_LOOT_LOADING_BAR_TASK_10	パーティの仲間を募集中
 GLUE_LOOT_LOADING_BAR_TASK_11	トンネルを掘り進め中	
 GLUE_LOOT_LOADING_BAR_TASK_12	ブービートラップを仕掛け中	
 GLUE_LOOT_LOADING_BAR_TASK_13	ドラゴンから逃走中	
-GLUE_LOOT_LOADING_BAR_TASK_14	ファーボルグに食事提供中 	
+GLUE_LOOT_LOADING_BAR_TASK_14	ファーボルグに食事提供中	
 GLUE_LOOT_LOADING_BAR_TASK_15	ランダムにパイロブラスト撃ちまくり中	
 GLUE_LOOT_LOADING_BAR_TASK_16	宝箱を漁り中	
 GLUE_LOOT_LOADING_BAR_TASK_17	ローグの失敗を非難中	
@@ -1145,12 +1204,13 @@ GLUE_OFFLINE_SAVE_DECK_BODY	インターネットに再接続するまで、あ�
 GLUE_OFFLINE_SAVE_DECK_HEADER	保存したぞ	
 GLUE_OPEN_PACKS	パックを開封	
 GLUE_OPEN_PACKS_PHONE	パックを開封	
-GLUE_OUTSTANDING_DRAFT_TICKET_DIALOG_DESC	あんた、闘技場チケットを持ってるな！今回は入場料は無しでいいぞ。	
+GLUE_OUTSTANDING_DRAFT_TICKET_DIALOG_DESC	あんた、酒場チケットを持ってるな！今回は入場料は無しでいいぞ。	
 GLUE_OUTSTANDING_DRAFT_TICKET_DIALOG_HEADER	ようこそ闘技場へ！	
 GLUE_PACK_OPENING_ALL_CLASSES	全クラス	
 GLUE_PACK_OPENING_BOOSTER_COUNT	{0}	0=number of owned boosters
 GLUE_PACK_OPENING_HEADER	パックを開封	
 GLUE_PACK_OPENING_TOOLTIP	카드 팩을 개봉함으로써, 귀하는 카드 팩의 청약철회가 불가하다는 사실을 인지하고 이에 동의합니다.	only displayed for Korean customers, should always be in Korean
+GLUE_PARTY_MEMBER_NO_NAME	…	
 GLUE_PATCHING_ERROR	ハースストーンのアップデート中にエラーが発生しました。もう一度お試し下さい。	
 GLUE_PATCHING_LABEL	{0}/{1}個のファイルをダウンロード中	
 GLUE_PICK_A_CARD	カードを選ぼう	
@@ -1161,12 +1221,96 @@ GLUE_PLAY_WILD	ワイルドをプレイ
 GLUE_PLAYERS_NEARBY	近くのプレイヤー	
 GLUE_PRACTICE	練習	
 GLUE_PRACTICE_HINT	練習モードは\nここだ	
+GLUE_PROGRESSION_ACHIEVEMENT_INSPECT_TITLETEXT	達成で獲得:	
+GLUE_PROGRESSION_ACHIEVEMENT_TOAST	<color=#FFD451>{0}</color>を<color=#FFFFFF>達成</color>	
+GLUE_PROGRESSION_ACHIEVEMENTS_COMPLETED	達成！	
+GLUE_PROGRESSION_ACHIEVEMENTS_TITLE	実績	
+GLUE_PROGRESSION_BONUS_ERROR_BODY	現在、酒場パスはないぞ。また後で確認してみてくれ。	
+GLUE_PROGRESSION_BONUS_ERROR_HEADER	酒場パス	
+GLUE_PROGRESSION_PROFILE_CLASS_TITLE	クラス進捗	
+GLUE_PROGRESSION_PROFILE_TITLE	プロフィール	
+GLUE_PROGRESSION_QUEST_DAILY	デイリー	
+GLUE_PROGRESSION_QUEST_WEEKLY	ウィークリー	
+GLUE_PROGRESSION_QUESTS_TITLE	クエスト	
+GLUE_PROGRESSION_REWARD_BONUS_GOLD	ボーナス！	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_BODY	報酬XPを獲得して報酬レーンでレベルを上げ、限定報酬をもらおう！	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_OPTION_1	クエスト	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_OPTION_2	ゲームプレイ	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_OPTION_3	実績	
+GLUE_PROGRESSION_REWARD_INFO_POPUP_SUBTITLE	XPを得るには	
+GLUE_PROGRESSION_REWARD_TRACK_BUY_BUTTON	酒場パスを入手	
+GLUE_PROGRESSION_REWARD_TRACK_CLAIM_TOOLTIP	最初の報酬を受け取ろう！	
+GLUE_PROGRESSION_REWARD_TRACK_INFO_HEADER	報酬レーンについて	
+GLUE_PROGRESSION_REWARD_TRACK_PAGE_NUMBER	ページ{0}/{1}	
+GLUE_PROGRESSION_REWARD_TRACK_PASS	酒場パス	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_BONUS_LEVEL	レベル{0}超	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_BONUS_TITLE	ボーナス報酬	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_COMPLETE_LEVEL	レベル{0}	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_INCOMPLETE_LEVEL	レベル{0}で獲得	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_PREMIUM_LOCKED	「酒場パス」でプレミアム報酬を開放しよう！	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_SKIN_CHOICE_CLAIMED	受け取り済み	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_SKIN_CHOICE_CTA	受け取る	
+GLUE_PROGRESSION_REWARD_TRACK_POPUP_SKIN_CHOICE_TITLE	ヒーロースキンを選んでくれ	
+GLUE_PROGRESSION_REWARD_TRACK_RESET	次の拡張版でリセット\nされるぞ	
+GLUE_PROGRESSION_REWARD_TRACK_REWARD_SCROLL_TITLE	レベル{0}報酬！	
+GLUE_PROGRESSION_REWARD_TRACK_UNLOCK_BUY_BUTTON	酒場パスで開放	
+GLUE_PROGRESSION_REWARD_TRACK_XP_PROGRESS	{0}/{1}	
+GLUE_PROGRESSION_REWARD_TRACK_XP_TOOLTIP_BOOST_BODY	XPブースト+{0}%	
+GLUE_PROGRESSION_REWARD_TRACK_XP_TOOLTIP_BOOST_TITLE	XPボーナス	
+GLUE_PROGRESSION_REWARDS_TITLE	報酬レーン	
 GLUE_PROLOGUE_REWARD	序章をクリアして、クラス「デーモンハンター」と\nカード30種を開放しよう。	
 GLUE_PUSH_NOTIFICATION_CONTEXT_BODY	すげぇニュースがある時、お知らせが欲しいかい？	
 GLUE_PUSH_NOTIFICATION_CONTEXT_CANCEL	いらない	
 GLUE_PUSH_NOTIFICATION_CONTEXT_CONFIRM	欲しい！	
 GLUE_PUSH_NOTIFICATION_CONTEXT_HEADER	プッシュ通知	
 GLUE_PUSH_NOTIFICATION_EXTENDED_CONTEXT_BODY	あんたの端末のプッシュ通知がオフになっているぞ。端末の設定でこのアプリのプッシュ通知を許可すれば、通知を受け取れるようになるからな。	
+GLUE_PVPDR	デュエル	
+GLUE_PVPDR_BEST_WINS_AS_CLASS	{0}の最高勝利数	0 = Class name
+GLUE_PVPDR_BUILD_DECK	デッキを組む	
+GLUE_PVPDR_DECK_ERROR_DESC	デッキのロード時にエラーが発生したぞ。もう一度試してくれ。	
+GLUE_PVPDR_DECK_ERROR_TITLE	デッキエラー	
+GLUE_PVPDR_DECK_TRAY_HEADER	デュエルデッキ	
+GLUE_PVPDR_EARLY_ACCESS_SHOP_ERROR_BODY	現在、デュエルの早期アクセスプロダクトはないぞ。また後で確認してみてくれ。	
+GLUE_PVPDR_END_OF_RUN_HEADER	挑戦終了	
+GLUE_PVPDR_END_OF_RUN_TIER_0_WIN	あんたは最善を尽くしたんだ。\n出直して、もう一度挑戦しよう！\n<color=#e3ab0c>カジュアルモードのレーティング {0}</color>	
+GLUE_PVPDR_END_OF_RUN_TIER_1_WIN	中々の戦いっぷりだったな。\nもう一度挑戦するかい？\n<color=#e3ab0c>カジュアルモードのレーティング {0}</color>	
+GLUE_PVPDR_END_OF_RUN_TIER_2_WIN	見事な成果だったな。もう一度やるかい？\n<color=#e3ab0c>カジュアルモードのレーティング {0}</color>	
+GLUE_PVPDR_END_OF_RUN_TIER_MAX_WIN	すごい！あんたは勝利数の上限を達成したぞ。\nおめでとう！\n<color=#e3ab0c>カジュアルモードのレーティング {0}</color>	
+GLUE_PVPDR_ENTRY_POPUP_BUTTON_LOCKED	近日登場	
+GLUE_PVPDR_ENTRY_POPUP_DESCRIPTION_HEROIC	報酬を求めて戦おう	
+GLUE_PVPDR_ENTRY_POPUP_DESCRIPTION_NORMAL	自分の腕を確かめよう	
+GLUE_PVPDR_ENTRY_POPUP_LABEL_HEROIC	[x]ヒロイック・デュエル	
+GLUE_PVPDR_ENTRY_POPUP_LABEL_NORMAL	[x]カジュアル・デュエル	
+GLUE_PVPDR_EXPANSION_SUBTITLE	ウィザード・デュエル	
+GLUE_PVPDR_FOOTER	ヒーローを選び、デッキを組んで、戦いの合間にデッキを強化していこう！	
+GLUE_PVPDR_HEROIC_POPUP_DESCRIPTION_HASTICKETS	酒場チケットを持ってるな！今回は参加費のことは気にしなくていいぞ。	
+GLUE_PVPDR_HEROIC_POPUP_DESCRIPTION_NOTICKETS	勝てば勝つほど報酬が豪華に！\n酒場チケットを使って入場しよう。	
+GLUE_PVPDR_HEROIC_POPUP_HEADER	ヒロイックモードに入場するぞ	
+GLUE_PVPDR_HIGH_WATERMARK_LABEL	最高勝利数	
+GLUE_PVPDR_LABEL_RATING_RESET_DAYS	レーティングのリセットまであと{0}日	
+GLUE_PVPDR_LABEL_RATING_RESET_HOURS	レーティングのリセットまであと{0}時間	
+GLUE_PVPDR_LABEL_RATING_RESET_MINUTES	レーティングのリセットまであと{0}分	
+GLUE_PVPDR_LABEL_RATING_RESET_OVER_1_MONTH	レーティングのリセットは1ヶ月以上先	
+GLUE_PVPDR_LABEL_RATING_RESET_SECONDS	レーティングのリセットまであと{0}秒	
+GLUE_PVPDR_LABEL_RATING_RESET_WEEKS	レーティングのリセットまであと{0}週間	
+GLUE_PVPDR_LABEL_SEASON_ENDING_DAYS	シーズン終了まであと{0}日	
+GLUE_PVPDR_LABEL_SEASON_ENDING_HOURS	シーズン終了まであと{0}時間	
+GLUE_PVPDR_LABEL_SEASON_ENDING_MINUTES	シーズン終了まであと{0}分	
+GLUE_PVPDR_LABEL_SEASON_ENDING_OVER_1_MONTH	シーズン終了まであと1ヶ月以上	
+GLUE_PVPDR_LABEL_SEASON_ENDING_SECONDS	シーズン終了まであと{0}秒	
+GLUE_PVPDR_LABEL_SEASON_ENDING_WEEKS	シーズン終了まであと{0}週間	
+GLUE_PVPDR_LABEL_VAULT_LIVES	ライフ	
+GLUE_PVPDR_LABEL_VAULT_WINS	勝	
+GLUE_PVPDR_LOCK_IN	デッキを確定	
+GLUE_PVPDR_LOCK_IN_DESC	デュエル用のデッキは完成したか？確定させたら、もう変更はできないからな。	
+GLUE_PVPDR_RATING_LABEL	レーティング	
+GLUE_PVPDR_RATING_LABEL_HEROIC	レーティング\n（ヒロイック）	
+GLUE_PVPDR_RATING_LABEL_NORMAL	レーティング\n（カジュアル）	
+GLUE_PVPDR_SESSION_END_ERROR	デュエルのセッション終了時にエラーが発生したぞ。もう一度試してくれ。	
+GLUE_PVPDR_SESSION_START_FAILED_BODY	デュエルのセッション作成に失敗したぞ。後でもう一度試してみてくれ。	
+GLUE_PVPDR_SIGNUPS_CLOSED	[PH]このセッションはもうすぐ終了だ。登録はできなくなってるぞ。	
+GLUE_PVPDR_UNLOCKS_LABEL	開放	
+GLUE_PVPDR_UNLOCKS_TEXT	{0} / {1}	
 GLUE_QUEST_FINISHED_DAILY	デイリークエストは全て完了しています。	
 GLUE_QUEST_LOG_ARENA	闘技場	
 GLUE_QUEST_LOG_BEST_FORGE_RECORD_HEADLINE	闘技場のカギの最高記録	
@@ -1313,6 +1457,8 @@ GLUE_ROTATED_SETS_DIALOG	これらのセットはワイルド専用になった�
 GLUE_SET_ROTATION_CURRENT_YEAR	ドラゴン年	
 GLUE_SET_ROTATION_NEXT_YEAR	フェニックス年	
 GLUE_SHOP_BOOSTER_SKU_BUTTON	{0}パック	
+GLUE_SHOP_CLOSED_ALERT_HEADER	閉店中	
+GLUE_SHOP_CLOSED_ALERT_TEXT	ショップは一時閉店中だ、また後で寄ってくれ！	
 GLUE_SHOP_CONVERT_TO_ARCANE_ORBS_HEADER	Convert Runestones to Arcane Orbs	
 GLUE_SHOP_DESCRIPTION_HEADER	{0}の内容:	
 GLUE_SHOP_GET_MORE_RUNESTONES	この取引をするには、手持ちのルーンストーンが足りないぞ。追加するか？	
@@ -1559,7 +1705,10 @@ GLUE_STORE_PAYMENT_INFO_URL_DETAILS	カードのレア度別排出率と購入�
 GLUE_STORE_PRE_PURCHASE_HAS_ENDED	この商品の先行予約は現在ご利用になれません。	
 GLUE_STORE_PREORDER	先行予約！	
 GLUE_STORE_PREORDER_APRIL	4月（*）から\n利用可能！	
+GLUE_STORE_PREORDER_DUST_APRIL	パックは4月（*）\nから利用可能！	
+GLUE_STORE_PREORDER_DUST_NOVEMBER	パックは11月（*）\nから利用可能！	
 GLUE_STORE_PREORDER_EXCLUSIVE	先行予約限定！	
+GLUE_STORE_PREORDER_NOVEMBER	11月（*）から\n利用可能！	
 GLUE_STORE_PRODUCT_DETAILS_BRM_PART_1	恐るべき{0}のボスと1人用プレイで対決。	0=wing name
 GLUE_STORE_PRODUCT_DETAILS_BRM_PART_2	君のコレクションにブラックロック・マウンテンの新カードを加えよう。その内1枚はレジェンドカード！	
 GLUE_STORE_PRODUCT_DETAILS_DALA_PART_1	恐るべき{0}のボスと1人用プレイで対決。	0=wing name
@@ -1615,6 +1764,7 @@ GLUE_STORE_PRODUCT_NAME_MOBILE_UNKNOWN	モバイル決済で購入
 GLUE_STORE_PRODUCT_NAME_NAXX_WING_BUNDLE	ナクスラーマスアドベンチャー（{0}区画）	
 GLUE_STORE_PRODUCT_NAME_OG_PRESALE_BUNDLE	旧神のささやき（先行購入）	
 GLUE_STORE_PRODUCT_NAME_PACK	{1}パック x {0}	0=quantity,1=pack type
+GLUE_STORE_PRODUCT_NAME_PROGRESSION_BONUS	酒場パス	
 GLUE_STORE_PRODUCT_NAME_TGT_PRESALE_BUNDLE	グランド・トーナメント（先行購入）	
 GLUE_STORE_PRODUCT_NAME_ULD_PRESALE_BUNDLE	「恐怖の遺産」（先行購入）	
 GLUE_STORE_PRODUCT_NAME_ULD_WING_BUNDLE	「恐怖の遺産」アドベンチャー（{0}章）	
@@ -1655,6 +1805,7 @@ GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_FIRST_PURCHASE_BUNDLE	이용기간: 서비�
 GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_FORGE_TICKET	투기장 입장료는 구매 후 환불되지 않으며, 구매 즉시 투기장에 입장합니다.	only displayed for Korean customers, should always be in Korean
 GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_HERO	본 상품은 구매 후 환불되지 않으며, 구매 즉시 이용이 가능합니다.	
 GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_PACK_PREORDER	사전 구매 상품은 실제 상품 출시 전까지 환불이 가능합니다.	
+GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_PROGRESSION_BONUS	이용기간: 다음 확장팩 출시일 전까지. 본 상품은 구매 즉시 효과가 적용되므로 구매 후 환불이 불가능합니다.	
 GLUE_STORE_SUMMARY_KOREAN_AGREEMENT_TAVERN_BRAWL_TICKET	영웅 난이도 난투 입장료는 구매 후 환불되지 않으며, 구매 즉시 영웅 난이도 난투에 입장합니다.\n서비스 제공기간: 해당 영웅 난이도 난투 만료시까지.\n만료 시 승리한 횟수에 따라 보상이 차등 지급되므로 만료 시간을 확인하시기 바랍니다.	
 GLUE_STORE_SUMMARY_PAY_NOW_TEXT	今支払う	this is what you see when you confirm the purchase
 GLUE_STORE_SUMMARY_PRICE_HEADLINE	価格	
@@ -1662,6 +1813,9 @@ GLUE_STORE_SUMMARY_TAX_DISCLAIMER	適用される付加価値税（VAT）を含�
 GLUE_STORE_SUMMARY_TAX_DISCLAIMER_USD	別途適用される各種税金がかかります。	
 GLUE_STORE_SUMMARY_TOS_AGREEMENT	「{0}」を押すことにより、お客様は各販売条件を読み、同意したことを確認します。「{1}」ボタンを押すことにより、主要な支払い方法を変更したり、各販売条件を読むことができます。	0=GLUE_STORE_SUMMARY_PAY_NOW_TEXT,1=GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT
 GLUE_STORE_SUMMARY_TOS_AGREEMENT_EU	「{0}」をクリックすることにより、お客様は各販売条件と、購入が即座に実行されることに同意したものとみなされます。購入手続きが開始された後で購入を取り消すことはできません。「{1}」ボタンを押すことにより、主要な支払い方法を変更したり、各販売条件を読むことができます。	0=GLUE_STORE_SUMMARY_PAY_NOW_TEXT,1=GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT
+GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT	現在の報酬レーンレベルまでの全アイテムを開放！	
+GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT_CHINA_DISCLAIMER	現在の報酬レーンレベルまでの全アイテムを獲得！未成年者保護のためのゲーム時間制限のため、未成年のユーザーは全てのクエスト報酬を入手できない可能性があるからな。	
+GLUE_STORE_TAVERN_PASS_HEADLINE_TEXT	「酒場パス」に含まれる開放可能*報酬:	
 GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT	？	
 GLUE_STORE_TGT_PREORDER_DATE	8月から使用可能！	
 GLUE_STORE_THIS_WEEK_ONLY	今週限り！	
@@ -1725,10 +1879,21 @@ GLUE_TIP_ADVENTURE_0	恐ろしく強いボス達に勝つには、専用のデ�
 GLUE_TIP_ADVENTURE_1	ボス達は恐ろしく強いが、カスタムデッキを組んで叩きのめしてやれ。	
 GLUE_TIP_ADVENTURE_2	ボスに負けたら、デッキを改良してみるといいかもな。	
 GLUE_TIP_ADVENTURE_3	覚悟はいいか！\nこれから挑むボスに合わせて、対抗するためのデッキを組み上げるんだ。	
+GLUE_TIP_ADVENTURE_BOH_1	ハースストーンのヒーローと共に冒険する\n準備をしよう！	
+GLUE_TIP_ADVENTURE_BOH_10	ヒーロー達の壮大な戦いを追体験して\n彼らのことをもっと知ろう。	
+GLUE_TIP_ADVENTURE_BOH_11	マルフュリオンは正しい歴史を知らしめたいと\n痛切に思っているぞ。	
+GLUE_TIP_ADVENTURE_BOH_2	このヒーローの旅では、決まったデッキと\nヒーローパワーを使うんだ！	
+GLUE_TIP_ADVENTURE_BOH_3	ヒーローパワーはミッションをクリアするごとに\nアップグレードするぞ！	
+GLUE_TIP_ADVENTURE_BOH_4	過去が謎に包まれているヒーローもいれば\nその偉業によって超有名になったヒーローもいるんだ！	
+GLUE_TIP_ADVENTURE_BOH_5	一部のヒーロー達の物語は交差していて、\n両方の側からストーリーを体験できるぞ！	
+GLUE_TIP_ADVENTURE_BOH_6	ヒーローが成長すると共に\nヒーローパワーも変化するぞ！	
+GLUE_TIP_ADVENTURE_BOH_7	何が起こってもうろたえないようにな！\nヒーローの人生には様々な転機があるものなんだ。	
+GLUE_TIP_ADVENTURE_BOH_8	ミッション開始前にデッキを確認して、\n敵に対する戦術を練っておこう。	
+GLUE_TIP_ADVENTURE_BOH_9	歴史に名を刻むヒーローになるには、\n途方もない逆境を乗り越える必要があるんだ。	
 GLUE_TIP_ADVENTURE_BOT_0	パズルのリセットは一瞬だ。遠慮せず、いろいろ試行錯誤してみよう！	
 GLUE_TIP_ADVENTURE_BOT_1	正しい解法にいつも全てのカードが使われるわけじゃないぞ。	
 GLUE_TIP_ADVENTURE_BOT_2	あきらめるなよ。思いもよらないカードの相互作用を探すんだ。	
-GLUE_TIP_ADVENTURE_BOT_3	時には、カードを使う順番が結果を大きく左右することもあるぞ。 	
+GLUE_TIP_ADVENTURE_BOT_3	時には、カードを使う順番が\n結果を大きく左右することもあるぞ。	
 GLUE_TIP_ADVENTURE_BOT_4	味方のミニオンをむごい目に遭わせても問題はない。\nドクター・ブームは感心するだろう。	
 GLUE_TIP_ADVENTURE_BOT_5	「博士のメカメカ大作戦」のパズル専用のカードも存在するぞ。	
 GLUE_TIP_ADVENTURE_BOT_6	「ミラー」パズルは何から何まで鏡映しにするのが目的だ。\n体力も含めてだ！	
@@ -1781,8 +1946,8 @@ GLUE_TIP_ADVENTURE_DAL_1	今回はあんたが悪役だ！卑怯なコンボや�
 GLUE_TIP_ADVENTURE_DAL_10	負けたら、挑戦は最初からやり直しになるぞ。	
 GLUE_TIP_ADVENTURE_DAL_11	「常時発動」の宝物は、その回のダンジョン攻略が終わるまで効果を発揮し続けるからな。	
 GLUE_TIP_ADVENTURE_DAL_12	見つけた宝物が中核になるようデッキを組み替えて、宝物の効果を最大限に生かそう！	
-GLUE_TIP_ADVENTURE_DAL_13	何もかも失敗したら…最後の手段、「フライバイ」だ。 	
-GLUE_TIP_ADVENTURE_DAL_14	全5章をクリアすると、カード裏面デザインが手に入るぞ。   	
+GLUE_TIP_ADVENTURE_DAL_13	何もかも失敗したら…最後の手段、「フライバイ」だ。	
+GLUE_TIP_ADVENTURE_DAL_14	全5章をクリアすると、カード裏面デザインが手に入るぞ。	
 GLUE_TIP_ADVENTURE_DAL_15	全5章を開放すると、「異常モード」を楽しめるようになるんだ。	
 GLUE_TIP_ADVENTURE_DAL_16	ヒロイックモードは真の犯罪王のためのものだ。\n全ての遭遇が、格段に難しくなるぞ！	
 GLUE_TIP_ADVENTURE_DAL_17	非戦闘の遭遇では、挑戦の途中であんたのデッキを改造できるぞ。	
@@ -1796,11 +1961,11 @@ GLUE_TIP_ADVENTURE_DAL_4	予想外への挑戦がしたい？異常モードを�
 GLUE_TIP_ADVENTURE_DAL_5	街の奥へと進むにつれ、遭遇はどんどん手ごわくなっていくぞ。	
 GLUE_TIP_ADVENTURE_DAL_6	それぞれの章にはユニークなどんでん返しがあるぞ。\n例えば、ごった返した路地とか、追加のボスとかな。	
 GLUE_TIP_ADVENTURE_DAL_7	デッキには柔軟性が必要だ。遭遇が変わると、戦略も変えていく必要があるからな。	
-GLUE_TIP_ADVENTURE_DAL_8	一度使用可能にすれば、好きなヒーローで好きな章をプレイできるぞ。 	
+GLUE_TIP_ADVENTURE_DAL_8	一度使用可能にすれば、好きなヒーローで好きな章をプレイできるぞ。	
 GLUE_TIP_ADVENTURE_DAL_9	ヒーローによっては、各章のユニークなどんでん返しに有利に対処できるぞ。	
 GLUE_TIP_ADVENTURE_DRG_1	ストーリーモードでは専用の構築済みデッキを使う。\nヒロイックモードではあんたが組んだデッキで戦うんだ。	
 GLUE_TIP_ADVENTURE_DRG_10	アゼロス史上最大の空中戦で、\nドラゴン軍団がダラランに舞い降りる。	
-GLUE_TIP_ADVENTURE_DRG_11	ストーリーモードでは、特別なヒーローパワーを\n駆使して戦おう。  	
+GLUE_TIP_ADVENTURE_DRG_11	ストーリーモードでは、特別なヒーローパワーを\n駆使して戦おう。	
 GLUE_TIP_ADVENTURE_DRG_2	困難な挑戦が望みなら、ヒロイックモードを試そう。\n戦うデッキは自分で組むんだ！	
 GLUE_TIP_ADVENTURE_DRG_3	悪党同盟はガラクロンドの遺骸を探している…\n甦らせるために！	
 GLUE_TIP_ADVENTURE_DRG_4	悪の陰謀を阻止するため、探検同盟は\nドラゴンを味方につける必要がある。	
@@ -1869,7 +2034,7 @@ GLUE_TIP_BACON_1	戦闘時は、左のミニオンから順に攻撃する。敵
 GLUE_TIP_BACON_10	連勝記録はスコアボードに「絶好調」シンボル付きで表示されるんだ。	
 GLUE_TIP_BACON_11	強化効果は、酒場で効果がかけられたもののみ永続する。\n戦闘中の強化効果はフェーズの終わりに消えるからな。	
 GLUE_TIP_BACON_12	他のプレイヤー達が同じミニオンをたくさん買ってる場合、そのミニオンはあまり酒場に現れなくなるぞ。	
-GLUE_TIP_BACON_13	売られたミニオンはプールに戻り、再び酒場によく現れるようになるんだ。 	
+GLUE_TIP_BACON_13	売られたミニオンはプールに戻り、再び酒場によく現れるようになるんだ。	
 GLUE_TIP_BACON_14	酒場のグレードアップに全てのゴールドを注ぎ込んでしまうと、あんたの戦団は劣勢に追い込まれ、たぶん負けることになるぞ。	
 GLUE_TIP_BACON_15	酒場を全然グレードアップしないでいると、あんたの戦団は劣勢に追い込まれ、たぶん負けることになるぞ。	
 GLUE_TIP_BACON_16	マーロック軍団は序盤に強く、逆にメカ軍団は終盤に強くなるぞ。	
@@ -1926,6 +2091,30 @@ GLUE_TIP_DEFAULT_7	クエストがなくなっても、明日また来れば新�
 GLUE_TIP_DEFAULT_8	1シーズン中にランク戦で5試合勝利すれば、シーズン限定のカード裏面デザインが手に入るぞ。	
 GLUE_TIP_DEFAULT_8_RANKED_2.0	1シーズン中にランク20まで上がれれば、シーズン限定のカード裏面デザインが手に入るぞ。	
 GLUE_TIP_DEFAULT_9	クエストを達成するとゴールドを獲得できる。\nゴールドはカードパックを買ったり、闘技場に入場するために使うんだ。	
+GLUE_TIP_DUELS_0	低コストのミニオンほど、出せるチャンスは多い。	
+GLUE_TIP_DUELS_1	高コストの強力なミニオンは、終盤戦で勝負をひっくり返せることもあるぞ。	
+GLUE_TIP_DUELS_10	常時発動の宝物には、対戦相手は一切手出しできないんだ。	
+GLUE_TIP_DUELS_11	ミニオンの基本の攻撃力と体力は、マナコストに基づいて慎重にバランスが取られているんだ。	
+GLUE_TIP_DUELS_12	レジェンドミニオンは、特定の戦略の道標となる強力なミニオンだ。それらを軸として、開始時デッキを構築してみよう。	
+GLUE_TIP_DUELS_13	呪文ダメージとマナコスト削減を組み合わせると、恐るべき破壊力を発揮するぞ。	
+GLUE_TIP_DUELS_14	兜の緒を締めろ。「ハースストーン・デュエル」では、これまで見たこともないほど強力なデッキに出くわすことがあるぞ。	
+GLUE_TIP_DUELS_15	「デュエル」では、デッキに同じカードを何枚でも入れられるんだ。	
+GLUE_TIP_DUELS_16	デュアルクラスカードは複数のクラスが使えるカードだ。	
+GLUE_TIP_DUELS_17	デュエルでは12勝するか3敗すると、その回の挑戦は終了となる。	
+GLUE_TIP_DUELS_18	自分のデッキのカードを使い切った後は、疲労ダメージを受けるようになるぞ。	
+GLUE_TIP_DUELS_19	一部のカードは他のカードよりも頻繁に登場するぞ。	
+GLUE_TIP_DUELS_2	速攻型の戦術に対応できなくて困ってる？複数のミニオンにダメージを与えられる低コストの呪文をデッキに追加しよう。	
+GLUE_TIP_DUELS_20	序盤の試合はデッキの枚数も体力も少ないため、かなり早く終わる場合が多いってことを念頭に置いておこう。	
+GLUE_TIP_DUELS_21	挑戦ごとに、選べるヒーローは変わる。全員試してみよう！	
+GLUE_TIP_DUELS_22	デッキレシピによっては、信じられないような驚きが飛び出すぞ！	
+GLUE_TIP_DUELS_23	用意はいいか？デュ・デュ・デュ・デュエルだ！	
+GLUE_TIP_DUELS_3	ラウンド間に提示されるカードは、あんたのデッキの中身に応じて変化するぞ。	
+GLUE_TIP_DUELS_4	ヒーローパワーをどんどん使って、最大限に活用しよう。	
+GLUE_TIP_DUELS_5	あんたのヒーローの最大体力は、挑戦を進めるにつれ増加していくぞ。	
+GLUE_TIP_DUELS_6	クラスの愛用の宝物は、新たな戦略の可能性をもたらしてくれるぞ。	
+GLUE_TIP_DUELS_7	中立ミニオンはどんなデッキにも入れられるんだ。	
+GLUE_TIP_DUELS_8	デュエルでは、最新拡張版のカードも、過去の強力なカードも使えるぞ。	
+GLUE_TIP_DUELS_9	デッキのカードの枚数が増えるほど、目当てのカードを引ける確率は下がることになるんだ。	
 GLUE_TIP_FORGE_0	闘技場デッキは、3回負けたらおさらばだ。	
 GLUE_TIP_FORGE_1	闘技場の報酬は、勝つ度に豪華になるぞ！	
 GLUE_TIP_FORGE_2	闘技場への挑戦を始めたら、3回負けるまでは何度でも出入りできる。\n毎日少しずつプレイしてもいいんだ。	
@@ -1967,10 +2156,13 @@ GLUE_TOOLTIP_BUTTON_BACON_HEADLINE	バトルグラウンド
 GLUE_TOOLTIP_BUTTON_COLLECTION_DESC	カードを見たり、デッキを組んだりできる。	
 GLUE_TOOLTIP_BUTTON_COLLECTION_HEADLINE	コレクション	
 GLUE_TOOLTIP_BUTTON_DISABLED_DESC	一時的に利用不可になってるぞ。	
+GLUE_TOOLTIP_BUTTON_DUELS_HEADLINE	デュエル	
 GLUE_TOOLTIP_BUTTON_FORGE_HEADLINE	闘技場	
 GLUE_TOOLTIP_BUTTON_FORGE_NOT_UNLOCKED	全てのクラスがレベル10以上になると利用可能になるぞ。	
 GLUE_TOOLTIP_BUTTON_GAME_MODES_DESC	特殊ルールでのプレイを楽しもう。	
 GLUE_TOOLTIP_BUTTON_GAME_MODES_HEADLINE	ゲームモード	
+GLUE_TOOLTIP_BUTTON_JOURNAL_DESC	クエスト、実績、報酬などなど！	
+GLUE_TOOLTIP_BUTTON_JOURNAL_HEADLINE	日誌	
 GLUE_TOOLTIP_BUTTON_PACKOPEN_DESC	パックを開封して、カードをコレクションに加えよう！	
 GLUE_TOOLTIP_BUTTON_PACKOPEN_HEADLINE	パックを開封	
 GLUE_TOOLTIP_BUTTON_QUESTLOG_DESC	ゲームの進行状況が確認できるぞ。	
@@ -1991,7 +2183,7 @@ GLUE_TOOLTIP_GOLDEN_WINS_DESC	このクラスを使ってランク戦と闘技�
 GLUE_TOOLTIP_GOLDEN_WINS_HEADER	合計勝利数	
 GLUE_TOOLTIP_HOW_TO_UNLOCK_DECKS	好きなモードで他のヒーローを倒すと、このデッキが使用可能になるぞ。	
 GLUE_TOOLTIP_RANKED_BUTTON	他のプレイヤー達を相手に競い合い、頂点を目指せ！	
-GLUE_TOOLTIP_VIRTUAL_CURRENCY_DESCRIPTION	ルーンストーンは、魔力のオーブ、ヒーロー、アドベンチャー、闘技場チケットを買うのに使えるぞ。	
+GLUE_TOOLTIP_VIRTUAL_CURRENCY_DESCRIPTION	ルーンストーンは、魔力のオーブ、ヒーロー、アドベンチャー、酒場チケットを買うのに使えるぞ。	
 GLUE_TOOLTIP_VIRTUAL_CURRENCY_HEADER	ルーンストーン	
 GLUE_TOURNAMENT	プレイ	
 GLUE_TOURNAMENT_CASUAL	カジュアル	

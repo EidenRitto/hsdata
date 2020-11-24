@@ -7273,6 +7273,7 @@ VO_Rakanishu_Male_Elemental_CastSpell5_01	모두 불타라!
 VO_Rakanishu_Male_Elemental_EventRagnaros_02	나의 우상!	
 VO_Rakanishu_Male_Elemental_FF_Start_02	라그나로스 님 본 사람? 너무 일찍인가?	
 VO_Rakanishu_Male_Elemental_Intro_01	파괴해라! 보물을 가져와라!	
+VO_SCH_507_Female_Human_Play_01	내면의 힘을 두려워 마.	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareDeath_02	접시가... 깨졌다...	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareEmoteResponse_01	세척할 시간이다!	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareForkedLightning_01	포크처럼 갈라진 번개다!	
@@ -7280,6 +7281,550 @@ VO_SilverwareGolem_Male_SilverwareGolem_SilverwareHeroPower_01	식기를 놓고,
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareKnifeJuggler_01	우와아... 식칼 곡예다!	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareOpen_01	춤추는 거 재밌다!	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwarePlateTossing_01	너도 접시! 너도 접시! 모두에게 접시!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Death_01	<죽음>	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8EmoteResponse_01	무슨 말씀이시죠?	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8ExchangeB_01	제정신이 아니시군요.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8ExchangeC_01	키린 토는 얼라이언스와 호드를 초월한 단체입니다.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8ExchangeD_01	도대체 무슨 말씀을 하시는 건지 모르겠습니다.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8HeroPower_01	디엘 피날!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8HeroPower_02	불을 일으킬 때가 됐군요!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8HeroPower_03	아나랄라 벨로레!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Idle_01	대마법사님, 제발 정신을 차리세요!	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Idle_02	누가 당신을 배신한 건지 모르겠지만, 전 아닙니다.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Idle_03	선리버는 언제나 명예롭게 키린 토를 섬겨왔잖습니까.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Intro_01	하지만 여긴 우리의 도시이기도 합니다, 여군주님.	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Loss_01	이제 정말로 당신을 배신하게 됐군요... 안타깝게도.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6EmoteResponse_01	우리가 바본 줄 아느냐?	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6ExchangeB_01	반쪽짜리 오크 놈아, 너도 결국 이 녀석과 같은 처지가 될 거다.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6ExchangeC_01	네가 얻으러 온 병력보다 이미 잃은 병력이 더 많은 것 같다만.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6HeroPower_01	우릴 위해 싸워라!	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6HeroPower_02	이 녀석은 좀 아깝긴 하다만.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6HeroPower_03	칸의 명령이다.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Idle_01	넌 타우렌의 동맹도 아니거늘. 왜 놈을 구하려 하느냐?	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Idle_02	오크와 오우거의 혼혈을 납치하는 건 처음이군.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Idle_03	여긴 타우렌이 있을 곳이 아니다. 너도 그렇고.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Intro_01	멍청한 놈! 그 타우렌 우리 것이다.	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Loss_01	멍청한 잡종 같으니...	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4EmoteResponse_01	<의심하는 소리>	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4HeroPower_01	<공격하는 소리>	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4HeroPower_02	<전투 함성>	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4HeroPower_03	<으르렁>	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4Loss_01	<도발하는 소리>	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1EmoteResponse_01	그래, 감정을 공유하는 게 앞으로 나아갈 수 있는 가장 좋은 길이란다.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeA_01	정녕 네가 억지로 듣게 하도록 날 부추기고 싶으냐.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeB_01	과거, 그리고 선조님들... 그분들은 모든 것에 깃들어 계신다.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeC_01	너 같은 강한 젊은이가 이렇게나 민감할 줄은 몰랐구나.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeD_01	그렇지 않다. 넌 너만의 길을 걸을 수 있단다.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1HeroPower_01	숨을 깊게 들이쉬거라...	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1HeroPower_02	치유는 서두른다고 되는 게 아니란다.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1HeroPower_03	내면으로부터 희망이 솟아나리니.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Idle_01	우리 부족은 악마의 피를 마시지 않아 극심한 고통을 겪었지만, 그래서 구원받은 셈이 됐지.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Idle_02	피의 저주를 받지 않았기에, 우리 마그하르는 녹색 피부를 가지지 않게 되었단다.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Idle_03	다른 이들은 너에게서 네 아비만을 보지만, 그것도 바뀔 게다.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Intro_01	가로쉬, 좋은 소식이 있다.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Loss_01	듣고, 배우거라. 언젠가 너에게 보탬이 될 테니.	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Victory_01	그만! 이제 내 손자의 이야기를 듣거라. 먼 걸음을 했으니.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7EmoteResponse_01	어찌 그리도 그릇된 길을 걷게 된 거지?	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7ExchangeB_01	내 모든 걸 걸고... 막아주지.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7ExchangeD_01	모구는 천상의 종을 만들어 혼란을 빚으려 했지만, 판다렌은 그 혼란의 메아리를 완벽한 조화로 바꾸는 망치를 만들었지.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7ExchangeD_02	그 망치는 수천 년간 숨겨져 있었지만 이젠 아니다!	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7HeroPower_01	조화가 사방에 울려 퍼지길!	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7HeroPower_02	새로운 노래의 시작이리니.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7HeroPower_03	이 선율이 당신을 회복시킬 거예요.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Idle_01	이 계획은 사실 내가 직접 꾸민 건데... 너무 뻔했나?	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Idle_02	직접 만나는 건 처음인 것 같군. 어, 난 안두인 린이라고 한다!	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Idle_03	솔직히 말해, 난 널 도우려는 것뿐이다. 샤는 위험한 존재이니.	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Intro_01	멈춰! 가로쉬! 넌 그 종의 힘을 전혀 모르고 있어!	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Loss_01	무수한 노력 끝에, 넌 너 자신을 파괴하고야 말았구나.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1EmoteResponse_01	우선은 이 상황에 집중하도록 하지.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeB_01	실력이 출중하구나.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeC_01	여긴 널 도와줄 다른 뛰어난 마법사들도 많단다.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeC_02	뭐... 그렇긴 하다만...	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeD_01	켈투자드는 어떻느냐? 내가 소개해주도록 하마.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1HeroPower_01	이건 어떻겠느냐...	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1HeroPower_02	아직 배울 게 많구나.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1HeroPower_03	아하!	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Idle_01	키린 토 업무 때문에 지금도 바쁘거늘...	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Idle_02	오크 침략자들과의 전쟁 때문에 신경 쓸 게 너무나도 많군.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Idle_03	네가 특별하다는 것은 확실히 알겠구나.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Intro_01	미안하지만 내겐 그럴 시간이 없단다.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Loss_01	미안하지만, 넌 아직 내가 거두기엔 이른 것 같구나.	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Victory_01	좋다, 제이나. 네가 이겼다. 너만 한 제자를 다른 곳에선 도저히 찾을 수 없을 것 같구나.	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Death_01	<죽음>	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5EmoteResponse_01	우매한 필멸자여!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5ExchangeA_01	나에게 맞서다니 용기는 대단하구나.	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5ExchangeA_02	다른 인간들이 너만큼만 용감했으면, 너희 한심한 나라들을 말살하는 일이 더 재미있었을 텐데!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5ExchangeB_01	필멸자 놈들의 저항이 이렇게 약할 줄 알았다면, 수 세기 전에 침공을 감행했을 텐데!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5HeroPower_01	깨달아라, 저항해도 소용없음을!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5HeroPower_02	모든 생명을 삼켜버리겠다!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5HeroPower_03	온 세상을 불살라 버리겠다!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Idle_01	넌 내 힘 앞에선 무력할 뿐이다.	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Idle_02	동지들의 죽음을 애도하라! 하크 민 코레이!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Idle_03	네놈들의 노력은 수포로 돌아갔다.	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Intro_01	심판의 시간이 왔다!	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Loss_01	이제 세계의 심장은 영원히 박동을 멈추리라!	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3EmoteResponse_01	말로 해결하긴 늦었어.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3ExchangeA_01	네가 시작한 거야. 결판을 내자고.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3ExchangeB_01	우서가 할법한 말이네.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3ExchangeD_01	난 내 백성들을 위해 싸우겠어. 그게 내 의무니까.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3HeroPower_01	내 입장이 돼 보라고.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3HeroPower_02	내가 얼마나 괴로운지 넌 모르겠지!	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3HeroPower_03	누구도 날 이해하지 못해!	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Idle_01	이런 싸움은 질색이야.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Idle_02	내 뜻을 따라, 제이나. 우리의 미래를 위해서라도.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Idle_03	이 역병은 내가 겪은 것들 중에 가장 지독해. 로데론이 멸망의 위기에 처할 정도로.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Intro_01	네 의심 말고도 내가 신경 써야 하는 게 많다는 걸 모르겠어?!	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Loss_01	나의 일부는 네가 옳다고 믿지만... 솔직히, 어떻게 해야 할지 모르겠어.	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Victory_01	미안해, 제이나. 이 모든 게 끝나면, 다 괜찮아질 거야. 약속할게.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2EmoteResponse_01	아직도 나불대는 거냐?	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeA_01	네놈은... 모크나탈의 일원이던가?	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeB_01	네놈의 부족 따위 내 손짓 한 번에 없애버릴 수 있거늘.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeC_01	하! 전쟁에선 모든 것이 정당하다. 오크는 많은 이들을 잃었지...	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeC_02	날 상대로 이긴다면 생각해보겠다.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeD_01	실력이 나쁘진 않구나. 마침 너 같은 용사가 필요했거늘.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2HeroPower_01	호드를 위하여!	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2HeroPower_02	그래, 벌벌 떨어라!	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2HeroPower_03	내 인내심을 시험하지 마라.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Idle_01	호드는 피와 공포로 단단히 벼려졌지.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Idle_02	내 부족은 위대한 정복의 길을 걷기 위해 만들어졌다. 그게 우리의 사명이다.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Idle_03	오직 강력한 힘만이 모두를 굴복시킬 수 있다.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Intro_01	말보다 행동으로 보여라. 날 상대해서 네 가치를 증명해라.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Loss_01	넌 하찮은 반쪽짜리 오크일 뿐이다.	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Victory_01	그만! 너의 청을 들어주겠다. 그 대신, 넌 호드를 섬겨야 한다.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5EmoteResponse_01	전투가 아니고서는 이 갈등을 해결할 수 없을 거다.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5ExchangeA_01	아직도 너 자신을 과신하는 것 같군.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5ExchangeB_01	난 나 자신만을 위해 싸우는 게 아니다. 난 호드의 미래를 위해 싸우는 것이다.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5ExchangeC_01	난 평생 동안 명예로운 삶을 살았다. 내 조언을 믿어라.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5HeroPower_01	이쉬네 알로 포라!	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5HeroPower_02	명예를 위해!	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5HeroPower_03	우리의 전통을 존중해라.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Idle_01	웃어른의 지혜를 본받기는커녕 싸우려 들다니!	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Idle_02	스랄은 너에 대한 애정 때문에 네 진정한 모습을 놓치고야 말았지.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Idle_03	그 사나움만큼 남의 말에 귀를 기울였다면 좋았을 것을.	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Intro_01	대지모신이여, 절 이끄소서...	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Loss_01	파괴는 손쉬운 법이다. 길이 남을 것을 일궈내는 것이야말로 진정한 도전이지.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission5Victory_01	아, 제이나! 마침내 널 찾았구나!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission5Victory_02	딸아, 넌 너무 순진한 게 탈이야. 시간이 지나면 너도 알겠지. 전부 잡아라!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7EmoteResponse_01	네 딸이 왜 너 같은 짐승이랑 어울렸는지 모르겠군.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7ExchangeE_01	괴물 같은 놈들!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7ExchangeF_01	네놈은 모를 거다. 소중한 이들을 지키는 것이 어떤 의미를 가지는지. 넌 자신의 고향을 버리고 우리의 터전을 짓밟으러 오지 않았느냐!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7HeroPower_01	발포하라!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7HeroPower_02	놈들의 약점을 노려라!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7HeroPower_03	전부 쓸어버려라!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Idle_01	평화란 꿈과 같다. 아름답고, 덧없고, 허상에 불과하지.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Idle_02	내 딸이 나만 한 통찰력을 가지지 못한 게 안타깝군.	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Idle_03	호드가 내 아들을 죽였다. 내 혈육을! 놈들을 용서할 것 같으냐!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Intro_01	와라, 야만적인 것들아! 스톰윈드에서 로데론까지 저지른 대학살의 대가를 치러라!	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Loss_01	그래, 야만스러운 네놈들이 힘을 합치는 법을 알 리가 없지.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5EmoteResponse_01	육지 놈들은 정말 이상하다니까.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5ExchangeF_01	물러서라!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5ExchangeG_01	우리의 영토를 되찾으리라.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5HeroPower_01	아테로 바스렐라스!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5HeroPower_02	나즈자타를 위하여!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5HeroPower_03	내 폭풍을 마주해라!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Idle_01	인간과 반쪽짜리 오크가 같이 다닌다니. 어이가 없군.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Idle_02	너희들의 사정 따위 내 알 바 아니다.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Idle_03	누가 이곳의 주인인지 보여주겠다.	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Intro_01	바다는 우리 것이다!	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Loss_01	우린 한때 세계를 정복했지... 이번에도 그럴 것이다.	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4Death_01	<죽음>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4EmoteResponse_01	<우르릉>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4HeroPower_01	<쉬이익>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4HeroPower_02	<쉬이익>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4HeroPower_03	<쉬이익>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4Loss_01	<쉬이익>	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1ExchangeB_01	대모님의 '소식'은 죄다 과거에 관한 것이잖습니까. 이젠 지긋지긋합니다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1ExchangeC_01	아버지가 저지른 일들을 다시 듣고 싶지 않을 뿐입니다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1ExchangeD_01	전 더러운 피를 가지고 태어난 걸 압니다. 동족에게 상처만 남길 뿐이라는 것도요.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1Intro_01	듣고 싶지 않습니다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1Victory_01	제가 짊어진 아주 큰 짐을 덜어주셨군요... 감사합니다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2ExchangeA_01	그리고 전 그 나약함을 받아들이지 않겠습니다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2ExchangeB_01	못난 범부의 질투 어린 투정이군요.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2ExchangeC_02	전 호드의 진정한 모습을 되찾겠습니다. 용맹하고, 강한 호드를!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2Intro_01	절 애처럼 다루지 마십시오! 당신은 타협과 양보로 호드를 좀먹고 있지 않습니까!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2Victory_01	앞으로는 제게 무턱대고 맞서지 않으셔야 할 겁니다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3ExchangeA_01	호드는 네놈들의 공격을 더는 감내하지 않으리라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3ExchangeB_01	곧, 네놈들은 기억에만 남는 존재가 될 것이다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Intro_01	우린 네 족속들을 이곳에서 박멸할 것이다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3PeonInfo_01	병력이 더 필요하면 일꾼들을 부리면 되겠지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Summon_01	일꾼, 전진!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Summon_02	적에게 돌격해라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Summon_03	가라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Victory_01	주위 스컬지를 굴복시키고 노스렌드 원정을 개시할 발판을 확보했습니다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4ExchangeA_01	대족장께서 싸우지 못하는 자들을 대피시키셨으니 걱정은 덜어도 되겠지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4ExchangeB_01	정령들을 쳐부숴라! 우리의 땅에서 몰아내라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4ExchangeC_01	대족장이시여, 대체 무슨 일이 일어나고 있는 겁니까?	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4Intro_01	도시 주위에 원소의 균열들이 열리기 시작했다. 당장 그것들을 봉인해야 한다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4Victory_01	실망시키지 않겠습니다, 대족장님.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5ExchangeA_01	훌륭하다. 그래도 아직은 머리만 둔하구나.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5ExchangeB_01	하!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5ExchangeC_01	조언이 아니라\n비겁함이겠지.\n그런 건 거절하겠다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5Intro_01	늙은 황소 같으니. 내게 도전하러 온 것이냐?	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5Victory_01	위대한 케른 블러드후프가 쓰러졌다! 그 누구도 다시는 내게 대들지 마라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5Victory_02	그런데... 뭔가 너무 쉬웠다는 생각이 드는군...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeA_01	성문을 공격해라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeB_01	성문이 무너졌다! 얼라이언스를 박살 내라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeC_01	내게 즉시 항복하는 것이지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeD_01	너의 그 알량한 "평화"는 거짓일 뿐이었어!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ExchangeA_01	하하... 결국 바리안이 아니라 그 아들놈이 내게 맞선다는 건가.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ExchangeA_02	제 발로 죽음을 향해 달려드는구나, 애송이.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ExchangeB_01	한번 막아 보시지, 인간.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7Intro_01	천상의 종만 있다면 호드의 용사들을 완벽한 전사로 만들 수 있을 것이다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ShaCallout_01	샤에 저항해라. 극복하고, 이용해라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ShaCallout_02	의심은 나약함의 증거다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ShaCallout_03	공포와 싸워라. 증오를 정복해라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7Victory_01	죽어라, 꼬맹아! 얼라이언스도 이제 끝물인가 보군, 이런 꼬마를 내게 보내는 걸 보니.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeA_01	멍청하긴. 내 암흑주술사들이 주위의 모든 정령들을 뒤틀고 고문했다. 놈들은 이제 네 말을 듣지 못해.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeB_01	분노. 증오. 공포! 이게 바로 전쟁의 무기다. 대족장이 써야 할 도구다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeB_02	그래... 이 세계의 미래가 보인다... 호드가 지배하는... 나의 호드가 지배하는 세계가...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeC_01	고대 신이 너를 부른다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Intro_01	넌 부질없는 동맹을 맺는다는 이유로 우리를 배신했다. 그리고 날 배신했고!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Victory_01	난 놈을 무릎 꿇게 만들었다. 한때 호드의 대족장이었던 자를.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Victory_02	그 후에 스랄의 모험가들이 날 압도했고, 포로로 삼았다... 얼마 동안은.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Victory_03	하지만 난 모두에게 전장에서 영광을 쟁취하는 모습을 보여주었다... 오크이자 전사로서, 헬스크림이라는 이름이 무슨 뜻인지 보여준 것이다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission1_01	난 태생부터 저주를 안고 태어났다. 수년 전, 내 아버진 오크들 중 처음으로 악마의 피를 드셨고, 호드는 타락의 길을 걷게 됐지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission1_02	강대한 전사들은 전장으로 향했고, 병들거나 약한 자들만 남겨졌다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission1_03	아버지께서 스스로를 구원하신 소식은 나중에야 알게 됐지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission2_01	스랄은 아제로스에서 자신의 조언자가 되어 달라고 했지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission2_02	난 내 아버지의 위대한 유산을 드높일 준비가 되었다고 생각했지만, 스랄의 조언자들 중에는 반대하는 자들도 있었다...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission3_01	스컬지가 침공했을 때, 난 나의 힘과 전략을 모두에게 증명할 수 있는 기회가 생겼었다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission3_02	스랄은 날 노스렌드로 보내 적들을 물리치도록 호드 원정대를 이끌게 했지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission4_01	오그리마에 돌아온 나는 영웅 대접을 받았다. 하지만 머지않아 도시는 격노한 정령들의 공격을 받았지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission4_02	난 다시 한번 싸움터에 뛰어들어 내 용맹함을 보이기로 했다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission5_01	스랄의 조언자들은 날 돕겠다고 선언했지만, 그가 떠나자마자 내게 등을 돌렸지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission5_02	그중 하나인 케른 블러드후프는 대담하게도 내게 막고라를 신청했다... 호드의 지도자 자리를 정할 결투였지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission6_01	마가타는 막고라에서 남몰래 날 도와 내 명예에 먹칠을 했다. 그걸 알아낸 타우렌은 그녀를 추방했지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission6_02	나 또한 마가타를 내쳤고, 타우렌은 다시 날 섬기며 호드는 더욱 강대해졌다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission6_03	그리고 더욱 위대한 호드로 거듭날 첫걸음으로, 테라모어에 있는 얼라이언스를 없애기로 마음먹었지...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission7_01	얼라이언스는 복수를 갈구했지만 우린 그렇게 쉽게 약점을 보이지 않았다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission7_02	그리고 전세를 굳건히 다지기 위해, 판다리아에 있는 어느 유물을 차지하려고 했지. 물론, 적도 발 빠르게 대처하며 날 방해했다...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission8_01	오랜 노력 끝에, 난 강력한 유물을 하나 더 발견했다. 바로 이샤라즈의 심장이지. 하지만 호드 내부의 배신자들이 내 힘을 두려워하기 시작했다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission8_02	날 섬겨야 할 전사들이 스랄과 내통했고, 그의 귀환을 염원했지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Hero_GarroshAttack_01	명예를 위해!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Hero_GarroshConcede_01	흥, 됐다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Hero_GarroshThreaten_01	내 인내심이 한계에 다다르는군.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6EmoteResponse_01	그런다고 필연을 거부할 수 있을 것 같으냐.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6ExchangeA_01	그렇다면 결과를 받아들여라.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6ExchangeB_01	이젠 의미가 없기 때문이지.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6HeroPower_01	테라모어는 무너지리라!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6HeroPower_02	널 박살내 주마!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6HeroPower_03	승리가 아니면 죽음을!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Idle_01	넌 아직 진정한 호드를 목도하지 못했다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Idle_02	네 아비는 우릴 공격했지. 너도 곧 그럴 테고...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Idle_03	스랄은 한낱 개처럼 네 말을 들었지. 난 그러지 않을 것이다!	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Intro_01	이젠 새로운 대족장이 등극했다.	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Loss_01	내 지도하에, 호드는 모든 것을 정복하리라...	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Victory_01	이제, 우리의 마지막 무기를 내보내라!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8EmoteResponse_01	뭐라고?	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8ExchangeC_01	너 나약하다. 오우거처럼 냄새 나고, 오크처럼 작다.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8ExchangeD_01	나, 덫 싫다!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8ExchangeE_01	그거 예상 못했다.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8HeroPower_01	<으르렁>	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8HeroPower_02	나 가장 위대한 그론이다!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8HeroPower_03	너 내 상대 못 된다!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Idle_01	나 용 학살자 그룰의 아들이다. 나도 용 죽인다. 먹으면서.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Idle_02	피망치는 날 따른다. 모크나탈도 피망치 따를 거다.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Idle_03	너, 맛있는 곰 가지고 있다. 고르그롬 곰 좋아한다.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Intro_01	누가 고르그롬에게 도전하나!	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Intro_02	너 용사라 하기엔 너무 작다.	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Loss_01	조그만 넌 위대한 고르그롬 못 이긴다.	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4EmoteResponse_01	하!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4ExchangeA_01	하, 날 가둘 수 있다고 생각하나?	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4ExchangeB_01	닥쳐라, 인간!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4HeroPower_01	내 도끼를 대령해라!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4HeroPower_02	<함성>	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4HeroPower_03	내 무기 맛 좀 봐라!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Idle_01	그 어떤 힘도 악마들이 우리에게 내린 선물에 비할 순 없다!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Idle_02	피의 안개가... 너무 자욱해...	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Idle_03	난 내 고향도, 내 아들도 두고 왔다... 전투의 영광을 위해!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Intro_01	이곳에서 떠나라, 분홍 피부들아!	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Intro_02	우린 언제나 한발 앞서있지.	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Loss_01	내가... 무슨 짓을 한 거지...?	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Victory_01	이제야 깨달았네. 미안하네, 정말.... 미안해.	
+VO_Story_Hero_Jaina_Female_Human_Error_Hand_Full_01	그렇게는 못 해요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6EmoteResponse_01	협상할 수만\n있다면 훨씬\n나을 텐데요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6ExchangeC_01	대체 뭘 바라는 거죠?	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6ExchangeD_01	지금 멈추지 않으면 더는 돌이킬 수 없을 거예요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6HeroPower_01	테라모어를 위하여!	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6HeroPower_02	당신이 자초한 일이에요!	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6HeroPower_03	전 스랄을 믿었어요. 당신은 그가 이룬 모든 걸 왜 없애려고 하죠?	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Idle_01	당신을 보고 스랄이 얼마나 부끄러워할지 생각해 봤어요?	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Idle_02	테라모어의 사람들은 그저 평화를 원할 뿐이에요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Idle_03	우리가 서로 싸우지 않아도 주위엔 적들이 가득해요!	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Loss_01	테라모어가 무사해서 정말 다행이야...	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Victory_01	호드는 이 만행의 대가를 치를 거다.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeA_01	제가 최대한 도와드리겠어요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeB_01	절 믿으세요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeC_01	우리가 여기서 드러낼 진실이 앞으로의 평화를 결정짓겠군요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeD_01	우린 그리 다르지 않아요. 우리의 동족들도 같은 생각을 하고 있을 테고요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeE_01	저 병사, 기억이 나요... 무슨 일이 벌어졌는지 알겠군요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeE_02	다음에 설명할게요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5Intro_01	저들을 몰아내야 해요. 그러면 여기서 무슨 일이 일어났는지 알 수 있을 테죠.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5Victory_01	아버지께서 꾸민 일이실 줄 알았어요. 제 말을 들어주세요. 호드는 이제 우리의 적이 아니에요!	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5Victory_02	렉사르, 도망치세요!	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission7ExchangeA_01	스랄, 렉사르... 전 아버지의 계획과 상관없어요.	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission7ExchangeA_02	네. 당신 뜻대로 하세요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeA_01	제가 자격이\n있단 걸\n증명하겠습니다!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeB_01	이건 제 아버지도 놀라신 마법이에요! 그렇게나 무뚝뚝하신 분인데도요!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeC_01	하지만 최고는 당신이잖아요!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeD_01	아뇨. 죄송한 말씀이지만, 그분은 뭔가 꺼림칙합니다.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1Intro_01	안토니다스 님!\n절 제자로 받아주세요!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1Victory_01	정말인가요? 감사합니다!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2ExchangeA_01	아... 네.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2ExchangeB_01	그건... 다음에 얘기하시죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2ExchangeC_01	그저 책을 더 태우지 않고 싶었을 뿐이에요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2Intro_01	물론이죠, 왕자님.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2Victory_01	성의는 감사하지만, 지금 제가 있어야 할 곳은 이곳 달라란이에요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeA_01	의심하는 게 아니야! 우리가 서로 싸울 필요는 없잖아.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeB_01	넌 성기사야. 그렇게까지 적을 증오하진 않아도 돼...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeC_01	우서 경이 널 아끼니까 그래... 나도 그렇고.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeD_01	알아. 하지만 이 역병은 무력으로 해결할 수 있는 게 아닐지도 몰라.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3Intro_01	네가 걱정돼, 아서스. 근래에 넌 뭔가 달라졌어.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3Victory_01	그래... 알겠어.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4ExchangeA_01	수용소에서 탈출한 건가?	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4ExchangeB_01	네 주위에서 느껴지는 그 탁한 마력... 넌 타락했어.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4ExchangeC_01	그렇다면 우선\n당신의 친구를\n제압해야겠군요...\n함께 그를 구하시죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4Intro_01	거절하겠다! 너희 오크들은 대체 여길 어떻게 온 거지?!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4Victory_01	우리가 힘을 합친다면, 악마들의 계획을 막을 수 있을지도 몰라요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5ExchangeA_01	너희 악마들은 항상 말뿐이야?	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5ExchangeB_01	흠... 아무런 의심도 하지 않고 있군요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5Intro_01	그래. 너를 심판할 시간이지.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5Victory_01	모든 것이 계획대로 흘러갔어요. 아키몬드가 함정을 알아차렸을 땐 이미 늦었었죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6ExchangeA_01	전 이 싸움을 원치 않아요!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6ExchangeB_01	전 스랄을 믿었어요. 당신은 그가 이룬 모든 걸 왜 없애려고 하죠?	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6ExchangeC_01	난 평화를 믿었지. 하지만 더는 그러지 않겠어. 저들의 진짜 모습이 뭔지 알았으니까...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6GatesAttacked_01	성문을 보강하라!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6GatesAttacked_02	성문이 오래 버티진 못할 거야!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6GatesGone_01	성문이 무너졌어...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6Intro_01	우린 수년 동안 평화를 유지했어요. 당신의 대족장도 동의했다고요!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6Victory_01	내 백성들을 버릴 순 없어!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7ExchangeA_01	너희 대족장이 테라모어를 초토화했어! 아무것도 남기지 않은 채!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7ExchangeB_01	호드는 괴물들에 불과해. 넌 날 속였을 뿐이고.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7ExchangeC_01	넌 이해하지 못해. 거기 없었으니까. 어떤 끔찍한 일이 일어났는지. 테라모어에... 그리고 나에게.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7Intro_01	친구라고?!\n스랄, 이건 다 네 탓이야...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7Victory_01	절대로... 절대로 가만두지 않을 거야.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7Victory_02	알겠어... 그도 이제 알 거야. 다시는 내 친구가 될 수 없다는 것을.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeA_01	하! 그래. 그렇다면 널 끌어내는 수밖에 없겠어.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeB_01	아니, 진실을 받아들였을 뿐이다.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeC_01	내 등에 칼을 꽂고도 그런 말이 나와?!	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeD_01	넌 가로쉬를 도왔어. 절대 용서하지 않아.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Intro_01	선리버, 넌 키린 토를 배신했다. 네 족속들은 이 도시에서 더는 환영받지 못해.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Victory_01	마침내, 전 호드로부터, 허울뿐인 평화의 굴레로부터 벗어났죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Victory_02	저만의 이상을 꿈꾸던 때가 있었지만, 그저 과거일 뿐이에요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Victory_03	이제 전 세상이 빚어낸 제 모습을 간직하겠어요. 끝없는 전쟁 속에서, 회유가 아닌 신념으로 다른 이들을 이끌겠어요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission1_01	모든 것은 바뀌기 마련이죠. 그게 마법의 본질이에요. 변화, 창조... 그리고 파괴.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission1_02	하지만 마법을 다루는 저조차도 마법이 얼마나 많은 것을 바꾸고, 그것이 저에게 얼마나 큰 영향을 끼칠지 몰랐어요. 제가 믿고, 제가 지키던 것들까지 말이죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission1_03	전 쿨 티라스에서 자랐지만 마법에 재능이 있다는 걸 점차 깨달은 후에 달라란의 대마법사 안토니다스 님께 가르침을 구하기로 결심했죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission2_01	안토니다스 님은 다정하고 뛰어난 선생님이셨어요. 제 마법은 나날이 발전했지만, 그만큼 더욱 긴장해야만 했죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission2_02	전 저보다 더 연로하거나 더 강력한 마법사들과 지내야 했어요. 그러다 보니 난처할 때도 가끔 있었죠...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission3_01	캘타스에겐 차마 말할 수 없었어요. 제가 다른 왕자를 사랑하고 있었다고. 로데론에 역병이 퍼질 때, 전 아서스를 다시 만나게 됐어요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission3_02	우린 함께 역병의 근원을 조사했죠. 하지만 시간이 갈수록, 그가 제게서 멀어지는 게 느껴졌어요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission4_01	아서스를 감싼 불길한 기운은 악마의 것이었어요. 놈들은 그의 영혼을 뒤틀어, 죽음의 기사로 만들었죠...	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission4_02	그러고선 리치 왕의 명을 받들기 시작했어요. 자신의 나라인 로데론을 쑥대밭으로 만들었죠. 안토니다스 님은 제게 사람들을 바다 건너로 대피시키라고 말씀하셨어요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission4_03	하지만 거기에도 악마들의 마수가 뻗쳐있었죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission5_01	제 짐작은 맞았어요. 운명은 우리를 한데 모았고, 그렇게 우린 강력한 악마인 아키몬드를 상대해야 했죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission5_02	아키몬드가 세계수를 타락시키려고 하자 나이트 엘프도 우리에게 합류했어요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission5_03	기회는 단 한 번뿐이었어요. 놈을 함정에 빠트리고... 확실히 처치하려면요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission6_01	인간과 나이트 엘프 간의 동맹은 돈독해졌지만, 호드는 다른 길을 선택했죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission6_02	제 아버진 호드에 전쟁을 선포하려고도 했지만, 전 스랄과 함께 평화를 유지하려고 노력했어요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission6_03	그러던 어느 날, 스랄은 호드의 지도자 자리를... 어느 괴물에게 물려주고 말았죠. 기회가 되자마자, 그는 우릴 공격했어요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission7_01	전 패배했지만, 포기하지 않았어요. 죽은 이들의 복수를 할 방법을 찾아냈죠... 오그리마 전체를 폐허로 만들 수 있는 주문을.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission7_02	그리고 단 한 명만이 제 앞을 막았어요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission8_01	그날, 칼렉이 절 막았죠. 하지만 호드가 절 다시 배신하는 건 시간문제일 뿐이었어요.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission8_02	전 키린 토의 수장이 되었고, 그 권한으로 달라란에서 호드를 영구히 추방했죠.	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Threaten_01	대체 뭘 원하시는 거죠?	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission1EmoteResponse_01	마음가짐까지 아름답군.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeA_01	캘타스라 부르시오.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeB_01	저번에 그대가 실수로 마법서에 불을 붙인 게 생각나는군!	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeC_01	여전히 냉기 주문을 애용하는군. 난 화염이 적성이 맞다오!	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeC_02	하하, 그렇군.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2HeroPower_01	그저 작은 재주일 뿐이라오!	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2HeroPower_02	놀랍지 않소?	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2HeroPower_03	잘 보시오!	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Idle_01	왕자의 의무는 무거운 짐이지만, 누군가는 짊어지어야 하지.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Idle_02	내 고향엔 절경을 이룬 곳들이 가득하오. 그대와 함께라면 더욱 아름다워 보일 테고.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Idle_03	날 경계하지 않는 인간을 만나다니 참으로 반갑군.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Intro_01	제이나, 지금껏 배운 것을 내게 보여주지 않겠소?	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Loss_01	이렇게 되다니 정말 유감이오. 그대에게 건 기대가 컸건만.	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Victory_01	실력이 일취월장하고 있군, 제이나. 다음에 나와 함께 실버문에 가보지 않겠소?	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1EmoteResponse_01	그 입은 다물고 있는 게 좋을 것이다.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeA_01	그런 말을 하다니, 네가 정녕 내 아들이란 말이냐?! 널 따끔하게 혼내야겠구나.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeB_01	그래, 우리가 가만히 있다면 그렇겠지.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeC_01	우린 오우거와 오크의 혼혈이야. 외지인들은 우릴 절대로 받아들이지 않을 거다.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeD_01	산맥이 우릴 숨겨줄 게다. 그것만으로 충분하지 않겠느냐!	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeE_01	마치 놈들처럼 생각하는구나. 난 널 그리 나약하게 키우지 않았거늘.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1HeroPower_01	내 말을 듣거라!	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1HeroPower_02	내 뜻을 따를 순 없겠느냐?	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1HeroPower_03	다 널 위한 거다!	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Idle_01	평화를 믿거라. 그것이야말로 가장 안전한 길이니.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Idle_02	아들아, 난 네가 어두운 길을 걸을까 두려울 뿐이다.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Idle_03	대지가 우릴 보살피고, 야수들이 우릴 따른다. 대체 뭘 더 바라는 것이냐?	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Intro_01	부족의 방식을 믿거라. 지금까지 우릴 지켜왔으니.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Loss_01	아비의 충고가 지금은 고통스럽겠지만, 결국엔 옳았다는 걸 알게 될 게다.	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Victory_01	넌 여기 있을 생각이 없나 보구나. 그리 원한다면 여길 떠나라.	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3EmoteResponse_01	<작은 으르렁>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3HeroPower_01	<큰 포효>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3HeroPower_02	<포효>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3HeroPower_03	<으르렁>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3Intro_01	<큰 으르렁>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3Loss_01	<으르렁>	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2EmoteResponse_01	그 말버릇을 고쳐줘야겠군.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2ExchangeA_01	그 불손한 태도는 참을 수가 없구나!	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2ExchangeB_01	스랄은 무지한 네놈을 거두어들이지 말았어야 했거늘.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2ExchangeC_01	넌 호드를 무분별한 전쟁으로 이끌 것이다.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2HeroPower_01	대지의 분노를 느껴 봐라!	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2HeroPower_02	난 호드를 수호한다!	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2HeroPower_03	대지여, 적들을 삼켜라!	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Idle_01	스랄은 널 아끼는 게 아니라, 네 아비를 기리는 것일 뿐이다.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Idle_02	일꾼들의 장화나 닦으면서 네 처지를 깨달아라.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Idle_03	평화는 협상을 통해 얻는 거다. 어린아이마저 알고 있는 이치거늘.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Intro_01	왜 매번 내 충고를 무시하는 것이냐?	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Intro_02	멍청한 마그하르 같으니...	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Loss_01	널 드레노어로 다시 데려가라고 스랄에게 말해야겠군.	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Victory_01	언젠가는 그 오만함의 대가를 치르게 될 거다...	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Attack_01	이러고 싶진 않았지만... 어쩔 수 없군.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Greetings_01	반갑네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1ExchangeB_01	호드는 강대합니다. 우릴 언제 짓밟아도 이상하지 않죠. 드레나이에게 그랬던 것처럼요.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1ExchangeC_01	그래도 시도는 해봐야 하지 않겠습니까.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1ExchangeD_01	우리 부족은 규모가 너무 작습니다. 동맹이라 여길 수 있는 자들도 많지 않고요.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1Intro_01	호드의 세력이 나날이 커지고 있습니다. 이제 편을 골라야 할 때입니다!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1Victory_01	저는 분명히 말씀드렸습니다!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2ExchangeA_01	그렇습니다. 저희 부족을 대표해서 이 자리에 왔습니다.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2ExchangeB_01	그들을 살려주십시오!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2ExchangeC_01	저도 알고 있습니다. 하지만 제 동족은 지금도 위태롭습니다.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2Intro_01	블랙핸드 대족장님! 드릴 말씀이 있습니다.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2Intro_02	그렇다면 전력을 다하겠습니다.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2Victory_01	맹세하겠습니다.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeA_01	넌 내가 정말 오랜만에 만난 '고상한' 생물이구나.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeB_01	넌 두렵기 때문에 나와 싸우는 거겠지. 나도 그렇다.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeC_01	우린 분명 친구가 될 수 있을 거다.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeD_01	자, 착하지...?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeE_01	워어, 이런!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3Intro_01	정말 엄청난 야수로군!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3Intro_02	널 길들이고 말겠다. 시간이 좀 걸리겠지만.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3Victory_01	마침내 날 따르다니 정말 다행이구나. 이제 내가 널 돌보겠다. 우린 이제 절대로 혼자가 되지 않을 게야.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeA_01	중상을 입었군. 내가 나머지 놈들을 상대하겠네!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeB_01	고통을 덜어줄 방법이 없을 것 같군.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeB_02	실패?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeC_01	내가 전해 주겠네. 자네의 명예를 위해 내가 그 임무를 대신하지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeC_02	전사여, 바람이 자네를 선조들에게 인도하길.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Intro_01	대체 이게 무슨 소란이지? 전투인가?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Intro_02	버티게, 이방인! 내가 도와주겠네!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Victory_01	대족장, 모그린이 황야에서 전사하기 전에 이 전갈을 자네에게 전해달라고 했네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Victory_02	나도 그 환대에 보답하겠네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeB_01	스랄이 자넬 믿는다면 나도 그러겠네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeC_01	평화는 언제나 위태로운 법일세.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeD_01	그래서 우리가 언제나 싸우는 것일 수도.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeE_01	그게 무슨 소리인가?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5Intro_01	나가가 우리 야영지를 파괴했네!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5Victory_01	나가들은 사라졌지만, 우릴 공격하던 그 인간들은 누구인가?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6ExchangeA_01	약속하겠네, 바인.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6ExchangeB_01	야생에서 자란 이들은 우리에 갇히지 않아.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6ExchangeC_01	닥쳐라.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6Intro_01	네가 바인 블러드후프를 납치한 놈이구나. 당장 그를 풀어줘라!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6Victory_01	바인! 괜찮은가?	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission7ExchangeC_01	록타르 오가르! 호드를 위하여! 듀로타를 위하여!	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission7Intro_01	허나 되돌릴 수 없는 일도 있는 법일세.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission7Victory_01	내가 있을 곳은 이 땅의 야수와 영혼이 머무는 곳이라네. 그렇지만 내가 필요하면 언제든 자네 곁으로 가겠네, 형제여.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8ExchangeA_01	말이 통할 놈이 아니군.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8ExchangeB_01	마치 태산과 마주한 기분이야...	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8ExchangeC_01	그것만으로 날 판단하려 하지 마라.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Intro_01	나는 렉사르. 호드의 용사이자, 모크나탈의 후손이다.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Victory_01	거인이 쓰러졌을 때, 내 동족도 날 다시 받아들였다네... 내 아버지만 빼고. 그분께는 시간을 더 드리기로 했지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Victory_02	오랜 세월이 지났지만 이 여정은 아직도 내 가슴 깊이 새기고 있네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Victory_03	그리고 우리가 자유로운 한, 우린 반드시 길을 찾을 걸세.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission1_01	난 오랫동안 방랑자의 길을 걸었지... 세계를 횡단하고, 수많은 전쟁을 겪고, 낯선 자와 친구가 되었다가 적이 되기도 했어.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission1_02	나의 여정에서 많은 걸 배울 수 있을 걸세. 자네가 따라올 수만 있다면.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission1_03	난 드레노어에서 태어났지. 주위에서 전쟁이 일어난 후에도 우리의 부족인 모크나탈은 평화를 유지하려 했고, 결국 대비를 하지 못했지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission2_01	결국 난 고향에서 추방당했지. 부족을 설득하지 못한 나는 직접 호드를 찾아갔네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission2_02	그들이 내 말을 듣는다면, 희망이 있을 터였지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission3_01	호드를 위해 싸우던 난 대전쟁 때 어둠의 문을 넘었고, 아제로스에 도착했지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission3_02	그곳에서 처음 만난 자들을 알지는 못했지만, 대족장은 내게 그들을 없애라고 했네. 하지만 대족장이었던 그도 결국 쓰러지고 말았지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission3_03	두 번의 전쟁을 겪은 후에, 난 계속되는 갈등에 지치기 시작했네. 그래서 야생에서 안식을 찾기로 마음먹었지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission4_01	결국 난 미샤와 함께 호드를 떠났지. 우린 같이 칼림도어의 야생을 누볐어.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission4_02	문명에 뒤섞이지 않으려고 노력했지. 그러던 어느 날, 피치 못할 일을 겪고 말았다네...	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission5_01	새로운 대족장에겐 여러 문제가 있었지. 인간인 제이나와 평화 협정을 맺은 상태였지만, 우리의 야영지는 인간들에게 공격당했었네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission5_02	제이나는 공격 명령을 자신이 내리지 않았다고 했지. 그래서 진정한 적이 누군지 함께 찾아내기로 했네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission6_01	제이나 덕분에 난 무사히 탈출했지. 하지만 전쟁은 이미 시작됐고, 적은 우리보다 수가 많았네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission6_02	대족장인 스랄은 우리에게 동맹이 필요하다고 판단했지. 그래서 나를 보내 켄타우로스에게 잡혀 있는 젊은 타우렌을 구해달라고 했네. 그들의 도움을 얻을 수 있길 바라면서.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission7_01	바인은 약속을 지켰네. 아버지인 케른 블러드후프가 우리에게 전사들을 보내기로 맹세했지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission7_02	우린 프라우드무어 제독과 맞설 준비가 됐었네. 해묵은 증오에 종지부를 찍으려 했지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission8_01	그렇게 시간이 흘렀고, 난 고향이 그리워지기 시작했네. 어둠의 문이 재건된 후에, 난 드레노어로 돌아갔지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission8_02	동족을 찾았을 때, 난 내 우려가 현실이 된 걸 깨달았네. 피망치 오우거와 그들의 우두머리인 거대한 그론이 맹렬한 공격을 퍼붓고 있었지.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission8_03	숨이 멎더라도 그들을 구하고 말겠다고 생각했네.	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Threaten_01	그 불같은 성격만큼 지혜로웠다면 어땠을지.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission1Victory_01	가로쉬, 헬스크림의 아들이여. 자네 아버지는 우리의 가장 자랑스러운 영웅이었네.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission1Victory_02	그는 악마 만노로스를 죽이고 오크에게 드리운 피의 저주를 걷어냈지.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission3Victory_01	원정대는 어떻게 되고 있나, 가로쉬?	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission3Victory_02	잘했네, 친구여. 다시 한번 날 놀라게 하는군.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4ExchangeC_01	뭔가가 아제로스 전역의 정령들을 노하게 했네... 헌데, 정작 무엇이 그랬는지는 모르겠군.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4Victory_01	잘했네. 도시의 안전을 확보했군. 이제 난 이 소동의 원흉을 찾으러 가야 하네.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4Victory_02	내가 없는 동안, 자네에게 호드를 이끌 것을 지시하겠네.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4Victory_03	자네에게는 이런 혼란의 시기에 필요한 힘과 용기가 있으니.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8EmoteResponse_01	네가 이렇게 말하는 걸 들으니 가슴이 아프구나.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8ExchangeA_01	바람과 대지, 물의 정령이여, 내 부름에 답하라! 나를 도와다오!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8ExchangeC_01	오래전 저질렀던 실수를 이제는 바로잡아야겠다...	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8HeroPower_01	둠해머를 위하여!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8HeroPower_02	넌 자격이 없다!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8HeroPower_03	피바람을 불러일으키자!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Idle_01	나는 약하지 않고, 혼자도 아니다.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Idle_02	강함이란 다양한 방법으로 증명할 수 있다는 걸 너도 알면 좋겠거늘.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Idle_03	최소한 대모님께선 네가 이렇게나 타락했는지 모르실 테니 다행일지도...	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Intro_01	아직 늦지 않았다, 가로쉬. 대족장이라는 짐을 내려놓거라. 지금, 여기서 끝내자.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Loss_01	너에게 건 기대가 컸지만... 이제 그 기대를 묻어둬야겠구나.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ExchangeC_01	난 오크 호드의 지도자인 스랄이오. 이 자는 원래 용맹한 전사였지만, 그의 정신은 극심한 분노에 물들고 말았소.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ThrallHelp_01	내가 도와주겠소.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ThrallHelp_02	원군을 더 보냈소.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ThrallHelp_03	지원하겠소.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4Victory_01	괜찮소, 그롬마쉬. 모든 게 프라우드무어 양 덕분이오.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission5Thrall_01	계속 싸워라, 나의 전사들이여! 놈들은 호드를 막을 수 없을 것이다!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission5Victory_01	우리의 염원은 그가 생각했던 것보다 훨씬 강했소.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7EmoteResponse_01	분명 대화로 해결할 수 있을 거요.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7ExchangeA_01	당신의 도시에 벌어진 일은 정말 유감이오. 하지만 복수심은 당신이 잃은 이들을 되살리진 못하오.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7ExchangeB_01	가로쉬와 싸우시오. 하지만 다른 이들은 당신의 적이 아니오.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7HeroPower_01	피바람을 불러 일으키자!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7HeroPower_02	정령들이여, 나를 인도하라!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7HeroPower_03	폭풍과 땅과 불이여, 내 부름에 답하라!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Idle_01	비탄에 빠져 이성을 잃지 말고, 무고한 이들의 목숨을 생각하시오.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Idle_02	내가 가로쉬를 믿은 건 크나큰 실수였소...	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Idle_03	폭력을 쓰고 싶진 않다고 하지 않았소?!	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Intro_01	정령들이 날 이곳으로 불러 당신을 막으라고 했소, 오랜 친구여...	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Loss_01	제이나... 나도 이런 결말을 원치 않았소. 정말 미안하오.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission4Victory_01	그랬군. 그대에게 큰 빚을 졌소. 약소하지만 이곳 듀로타에서 우리의 환대를 받아 주시오.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7ExchangeA_01	물론 알고 있소. 하지만 이 사태가 어떻게 끝날지 그대도 알고 있겠지.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7ExchangeB_01	우린 제독을 끝장내야 하오. 그래야 호드가 안전할 수 있소.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7ExchangeD_01	렉사르, 그대를 호드의 용사로 임명하오. 우릴 승리로 이끌어주시오.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7Intro_01	우리는 그대가 기억하는 그 호드가 아니오.	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7Victory_01	렉사르, 그대가 우리 모두를 구했소. 어떤 보답도 충분치 않을 거요. 함께 듀로타로 돌아가지 않겠소?	
+VO_Story_Hero_Tyrande_Female_NightElf_Story_Jaina_Mission5Tyrande_01	엘룬을 위하여!	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3EmoteResponse_01	점점 날 짜증 나게 하는구나.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3ExchangeA_01	아니, 너희 병력이 도리어 우릴 도울 것이다.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3ExchangeB_01	우리 네루비안은 바위와 얼음과 뼈처럼 영원히 살아갈 것이다.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3HeroPower_01	우리에게 와라...	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3HeroPower_02	다시 태어나라.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3HeroPower_03	죽음은 끝이 아니다.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Idle_01	일꾼들을 그렇게나 쉽게 내치다니! 넌 아주 뛰어난 스컬지 지휘관이 되겠구나.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Idle_02	스컬지는 네가 여태껏 봐온 적들과는 다를 것이다.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Idle_03	이곳에 오래 머물면, 네 심장도 이 얼어붙은 황무지처럼 차갑게 식을 거다.	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Intro_01	우리의 먹잇감이 될 수 있도록 전사들을 보내주다니 고맙군...	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Loss_01	널 죽음의 기사로 되살릴 순 없다는 게 안타깝군...	
+VO_Story_Minion_Baine_Male_Tauren_Story_Rexxar_Mission6ExchangeA_01	제 아버지를 아십니까?! 제발, 그분께 데려다주십시오!	
+VO_Story_Minion_Baine_Male_Tauren_Story_Rexxar_Mission6Victory_01	감사합니다. 덕분에 살았군요. 당신의 부탁이라면 제 아버지께서 뭐든 들어주실 겁니다.	
+VO_Story_Minion_Cairne_Male_Tauren_Story_Rexxar_Mission7ExchangeC_01	우리가 함께하겠네, 렉사르! 앞장서게!	
+VO_Story_Minion_Footman_Male_Human_Story_Footman_Play_01	제이나 님? 당신이십니까?	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission6ExchangeC_01	저들은 절대 멈추지 않을 거야...	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission6Victory_01	물러나, 제이나! 너라도 살아야 해!	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission6Victory_02	네가 여기서 죽으면 아무것도 이룰 수 없어.	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission7Victory_01	이건 네가 아니야, 제이나. 이 문제는 호드와 다른 방법으로 풀 수 있어!	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission7Victory_02	물론 그래. 하지만 스랄은 보내줘.	
+VO_Story_Minion_Magatha_Female_Tauren_Story_Minion_Magatha_Play_01	너에게 크나큰 축복을 내리마...	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Mogrin_Play_01	겁쟁이들 같으니!	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeA_01	놈들이 사방에서 달려드는군!	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeB_01	알고 있소. 실패했다는 것만 빼면 괜찮은 죽음이 되겠지.	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeC_01	대족장님께... 중요한 보고서를 전달해야 하는데...	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeC_02	이젠... 그럴 수 없겠군. 나는 명예를 잃었소.	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeD_01	오그리마라는... 도시를 찾아가시오. 스랄... 대족장님께…	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4Intro_01	와라, 잡것들아! 모그린의 강철 도끼 맛을 봐라!	
 VO_TB_FelFirefest_FelRagnaros_Male_Elemental_FelfireFest_Intro01_01	나의 지옥불꽃축제가 시작되었다! 승리하여 영광을 거머쥐거나, 패배하고 뼈저리게 후회해라, 벌레 같은 놈!	
 VO_TB_FelFirefest_FelRagnaros_Male_Elemental_FelfireFest_Intro02_01	규칙을 어길 순 없을 거다. 애초에 규칙이 없으니까!	
 VO_TB_FelFirefest_FelRagnaros_Male_Elemental_FelfireFest_Intro03_01	한 명은 승리하고, 한 명은 불타리라!	
@@ -7437,6 +7982,323 @@ VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Attack_01	이제 끝없는 �
 VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Loss_01	이제 내가 무엇을 해야 하는지 알았다. 누구도 날 방해하진 못하리라!	
 VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Start1_01	얼어붙은 왕좌는 나의 것이다, 악마야. 비켜라.	
 VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Start3_01	나야말로!	
+VO_TB_PVPDR_Bob_Male_Human_TavernCollection_01	예사롭지 않은 카드들이군요!	
+VO_TB_PVPDR_Bob_Male_Human_TavernCollection_02	이야, 대단한 친구들을 데리고 계시군요.	
+VO_TB_PVPDR_Bob_Male_Human_TavernCollection_03	어떤 생각이신지 알 것 같군요.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_01	힘내세요! 이럴 때도, 저럴 때도 있는 법 아니겠습니까!	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_02	너무 신경 쓰시진 마세요. 코코아 한 잔 쭉 들이키시면, 훨씬 나을 겁니다요.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_03	이걸 왜 쓰고 있으란 건진 모르겠지만, 뭐 괜찮은 거 같네요.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_04	아직 포기하진 마세요! 다시 도전하실 수 있도록 제가 자리를 마련했습죠!	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_05	필요하신 건 제가 다 가지고 있습니다! 하수인은 물론이고, 콘치즈까지도요!	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_06	실력이 출중하신 분들도 이따금씩 덱을 손보시곤 하시죠.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_07	아주 위험했군요! 그래도 아직 기회는 있습니다요.	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_08	제가 학교에 다닐 적엔 이렇게까진 힘들지 않았던 것 같습니다만...	
+VO_TB_PVPDR_Bob_Male_Human_TavernLegendary_01	아주 굉장한 전설 카드군요!	
+VO_TB_PVPDR_Bob_Male_Human_TavernType_01	규칙이 보이는군요! 뭘 좋아하시는지 얼추 알겠어요.	
+VO_TB_PVPDR_Bob_Male_Human_TavernWeapons_01	아, 무기라. 그렇다면 제가 특별한 걸 준비해드리죠.	
+VO_TB_PVPDR_Fireheart_Female_Human_Attack_01	새로운 시험이야!	
+VO_TB_PVPDR_Fireheart_Female_Human_Concede_01	결과는 받아들여야지.	
+VO_TB_PVPDR_Fireheart_Female_Human_Error_01	그렇겐 못 해.	
+VO_TB_PVPDR_Fireheart_Female_Human_ErrorSpace_01	공간이 부족해.	
+VO_TB_PVPDR_Fireheart_Female_Human_LowCards_01	카드가 얼마 없어.	
+VO_TB_PVPDR_Fireheart_Female_Human_NoCards_01	카드가 없다니!	
+VO_TB_PVPDR_Fireheart_Female_Human_Oops_01	배움에는 왕도가 없는 법이지.	
+VO_TB_PVPDR_Fireheart_Female_Human_Picked_01	이제 배운 걸 실천해볼까?	
+VO_TB_PVPDR_Fireheart_Female_Human_Start_01	봐주진 않겠어. 표절하는 놈들은 질색이니까.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartIllucia_01	절 평가하는 건가요, 아니면 제게 도전하는 건가요?	
+VO_TB_PVPDR_Fireheart_Female_Human_StartKelThuzad_01	화염이 제 의지를 따릅니다!	
+VO_TB_PVPDR_Fireheart_Female_Human_StartLilian_01	청강은 용납하지 않아!	
+VO_TB_PVPDR_Fireheart_Female_Human_StartMirror_01	누가 누굴 보고 표절이라는 건지.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartMozaki_01	역시 너랑 붙을 줄 알았어.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartOmu_01	저도 그러고 싶지만, 켈투자드 학장님께서 원치 않으셔서 말이죠.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartRattllegore_01	너 같은 녀석은 퇴학이야!	
+VO_TB_PVPDR_Fireheart_Female_Human_StartSlate_01	원하신다면 언제든 포기하셔도 됩니다, 교수님.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartStelina_01	고작 그 정도로 원소를 이해한다고 생각해?	
+VO_TB_PVPDR_Fireheart_Female_Human_StartTuralyon_01	마법사 대 성기사라... 해볼 만하겠네.	
+VO_TB_PVPDR_Fireheart_Female_Human_StartWillow_01	하! 학장님께선 너 따위는 거들떠보지도 않으실걸?	
+VO_TB_PVPDR_Fireheart_Female_Human_Thanks_01	고마워.	
+VO_TB_PVPDR_Fireheart_Female_Human_Threaten_01	내가 가장 싫어하는 게 뭔지 알아? 말 많은 학생이랑 무식한 교수들이야.	
+VO_TB_PVPDR_Fireheart_Female_Human_Time_01	시간이 부족해.	
+VO_TB_PVPDR_Fireheart_Female_Human_Welcome_01	내 수업은 언제든 열려 있지.	
+VO_TB_PVPDR_Fireheart_Female_Human_WellPlayed_01	공부를 좀 한 모양이네.	
+VO_TB_PVPDR_Fireheart_Female_Human_Wow_01	졸업 성적이 꽤 괜찮았나 봐?	
+VO_TB_PVPDR_HH_Male_Human_Error_01	그럴 수 없다.	
+VO_TB_PVPDR_HH_Male_Human_ErrorSpace_01	공간이 모자라다.	
+VO_TB_PVPDR_HH_Male_Human_LowCards_01	카드가 거의 없다!	
+VO_TB_PVPDR_HH_Male_Human_NoCards_01	카드가 없다!	
+VO_TB_PVPDR_HH_Male_Human_Start_01	어둠 속에서 내가 질주하니, 오늘 밤에 스칼로맨스는 최후를 맞이하리라!	
+VO_TB_PVPDR_HH_Male_Human_StartMirror_01	하지만 나와 똑같은 기사가 막아서니, 이 무슨 기고한 운명인가!	
+VO_TB_PVPDR_HH_Male_Human_Time_01	시간은 부족하지만, 서두르면 안 되지!	
+VO_TB_PVPDR_HH_Male_Human_Welcome_01	환영한다 필멸자여! 하하하하하하하!	
+VO_TB_PVPDR_Illucia_Female_Human_Attack_01	마지막 시험이라고 생각해라.	
+VO_TB_PVPDR_Illucia_Female_Human_Concede_01	이젠 지긋지긋하구나!	
+VO_TB_PVPDR_Illucia_Female_Human_Error_01	그럴 순 없다.	
+VO_TB_PVPDR_Illucia_Female_Human_ErrorSpace_01	공간이 없지 않느냐!	
+VO_TB_PVPDR_Illucia_Female_Human_Greetings_01	아, 너구나.	
+VO_TB_PVPDR_Illucia_Female_Human_LowCards_01	카드가 모자라다.	
+VO_TB_PVPDR_Illucia_Female_Human_NoCards_01	카드가 없다!	
+VO_TB_PVPDR_Illucia_Female_Human_Oops_01	정말 끔찍하군.	
+VO_TB_PVPDR_Illucia_Female_Human_Picked_01	날 고를 줄 알았다.	
+VO_TB_PVPDR_Illucia_Female_Human_Start_01	내가 두 명이면 더 많은 걸 이룰 수 있겠지.	
+VO_TB_PVPDR_Illucia_Female_Human_StartFireheart_01	더욱 냉정한 자가 승리하길.	
+VO_TB_PVPDR_Illucia_Female_Human_StartKelThuzad_01	알렉세이와 전 학장님을 전적으로 지지합니다.	
+VO_TB_PVPDR_Illucia_Female_Human_StartLilian_01	침입자라니! 내 학교에서 썩 꺼져라!	
+VO_TB_PVPDR_Illucia_Female_Human_StartMirror_01	그래. 우리 둘 중 한 명만 이루겠지만.	
+VO_TB_PVPDR_Illucia_Female_Human_StartMozaki_01	아주 흥미로운 대결이 되겠어.	
+VO_TB_PVPDR_Illucia_Female_Human_StartOmu_01	넌 선생인가? 아니면 잡초인가?	
+VO_TB_PVPDR_Illucia_Female_Human_StartRattllegore_01	여기에 숨어있었구나...	
+VO_TB_PVPDR_Illucia_Female_Human_StartSlate_01	버섯에 이렇게나 집착하는 사람은 처음 보네.	
+VO_TB_PVPDR_Illucia_Female_Human_StartStelina_01	네 실력이 네 성적만큼 대단한지 보자꾸나.	
+VO_TB_PVPDR_Illucia_Female_Human_StartTuralyon_01	난 나만의 길을 걸을 뿐이야.	
+VO_TB_PVPDR_Illucia_Female_Human_StartWillow_01	너도 대단하지만, 나만큼은 아니야.	
+VO_TB_PVPDR_Illucia_Female_Human_Thanks_01	아주 유용했어.	
+VO_TB_PVPDR_Illucia_Female_Human_Threaten_01	우리 바로브 가문이 이 학교의 주인이야!	
+VO_TB_PVPDR_Illucia_Female_Human_Time_01	서둘러야겠어.	
+VO_TB_PVPDR_Illucia_Female_Human_Welcome_01	스칼로맨스에 온 걸 환영한다.	
+VO_TB_PVPDR_Illucia_Female_Human_WellPlayed_01	너도 물러날 생각이 없나 보군.	
+VO_TB_PVPDR_Illucia_Female_Human_Wow_01	아주 흥미로워!	
+VO_TB_PVPDR_KelThuzad_Male_Human_Attack_01	날 실망시키지 마라!	
+VO_TB_PVPDR_KelThuzad_Male_Human_Attack_02	이건 어떠냐!	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_01	경쟁자들은 바로... 너의 동료 교직원들이다.	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_02	자리는 하나뿐이니, 마지막까지 이겨보아라!	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_03	오직 한 명만이 내 총애를 얻으리라.	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_04	평소에도 궁금하지 않았더냐. 누가 최고일지.	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_05	잠깐, 넌 학생일 텐데? 뭐, 상관없겠지.	
+VO_TB_PVPDR_KelThuzad_Male_Human_ExceptionalRun_01	축하한다! 합격 기준을 아득히 넘겼구나!	
+VO_TB_PVPDR_KelThuzad_Male_Human_FirstBossLoss_01	낙담하지 마라. 내 교수진 중에는 너에게 쉬운 상대도 분명 있으니.	
+VO_TB_PVPDR_KelThuzad_Male_Human_FirstBossLoss_02	계속 정진한다면 언젠간 성공할 것이다. 아니면 나처럼 반칙을 쓰든가.	
+VO_TB_PVPDR_KelThuzad_Male_Human_GoodRun_01	훌륭한 성과다! "A" 학점을 내리도록 하지.	
+VO_TB_PVPDR_KelThuzad_Male_Human_GoodRun_02	아, 널 위해 아주 특별한 기회를 준비해주지.	
+VO_TB_PVPDR_KelThuzad_Male_Human_Intro_01	내가 아주 획기적인 연구를 구상하고 있는데, 유능한 교사가 한 명 필요하다. 너는 어떨까?	
+VO_TB_PVPDR_KelThuzad_Male_Human_Intro_Banner_01	환영한다! 이번 여름에 내가 아주 특별한 걸 준비하고 있는데 말이지...	
+VO_TB_PVPDR_KelThuzad_Male_Human_Intro_Banner_02	학기가 곧 끝난다. 그러면 무엇이 기다리고 있는지 알고 있겠지?	
+VO_TB_PVPDR_KelThuzad_Male_Human_MediumRun_01	아, 그래. 아주 순탄하구나. 이 정도면 합격이지.	
+VO_TB_PVPDR_KelThuzad_Male_Human_MediumRun_02	잠재력이 충분하구나. 계속 노력한다면 학과장 자리에 오를 수 있을 것이다.	
+VO_TB_PVPDR_KelThuzad_Male_Human_Start_01	뭐지? 내가 스칼로맨스 제일의 교수라고?	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartFireheart_01	파이어하트라. 그 열기를 좀 꺼트려야겠군.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartIllucia_01	이건 위대한 대업의 시작일 뿐이다!	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartLilian_01	침입자라고?! 여길 침범한 걸 후회하게 해주마...	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartMirror_01	뭐, 납득은 되는군.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartMozaki_01	미리 경고하지. 난 마법사들은 엄격하게 채점한다.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartOmu_01	네가 이 일의 적임자일지는... 잘 모르겠군.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartRattlegore_01	역시 시종은 언데드가 가장 효율적이지.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartSlate_01	네 연구는 아무리 봐도 난해하단 말이야.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartStelina_01	한낱 학생이 내 교수들을 물리쳤다고? 흥미롭군.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartTuralyon_01	아주 열성적이군. 널 눈여겨보겠다.	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartWillow_01	이제 네 성과를 더욱 면밀히 살펴볼 수 있겠군.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_01	우리 학계는 혜택이 아주 많지.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_02	이것들이면 도움이 될 거다. 어떤 식으로든.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_03	아, 스칼로맨스 금고에 있던 보물들이군!	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_04	너희 둘 다 보물을 수집하고 있던 모양이구나...	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_01	교보재는 잘 챙기도록.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_02	최고의 결과를 기대하겠다!	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_04	더욱 강한 보물을 얻었구나! 나마저도 탐이 날 정도야.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_05	수집욕이 대단하구나... 이걸 가져가라.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_93	인상 깊은 활약을 기대하겠다.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TutorialMatchmaking_01	너의 상대들도 비슷한 과정을 통해 덱을 만들었다.	
+VO_TB_PVPDR_KelThuzad_Male_Human_TutorialOpponents_01	너와 자격이 비슷한... 적절한 상대를 골라주겠다.	
+VO_TB_PVPDR_KelThuzad_Male_Human_Victory_01	내 예상을 뛰어넘었구나. 앞으로의 너의 교직 생활이 아주 유망할 것이야...	
+VO_TB_PVPDR_KelThuzad_Male_Human_Victory_02	너의 앞날이 아주 창창하구나! 그렇게 생각하지 않니, 비글스워스? <고양이 소리> 하하... 맞다고 하는군.	
+VO_TB_PVPDR_KelThuzad_Male_Human_Victory_03	내가 찾고 있던 인재가 여기 있었군! 언젠가는 네가 학장 자리까지 맡을 수도 있을 것이다. 언젠가는.	
+VO_TB_PVPDR_Lilian_Female_Human_Attack_01	내 검은 항상 날카롭지.	
+VO_TB_PVPDR_Lilian_Female_Human_Concede_01	최선을 다했건만.	
+VO_TB_PVPDR_Lilian_Female_Human_Error_01	그럴 순 없어.	
+VO_TB_PVPDR_Lilian_Female_Human_ErrorSpace_01	공간이 없다.	
+VO_TB_PVPDR_Lilian_Female_Human_Greetings_01	반갑다. 무슨 일이지?	
+VO_TB_PVPDR_Lilian_Female_Human_LowCards_01	카드가 별로 없다.	
+VO_TB_PVPDR_Lilian_Female_Human_NoCards_01	카드가 없어!	
+VO_TB_PVPDR_Lilian_Female_Human_Oops_01	의도하지 않은 결과야...	
+VO_TB_PVPDR_Lilian_Female_Human_Picked_01	반드시 알아내고야 말겠어.	
+VO_TB_PVPDR_Lilian_Female_Human_Start_01	날 방해할 셈인가?	
+VO_TB_PVPDR_Lilian_Female_Human_StartFireheart_01	확실히 말해두는데, 너한테서 배울 건 없어!	
+VO_TB_PVPDR_Lilian_Female_Human_StartIllucia_01	켈투자드는 너에게 파멸만을 안겨줄 거야!	
+VO_TB_PVPDR_Lilian_Female_Human_StartKelThuzad_01	난 여기서 네가 무슨 일을 꾸미는지 알아. 그렇게 두지 않을 테고.	
+VO_TB_PVPDR_Lilian_Female_Human_StartMirror_01	네가 날 방해하는 것 같은데!	
+VO_TB_PVPDR_Lilian_Female_Human_StartMozaki_01	필요하다면 이곳의 모든 교사들을 다 없애겠어.	
+VO_TB_PVPDR_Lilian_Female_Human_StartOmu_01	너까지 해하고 싶진 않지만, 다른 방도가 없군.	
+VO_TB_PVPDR_Lilian_Female_Human_StartRattllegore_01	그 비참한 운명을 끝내주마.	
+VO_TB_PVPDR_Lilian_Female_Human_StartSlate_01	오늘이 첫날이라고 하면 믿겠나?	
+VO_TB_PVPDR_Lilian_Female_Human_StartStelina_01	날 내버려 두고 교실로 돌아가!	
+VO_TB_PVPDR_Lilian_Female_Human_StartTuralyon_01	좀 조용히 해주겠어?	
+VO_TB_PVPDR_Lilian_Female_Human_StartWillow_01	너희 전부 강령술사지. 내가 모를 줄 알아?!	
+VO_TB_PVPDR_Lilian_Female_Human_Thanks_01	고맙다고 해야겠네.	
+VO_TB_PVPDR_Lilian_Female_Human_Threaten_01	너희 학교엔 악이 가득해.	
+VO_TB_PVPDR_Lilian_Female_Human_Time_01	시간이 부족하겠는데.	
+VO_TB_PVPDR_Lilian_Female_Human_Welcome_01	심판의 날을 맞이해라.	
+VO_TB_PVPDR_Lilian_Female_Human_WellPlayed_01	너, 이런 짓을 하고 있기엔 실력이 아까운데?	
+VO_TB_PVPDR_Lilian_Female_Human_Wow_01	어떻게 된 거지?!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Concede_01	이럴 시간 없습니다!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Error_01	아니, 안 돼요.	
+VO_TB_PVPDR_Mozaki_Female_Troll_ErrorSpace_01	공간이 부족해요!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Greetings_01	경쟁이라고 하기엔 제 상대가 안 되실걸요?	
+VO_TB_PVPDR_Mozaki_Female_Troll_LowCards_01	카드가 부족합니다.	
+VO_TB_PVPDR_Mozaki_Female_Troll_NoCards_01	카드가 없어요!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Oops_01	방금 건 좀 당황스럽군요.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Picked_01	진정한 결투사의 실력을 보여드리죠.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Start_01	이건... 복제된 환영 같은 건가요?	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartFireheart_01	그러면 저한테 이길 수 없다는 것도 아시겠군요.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartIllucia_01	물론이죠. 제 수업은 언제나 재밌답니다!	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartKelThuzad_01	반드시 기대에 부응하겠습니다.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartLilian_01	당신, 뭔가 수상하군요. 거기 얌전히 계세요!	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartMirror_01	아, 그 주문, 저도 좋아해요.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartOmu_01	가소롭군요. 그 식물들로 절 상대하시려는 겁니까?	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartRattllegore_01	이 괴물은 교수 명단에 없었는데!	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartSlate_01	막상막하의 결투는 언제든 환영입니다.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartStelina_01	주문이야말로 가장 강력한 무기입니다.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartTuralyon_01	당신 같은 성기사는 질색입니다.	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartWillow_01	당신과는 달리, 전 여기 있을 자격이 되거든요.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Thanks_01	하, 고맙습니다.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Threaten_01	최고가 되려면 고독함도 견뎌내야 하는 법이죠.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Time_01	서둘러야겠군요!	
+VO_TB_PVPDR_Mozaki_Female_Troll_Welcome_01	심화반에 오신 걸 환영합니다.	
+VO_TB_PVPDR_Mozaki_Female_Troll_WellPlayed_01	노력은 가상하군요.	
+VO_TB_PVPDR_Mozaki_Female_Troll_Wow_01	생각보다 소질이 있으시군요!	
+VO_TB_PVPDR_Omu_Female_Botani_Concede_01	활짝 핀 꽃도 시들기 마련.	
+VO_TB_PVPDR_Omu_Female_Botani_Error_01	그러면 안 된다.	
+VO_TB_PVPDR_Omu_Female_Botani_ErrorSpace_01	공간이 없구나.	
+VO_TB_PVPDR_Omu_Female_Botani_Greetings_01	자연과 하나가 되어라.	
+VO_TB_PVPDR_Omu_Female_Botani_LowCards_01	카드가 적구나.	
+VO_TB_PVPDR_Omu_Female_Botani_NoCards_01	카드가 없다.	
+VO_TB_PVPDR_Omu_Female_Botani_Oops_01	이것도 교훈으로 삼아야겠구나.	
+VO_TB_PVPDR_Omu_Female_Botani_Picked_01	뿌린 것이 있으면, 거둘 것도 있기 마련.	
+VO_TB_PVPDR_Omu_Female_Botani_Start_01	흠... 나랑 뿌리가 같은 이가 있었나?	
+VO_TB_PVPDR_Omu_Female_Botani_StartFireheart_01	우리가 학생들을 함께 가르치듯, 이 자리도 함께 맡아야 하지 않겠나?	
+VO_TB_PVPDR_Omu_Female_Botani_StartIllucia_01	아, 바로브 가문의 총애시군!	
+VO_TB_PVPDR_Omu_Female_Botani_StartKelThuzad_01	네 연구도 나의 보살핌 아래 활짝 피어날 것이다.	
+VO_TB_PVPDR_Omu_Female_Botani_StartLilian_01	넌 선생도, 학생도 아니구나. 여긴 어떻게 온 것이냐?	
+VO_TB_PVPDR_Omu_Female_Botani_StartMirror_01	더 강한 자가 결정하길!	
+VO_TB_PVPDR_Omu_Female_Botani_StartMozaki_01	넌 아직 마법에 대해 모르는 게 많다.	
+VO_TB_PVPDR_Omu_Female_Botani_StartRattllegore_01	기괴한 것아, 네 안에선 생명이란 찾아볼 수가 없구나!	
+VO_TB_PVPDR_Omu_Female_Botani_StartSlate_01	오늘은 자연의 힘만을 보여주겠노라!	
+VO_TB_PVPDR_Omu_Female_Botani_StartStelina_01	편입생은 누구든 환영한단다.	
+VO_TB_PVPDR_Omu_Female_Botani_StartTuralyon_01	누가 더 강한지 겨뤄보자꾸나.	
+VO_TB_PVPDR_Omu_Female_Botani_StartWillow_01	내 숲의 의지를 보아라!	
+VO_TB_PVPDR_Omu_Female_Botani_Thanks_01	고맙다.	
+VO_TB_PVPDR_Omu_Female_Botani_Threaten_01	내 인내심에도 한계가 있단다.	
+VO_TB_PVPDR_Omu_Female_Botani_Time_01	시간이 부족하다.	
+VO_TB_PVPDR_Omu_Female_Botani_Welcome_01	나의 숲에는 누구나 환영이다.	
+VO_TB_PVPDR_Omu_Female_Botani_WellPlayed_01	실력이 나날이 자라는구나!	
+VO_TB_PVPDR_Omu_Female_Botani_Wow_01	이리도 번창하다니!	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Attack_01	<으르렁>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Concede_01	<으르렁>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Greetings_01	<으르렁>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_NoCards_01	<부정하는 으르렁>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Oops_01	<작은 으르렁>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Picked_01	<기대하는 으르렁>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Start_01	<거슬려하는 으르렁>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_StartMirror_01	<혼란스러워하는 으르렁>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Threaten_01	<위협적인 으르렁>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_WellPlayed_01	<놀라는 으르렁>	
+VO_TB_PVPDR_Slate_Male_Human_Attack_01	효능이 엄청나다고요!	
+VO_TB_PVPDR_Slate_Male_Human_Attack_02	대단하지 않나요?	
+VO_TB_PVPDR_Slate_Male_Human_Attack_03	정말 신선하고 억세군요!	
+VO_TB_PVPDR_Slate_Male_Human_Concede_01	현장으로 돌아가야겠군요.	
+VO_TB_PVPDR_Slate_Male_Human_Error_01	에헤이, 안 돼요.	
+VO_TB_PVPDR_Slate_Male_Human_ErrorSpace_01	자랄 곳이 필요해요!	
+VO_TB_PVPDR_Slate_Male_Human_Greetings_01	오호, 안녕하세요!	
+VO_TB_PVPDR_Slate_Male_Human_LowCards_01	카드가 얼마 없군요.	
+VO_TB_PVPDR_Slate_Male_Human_NoCards_01	카드가 메말랐어요!	
+VO_TB_PVPDR_Slate_Male_Human_Oops_01	아이고야!	
+VO_TB_PVPDR_Slate_Male_Human_Picked_01	아, 뭐야?! 아, 음, 안녕하세요!	
+VO_TB_PVPDR_Slate_Male_Human_Start_01	아, 새로 부임하신 분이신가요?	
+VO_TB_PVPDR_Slate_Male_Human_StartFireheart_01	당신과 싸우게 되어 안타깝지만, 학장님을 거스를 순 없어서 말이죠.	
+VO_TB_PVPDR_Slate_Male_Human_StartIllucia_01	제가 요즘 연구하고 있는 것들을 소개해드리죠!	
+VO_TB_PVPDR_Slate_Male_Human_StartKelThuzad_01	교원 평가를 받을 준비를 마쳤습니다, 학장님!	
+VO_TB_PVPDR_Slate_Male_Human_StartLilian_01	아, 스칼로맨스는 처음이신가요?	
+VO_TB_PVPDR_Slate_Male_Human_StartMirror_01	내가 이렇게 늙었던가?	
+VO_TB_PVPDR_Slate_Male_Human_StartMozaki_01	당신도 연구에 관심이 있을 줄은 몰랐네요!	
+VO_TB_PVPDR_Slate_Male_Human_StartOmu_01	흠... 요즘 괜찮은 버섯 좀 있으신가요?	
+VO_TB_PVPDR_Slate_Male_Human_StartRattllegore_01	누가 이 괴물을 여기 들여보낸 거죠?!	
+VO_TB_PVPDR_Slate_Male_Human_StartStelina_01	학부생이라면 제 연구를 이해하기 힘들 거예요!	
+VO_TB_PVPDR_Slate_Male_Human_StartTuralyon_01	위대한 투랄리온 님과 싸우게 되다니! 가슴이 벅차군요!	
+VO_TB_PVPDR_Slate_Male_Human_StartWillow_01	무슨 연구를 하고 계셨다고 했죠?	
+VO_TB_PVPDR_Slate_Male_Human_Thanks_01	감사합니다, 감사합니다!	
+VO_TB_PVPDR_Slate_Male_Human_Threaten_01	당신의 앞날을 깜깜하게 만들어 드리죠!	
+VO_TB_PVPDR_Slate_Male_Human_Time_01	시간이 거의 없군요.	
+VO_TB_PVPDR_Slate_Male_Human_Welcome_01	스칼로맨스는 평생 교육도 책임진다고요.	
+VO_TB_PVPDR_Slate_Male_Human_WellPlayed_01	현장 실습 점수는 "A"를 드리겠어요!	
+VO_TB_PVPDR_Slate_Male_Human_Wow_01	오호라!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Attack_01	전 언제나 이긴다고요!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Concede_01	아, 방학인데 놀러나 가야지!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Error_01	그럴 순 없어요.	
+VO_TB_PVPDR_Stelina_Female_NightElf_ErrorSpace_01	공간이 없어요.	
+VO_TB_PVPDR_Stelina_Female_NightElf_Greetings_01	안녕하세요! 이 싸움도 시험에 나오나요?	
+VO_TB_PVPDR_Stelina_Female_NightElf_LowCards_01	카드가 슬슬 부족해요.	
+VO_TB_PVPDR_Stelina_Female_NightElf_NoCards_01	으, 카드가 없어요.	
+VO_TB_PVPDR_Stelina_Female_NightElf_Oops_01	으, 저런.	
+VO_TB_PVPDR_Stelina_Female_NightElf_Picked_01	전 언제나 선택받죠!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Start_01	아, 너구나. 아니, 난가?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartFireheart_01	파이어하트 교관님? 질문 좀 드려도 될까요?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartIllucia_01	너무 엄하게 가르치진 않으실 거죠? 제가 얼마나 우등생인데요!	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartKelThuzad_01	제가 얼마나 유능한데요! 저만한 제자는 찾기 힘드실걸요?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartLilian_01	대체 어떤 비밀요원이 마법학교에 잠입해요?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartMirror_01	내가 내 답안을 베끼는 건 말이 안 되는데!	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartMozaki_01	무기가 없으면 지루하지 않나요?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartOmu_01	내가 이 강의를 수강하게 될 줄이야...	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartRattllegore_01	넌 대체 어디서 온 거지?!	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartSlate_01	매번 궁금했던 건데... 버섯에 뭔가 애착이 가시나요?	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartTuralyon_01	어... 안녕하세요, 투랄리온 교수님...!	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartWillow_01	왜 하필 저한테 이러시는 거죠?	
+VO_TB_PVPDR_Stelina_Female_NightElf_Thanks_01	정말 고마워요!	
+VO_TB_PVPDR_Stelina_Female_NightElf_Threaten_01	학생을 해치다니, 부끄럽지 않으세요?	
+VO_TB_PVPDR_Stelina_Female_NightElf_Time_01	시간이 촉박해요.	
+VO_TB_PVPDR_Stelina_Female_NightElf_Welcome_01	미래의 수석 졸업생, 인사드립니다!	
+VO_TB_PVPDR_Stelina_Female_NightElf_WellPlayed_01	아주 똑똑하시네요.	
+VO_TB_PVPDR_Stelina_Female_NightElf_Wow_01	저도 생각하지 못한 거예요!	
+VO_TB_PVPDR_Turalyon_Male_Human_Attack_02	빛이 날 인도할지니!	
+VO_TB_PVPDR_Turalyon_Male_Human_Attack_1	공세를 유지하십시오!	
+VO_TB_PVPDR_Turalyon_Male_Human_Concede_01	승리를 만끽하십시오.	
+VO_TB_PVPDR_Turalyon_Male_Human_Error_01	그럴 순 없습니다.	
+VO_TB_PVPDR_Turalyon_Male_Human_ErrorSpace_01	공간이 없습니다.	
+VO_TB_PVPDR_Turalyon_Male_Human_Greetings_01	제 믿음이 곧 방패입니다.	
+VO_TB_PVPDR_Turalyon_Male_Human_LowCards_01	카드가 부족합니다.	
+VO_TB_PVPDR_Turalyon_Male_Human_NoCards_01	카드가 없습니다!	
+VO_TB_PVPDR_Turalyon_Male_Human_Oops_01	아무도 못 봤겠죠?	
+VO_TB_PVPDR_Turalyon_Male_Human_Picked_01	빛이 우리와 함께합니다.	
+VO_TB_PVPDR_Turalyon_Male_Human_Start_01	이 승리를 잊지 않겠습니다!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartFireheart_01	교관님, 친선전 한번 어떻습니까?	
+VO_TB_PVPDR_Turalyon_Male_Human_StartIllucia_01	사제는 빛을 따라야 마땅하거늘, 당신은 그림자 안에서 배회하는군요.	
+VO_TB_PVPDR_Turalyon_Male_Human_StartKelThuzad_01	스칼로맨스에 빛의 가호가 있길!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartLilian_01	당신... 여기에 있을 분이 아닌 것 같습니다만?	
+VO_TB_PVPDR_Turalyon_Male_Human_StartMirror_01	우서, 자네인가? 장난은 그쯤 해두게!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartMozaki_01	솔직히 말해서, 트롤들이랑은 어울리기가 힘들더군요.	
+VO_TB_PVPDR_Turalyon_Male_Human_StartOmu_01	자연의 힘은 빛에 비할 바가 못 됩니다!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartRattllegore_01	빛은 널 저버렸다!	
+VO_TB_PVPDR_Turalyon_Male_Human_StartSlate_01	아, 슬레이트 교수님. 서로의 지략을 시험해 보시죠.	
+VO_TB_PVPDR_Turalyon_Male_Human_StartStelina_01	교직에 관심이 있으십니까?	
+VO_TB_PVPDR_Turalyon_Male_Human_StartWillow_01	당신의 마법은 믿을 수가 없습니다.	
+VO_TB_PVPDR_Turalyon_Male_Human_Thanks_01	감사합니다.	
+VO_TB_PVPDR_Turalyon_Male_Human_Threaten_01	빛이 모든 악을 드러낼 겁니다!	
+VO_TB_PVPDR_Turalyon_Male_Human_Time_01	시간이 촉박하군요.	
+VO_TB_PVPDR_Turalyon_Male_Human_Welcome_01	반갑습니다.	
+VO_TB_PVPDR_Turalyon_Male_Human_WellPlayed_01	훌륭합니다.	
+VO_TB_PVPDR_Turalyon_Male_Human_Wow_01	가히 놀랍군요!	
+VO_TB_PVPDR_Willow_Female_Human_Concede_01	포기하겠어.	
+VO_TB_PVPDR_Willow_Female_Human_Error_01	절대 못 해.	
+VO_TB_PVPDR_Willow_Female_Human_ErrorSpace_01	아니, 공간이 없어.	
+VO_TB_PVPDR_Willow_Female_Human_Greetings_01	반가워.	
+VO_TB_PVPDR_Willow_Female_Human_LowCards_01	카드가 거의 없는데.	
+VO_TB_PVPDR_Willow_Female_Human_NoCards_01	카드가 없어.	
+VO_TB_PVPDR_Willow_Female_Human_Oops_01	흥미로운 실수네.	
+VO_TB_PVPDR_Willow_Female_Human_Picked_01	아, 벌써부터 기대가 되네.	
+VO_TB_PVPDR_Willow_Female_Human_Start_01	나의 내적 갈등이 이런 식으로 발현되는 건 원치 않았는데.	
+VO_TB_PVPDR_Willow_Female_Human_StartFireheart_01	미안하지만, 넌 날 막을 수 없어.	
+VO_TB_PVPDR_Willow_Female_Human_StartIllucia_01	일루시아... 언젠가는 내 숙적이 될 거라 예상했지.	
+VO_TB_PVPDR_Willow_Female_Human_StartKelThuzad_01	학장님! 영광입니다.	
+VO_TB_PVPDR_Willow_Female_Human_StartLilian_01	감당 못할 일은 저지르지 않는 게 좋을걸?	
+VO_TB_PVPDR_Willow_Female_Human_StartMirror_01	그러게나 말이야.	
+VO_TB_PVPDR_Willow_Female_Human_StartMozaki_01	요즘은 아무한테나 종신 재직권을 주나 보네.	
+VO_TB_PVPDR_Willow_Female_Human_StartOmu_01	내가 기르던 식물은 다 말라 죽었는데... 넌 어떨까?	
+VO_TB_PVPDR_Willow_Female_Human_StartRattllegore_01	이미 죽은 걸 어떻게 다시 죽이란 거지?	
+VO_TB_PVPDR_Willow_Female_Human_StartSlate_01	슬레이트 교수님. 이렇게 또 뵙네요!	
+VO_TB_PVPDR_Willow_Female_Human_StartStelina_01	거기, 너! 벌을 좀 받아야겠네.	
+VO_TB_PVPDR_Willow_Female_Human_StartTuralyon_01	그래서? 날 위해 기도라도 하려고?	
+VO_TB_PVPDR_Willow_Female_Human_Thanks_01	그래, 고마워.	
+VO_TB_PVPDR_Willow_Female_Human_Threaten_01	이제부턴 더 재밌어질 거야.	
+VO_TB_PVPDR_Willow_Female_Human_Time_01	시간이 부족해.	
+VO_TB_PVPDR_Willow_Female_Human_Welcome_01	환영해.	
+VO_TB_PVPDR_Willow_Female_Human_WellPlayed_01	뭔가를 배우긴 했나 보네.	
+VO_TB_PVPDR_Willow_Female_Human_Wow_01	나름 괜찮았어.	
 VO_TB_ReturningPlayer_Houndmastr2_Male_Demon_RP_Mission3_ExchangeA_01_01	넌 내 주인님의 힘을 상상조차 못할 것이다.	
 VO_TB_ReturningPlayer_Houndmastr2_Male_Demon_RP_Mission3_ExchangeB_01_01	비전의 힘을 다루는구나. 하지만 그보다 더 강대한 힘도 있는 법.	
 VO_TB_ReturningPlayer_Houndmastr2_Male_Demon_RP_Mission3_ExchangeC_01_01	네가 원하는 모든 것을 얻게 되리라. 굴복하기만 한다면 말이지.	

@@ -34,7 +34,7 @@ GAMEPLAY_BACON_MINION_MOVE_TUTORIAL	Arrastra a la derecha para reorganizar.
 GAMEPLAY_BACON_MINION_UPGRADE_TAVERN_TUTORIAL	¡Mejora la taberna!	
 GAMEPLAY_BACON_MULLIGAN_AVAILABLE_RACES	Tipos de esbirros en esta partida: {0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
 GAMEPLAY_BACON_MULLIGAN_CHOOSE_HERO_BANNER	Elige a un héroe	
-GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER	{0}/8 jugadores listos	0=number of players ready
+GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER	{0}/{1} jugadores listos	0=number of players ready, 1=number of players in game
 GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER_SUBTITLE	Tiempo restante	
 GAMEPLAY_BACON_PLAY_MINION_TUTORIAL	¡Juégalo!	
 GAMEPLAY_BACON_RECENT_COMBATS	Combates recientes	
@@ -67,6 +67,7 @@ GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MINIONS	Elige una para todos tus esbirros:
 GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MURLOCS	Elige una para todos tus múrlocs:	
 GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_RECRUITS	Elige una para todos tus reclutas:	
 GAMEPLAY_CHOOSE_ONE_HERO_POWER	Elige uno	will be displayed for choosing a Hero Power e.g. Sir Finley Mrrgglton
+GAMEPLAY_CHOOSE_ONE_WINNER	¡Adivina el ganador!	
 GAMEPLAY_COIN_TOSS_LOST	Tienes una carta más	
 GAMEPLAY_COIN_TOSS_WON	Tú juegas primero	
 GAMEPLAY_COPY_DEATHRATTLE	Último aliento copiado de {0}.	
@@ -112,6 +113,7 @@ GAMEPLAY_END_OF_GAME_PLACE_6	6.º puesto
 GAMEPLAY_END_OF_GAME_PLACE_7	7.º puesto	
 GAMEPLAY_END_OF_GAME_PLACE_8	8.º puesto	
 GAMEPLAY_END_OF_GAME_RATING	Clasificación	
+GAMEPLAY_END_OF_GAME_TIE	¡Empate!	
 GAMEPLAY_END_OF_GAME_TIE_ESCAPED	¡Has escapado!	
 GAMEPLAY_END_OF_GAME_VICTORY	¡Victoria!	
 GAMEPLAY_END_OF_GAME_VICTORY_MAYBE	¿Victoria?	
@@ -220,7 +222,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_IF_AVAILABLE_AND_PLAYER_HEALTH_CHANGED_THIS_TURN	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAGNET	Hay un esbirro que debe ser el objetivo	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAX_ATTACK	Elige a un personaje con {0} p. de ataque o menos	
 GAMEPLAY_PlayErrors_REQ_TARGET_MIN_ATTACK	Elige a un personaje con {0} p. de ataque o más	
-GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	Ese esbirro ya es dorado	
+GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	No se puede usar con un esbirro dorado.	
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_DAMAGEABLE_ONLY_BY_WEAPONS	Este personaje solo puede recibir daño de armas	
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_DORMANT	Ese esbirro está en Letargo	
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_VAMPIRE	Ese esbirro ya es un vampiro	
@@ -231,6 +233,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_TO_PLAY	Eso no se puede jugar sin objetivo
 GAMEPLAY_PlayErrors_REQ_TARGET_WITH_BATTLECRY	Selecciona un personaje con grito de batalla	
 GAMEPLAY_PlayErrors_REQ_TARGET_WITH_DEATHRATTLE	Selecciona un personaje con último aliento	
 GAMEPLAY_PlayErrors_REQ_TARGET_WITH_RACE	No es la raza correcta	
+GAMEPLAY_PlayErrors_REQ_TWO_OF_A_KIND	Debe tener una tercera copia disponible	
 GAMEPLAY_PlayErrors_REQ_UNDAMAGED_TARGET	El objetivo debe ser un personaje que no haya recibido daño.	
 GAMEPLAY_PlayErrors_REQ_UNIQUE_SECRET	Esta carta ya está en juego	
 GAMEPLAY_PlayErrors_REQ_WEAPON_EQUIPPED	Debes tener un arma	
@@ -251,8 +254,10 @@ GAMEPLAY_SECRET_NAME_ROGUE	Secreto de pícaro
 GAMEPLAY_SPECTATOR_DISCONNECT_BODY	Te has desconectado. Reinicia Hearthstone para continuar. Puede que tengas que reiniciar el modo Espectador.	
 GAMEPLAY_SPECTATOR_DISCONNECT_BODY_RESET	Te has desconectado. Restaurando la conexión. Puede que tengas que reiniciar el modo Espectador.	
 GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_DESC	{0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
-GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_HEADLINE	Tipos de esbirros:	
+GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_HEADLINE	En esta partida:	
 GAMEPLAY_TOOLTIP_BACON_GOLD	Gasta oro para comprar esbirros.	
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_DESC	{0}, {1}	0=first race, 1=second race
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	No en esta partida:	
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	Tienes {0} |4(carta,cartas) en el mazo.	
 GAMEPLAY_TOOLTIP_DECK_HEADLINE	Mazo	
 GAMEPLAY_TOOLTIP_ENEMYDECK_DESC	El mazo de tu oponente contiene {0} |4(carta,cartas).	
@@ -261,6 +266,8 @@ GAMEPLAY_TOOLTIP_ENEMYHAND_DESC	La mano de tu enemigo contiene {0} |4(carta,cart
 GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_SINGLE	La mano de tu enemigo contiene {0} |4(carta,cartas).	0= number of cards in hand.
 GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_TUT	La mano de tu enemigo. Los jugadores roban una carta cada turno.	
 GAMEPLAY_TOOLTIP_ENEMYHAND_HEADLINE	Mano del enemigo	
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_DESC	{0} |4(cristal, cristales) de maná <b>|4(sobrecargado, sobrecargados)</b>.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_HEADLINE	Sobrecarga del enemigo	
 GAMEPLAY_TOOLTIP_FATIGUE_DECK_DESCRIPTION	¡Te has quedado sin cartas! A partir de ahora recibirás daño cada vez que intentes robar cartas.	
 GAMEPLAY_TOOLTIP_FATIGUE_DECK_HEADLINE	Fatiga	
 GAMEPLAY_TOOLTIP_FATIGUE_ENEMYDECK_DESCRIPTION	¡Tu oponente se ha quedado sin cartas! A partir de ahora recibirá daño cada vez que intente robar cartas.	
@@ -273,8 +280,10 @@ GAMEPLAY_TOOLTIP_MANA_COIN_DESCRIPTION	Gasta tus piezas de oro en cartas para ma
 GAMEPLAY_TOOLTIP_MANA_COIN_HEADLINE	Piezas de oro	
 GAMEPLAY_TOOLTIP_MANA_DESCRIPTION	Al comienzo de tu turno, obtendrás un cristal nuevo y se llenarán los que estén vacíos.	
 GAMEPLAY_TOOLTIP_MANA_HEADLINE	Cristales de maná	
-GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION	Has jugado una carta con Sobrecarga en el turno anterior.	
-GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE	Cristales de maná bloqueados	
+GAMEPLAY_TOOLTIP_MANA_LOCKED_DESCRIPTION	{0} |4(cristal, cristales) de maná <b>|4(sobrecargado, sobrecargados)</b> en el último turno.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_LOCKED_HEADLINE	Cristales de maná bloqueados	
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION	{0} |4(cristal, cristales) de maná <b>|4(sobrecargado, sobrecargados)</b>.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE	Sobrecarga	
 GAMEPLAY_TOT_109t_STASIS_DRAGON_1	Se despierta con <b>Embestir</b> tras dos turnos.	
 GAMEPLAY_TOT_109t_STASIS_DRAGON_2	Se despierta con <b>Embestir</b> en un turno.	
 GAMEPLAY_TRLA_TROLL_SHRINE_1	Turnos hasta\nque reviva: 3.	

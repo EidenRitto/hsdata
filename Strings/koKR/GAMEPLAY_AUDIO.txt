@@ -877,6 +877,55 @@ VO__Female_Night Elf_Threaten_03	한 수 똑똑히 가르쳐드리죠!
 VO__Female_Night Elf_Time_01	시간의 모래가 거의 없어요.	
 VO__Female_Night Elf_Well_Played_01	전설적인 실력이군요!	
 VO__Female_Night Elf_WOW_01	이런 광경을 직접 보게 되다니.	
+VO__Female_Val'kyr_Attack_01	너에게 망각을 선서하노라!	
+VO__Female_Val'kyr_Concede_01	너의 용맹함이 승리했구나.	
+VO__Female_Val'kyr_Death_02	전부... 끝이다...	
+VO__Female_Val'kyr_ERROR_FULL_MINIONS_01	하수인을 너무 많이 거느리고 있다.	
+VO__Female_Val'kyr_ERROR_GENERIC_03	그리 될 순 없다.	
+VO__Female_Val'kyr_ERROR_HAND_FULL_01	손에 카드가 가득하다.	
+VO__Female_Val'kyr_ERROR_I_ATTACKED_01	난 이미 적을 공격했다.	
+VO__Female_Val'kyr_ERROR_MINION_ATTACKED_01	그 녀석은 이제 쉬어야 한다.	
+VO__Female_Val'kyr_ERROR_NEED_MANA_01	마나가 부족하다.	
+VO__Female_Val'kyr_ERROR_NEED_WEAPON_01	우선 무기가 필요하다.	
+VO__Female_Val'kyr_ERROR_PLAY_01	그건 낼 수 없다.	
+VO__Female_Val'kyr_ERROR_STEALTH_01	그 녀석은 숨어있다.	
+VO__Female_Val'kyr_ERROR_SUMMON_SICKNESS_01	아직 쉬고 있는 녀석이다.	
+VO__Female_Val'kyr_ERROR_TARGET_01	내 능력 밖이다.	
+VO__Female_Val'kyr_ERROR_TAUNT_01	누가 날 도발하고 있다.	
+VO__Female_Val'kyr_FIRE_FESTIVAL_01	불꽃축제 동안 찬란하게 타올라라!	
+VO__Female_Val'kyr_Greetings_01	반갑다, 도전자여.	
+VO__Female_Val'kyr_HAPPY_HALLOWEEN_01	영광스러운 망자들을 존중해라.	
+VO__Female_Val'kyr_HAPPY_HOLIDAYS_01	내 영혼까지 따뜻해지는 느낌이구나.	
+VO__Female_Val'kyr_HAPPY_NEW_YEAR_01	즐거운 새해가 왔다!	
+VO__Female_Val'kyr_HAPPY_NEW_YEAR_LUNAR_01	너에게 새해 복이 가득하길!	
+VO__Female_Val'kyr_HAPPY_NOBLEGARDEN_01	넌 알을 모아라. 난 전사들을 모을 테니.	
+VO__Female_Val'kyr_LowCards_01	카드가 거의 없다.	
+VO__Female_Val'kyr_MIRROR_GREETINGS_01	반갑다. 내 숙적이여.	
+VO__Female_Val'kyr_MIRROR_START_01	안 그래도 그럴 참이었다!	
+VO__Female_Val'kyr_NoCards_01	카드가 떨어졌다.	
+VO__Female_Val'kyr_Oops_01	정말 기이하군.	
+VO__Female_Val'kyr_Picked_01	내 용맹함을 목도해라!	
+VO__Female_Val'kyr_PIRATE_DAY_01	죽은 자들도 말할 순 있다. 내가 허락한다면.	
+VO__Female_Val'kyr_Sorry_01	유감이구나.	
+VO__Female_Val'kyr_Start_01	일어나라! 여왕님의 뜻을 받들어라!	
+VO__Female_Val'kyr_Start_Sylvanas_01	여왕이시여, 이번만큼은 당신을 대신해 죽진 않겠습니다.	
+VO__Female_Val'kyr_Thanks_02	감사를 전한다.	
+VO__Female_Val'kyr_Thinking_01	흠...	
+VO__Female_Val'kyr_Thinking_03	가치 있는... 선택일까?	
+VO__Female_Val'kyr_Thinking_04	다음은...	
+VO__Female_Val'kyr_Threaten_01	순순히 너의 운명을 받아들여라!	
+VO__Female_Val'kyr_Time_01	시간이 촉박하다.	
+VO__Female_Val'kyr_TRIGGER_BRAWL_01	과연 누가 승리할 것인가?	
+VO__Female_Val'kyr_TRIGGER_DEAD_MANS_HAND_01	망자는 날 거스를 수 없다.	
+VO__Female_Val'kyr_TRIGGER_DEADLY_ARSENAL_01	이렇게나 많은 칼날이라니!	
+VO__Female_Val'kyr_TRIGGER_DEVASTATE_01	영광스럽게 최후를 맞이해라!	
+VO__Female_Val'kyr_TRIGGER_FORGE_OF_SOULS_01	힘은 영원하다.	
+VO__Female_Val'kyr_TRIGGER_HEROIC_STRIKE_01	운명이 부른다!	
+VO__Female_Val'kyr_TRIGGER_MORTAL_STRIKE_01	어둠이 손짓한다!	
+VO__Female_Val'kyr_TRIGGER_RAMPAGE_01	아직은 너의 때가 아니다.	
+VO__Female_Val'kyr_TRIGGER_WARPATH_01	이건 시작일 뿐이다!	
+VO__Female_Val'kyr_Well_Played_01	넌... 가치 있는 자로구나.	
+VO__Female_Val'kyr_WOW_01	놀랍구나!	
 VO__Male_Dragon_Attack_01	이 세상을 조각내주마!	
 VO__Male_Dragon_Concede_02	만물의 끝이 곧 다가오리라!	
 VO__Male_Dragon_ERROR_FULL_MINIONS_02	머저리들을 더 내보낼 수 없다.	
@@ -1383,7 +1432,11 @@ VO_HERO_03a_TIMER_16	빨리 결정해야한다!
 VO_HERO_03a_WELL_PLAYED_07	훌륭하다.	
 VO_HERO_03a_WOW_35	놀랍군!	
 VO_HERO_04_HAPPY_NEW_YEAR_15	새로운 해가 밝았군!	
+VO_HERO_05_FACTION_CRY_24	호드를 위하여!	
+VO_HERO_05_FIDGET_09	시간이 흐르고 있다네.	
 VO_HERO_05_HAPPY_NEW_YEAR_15	즐거운 새해라네!	
+VO_HERO_05_INDEED_05	동의하네.	
+VO_HERO_05_SALUTE_07	과연… 놀랍군!	
 VO_HERO_05b_Female_Undead_Concede_01	견딜 만큼 견뎠다...	
 VO_HERO_05b_Female_Undead_ERROR_FULL_MINIONS_02	하수인이 너무 많다.	
 VO_HERO_05b_Female_Undead_ERROR_GENERIC_02	그럴 순 없다.	
@@ -1424,6 +1477,75 @@ VO_HERO_05b_Female_Undead_WOW_01	아주 날카롭군!
 VO_HERO_06_HAPPY_NEW_YEAR_15	새로운 해가 밝았다네!	
 VO_Hero_06_Male_NightElf_Start_Illidan_01	네가 설명할 일이 아주 많다.	
 VO_HERO_07_HAPPY_NEW_YEAR_15	새해가 다가왔다!	
+VO_Hero_07d_Male_OldGod_Attack_02	<공격>	
+VO_Hero_07d_Male_OldGod_Concede_01	다시... 잠드노라...	
+VO_Hero_07d_Male_OldGod_Death_02	끝이로구나...	
+VO_Hero_07d_Male_OldGod_ERROR_FULL_MINIONS_02	너무 많다.	
+VO_Hero_07d_Male_OldGod_ERROR_GENERIC_04	할 수 없노라.	
+VO_Hero_07d_Male_OldGod_ERROR_HAND_FULL_01	카드가 너무 많다.	
+VO_Hero_07d_Male_OldGod_ERROR_I_ATTACKED_01	공격할 수 없다.	
+VO_Hero_07d_Male_OldGod_ERROR_MINION_ATTACKED_01	그 하수인은 기력이 쇠했다.	
+VO_Hero_07d_Male_OldGod_ERROR_NEED_MANA_02	마나가 부족하다.	
+VO_Hero_07d_Male_OldGod_ERROR_NEED_WEAPON_01	무기가 필요하다.	
+VO_Hero_07d_Male_OldGod_ERROR_PLAY_01	그건 낼 수 없다.	
+VO_Hero_07d_Male_OldGod_ERROR_STEALTH_01	그 하수인은 은신 중이다.	
+VO_Hero_07d_Male_OldGod_ERROR_STEALTH_02	숨겨진 것은 볼 수 없다.	
+VO_Hero_07d_Male_OldGod_ERROR_SUMMON_SICKNESS_02	준비할 시간이 필요하다.	
+VO_Hero_07d_Male_OldGod_ERROR_TARGET_01	대상이 필요하다.	
+VO_Hero_07d_Male_OldGod_ERROR_TAUNT_01	도발 능력이 있는 하수인을 공격해야 한다.	
+VO_Hero_07d_Male_OldGod_FIRE_FESTIVAL_01	불꽃은 모든 걸 삼키지만, 화염은 모든 걸 정화하지.	
+VO_Hero_07d_Male_OldGod_Greetings_01	환영한다, 내 충직한 신봉자여.	
+VO_Hero_07d_Male_OldGod_HAPPY_BIRTHDAY_01	촛불이 일렁이는구나. 소원을 빌어라!	
+VO_Hero_07d_Male_OldGod_HAPPY_BIRTHDAY_02	너의 생일을... 축하한다.	
+VO_Hero_07d_Male_OldGod_HAPPY_HALLOWEEN_01	할로윈 축제에는 저 너머를 들여다볼 수 있지...	
+VO_Hero_07d_Male_OldGod_HAPPY_HOLIDAYS_01	뜻깊은 날이구나.	
+VO_Hero_07d_Male_OldGod_HAPPY_NEW_YEAR_01	또 한 해가 종말을 맞이한다.	
+VO_Hero_07d_Male_OldGod_HAPPY_NEW_YEAR_LUNAR_01	새로운 해가 떠오른다.	
+VO_Hero_07d_Male_OldGod_HAPPY_NOBLEGARDEN_01	저 깊은 곳에 수많은 알들이 숨겨져 있나니...	
+VO_Hero_07d_Male_OldGod_LowCards_01	내 덱의 최후가 다가온다...	
+VO_Hero_07d_Male_OldGod_MIRROR_GREETINGS_01	함께 꿈꾸고,\n한 명만이\n깨어나리라.	
+VO_Hero_07d_Male_OldGod_MIRROR_START_01	그리고 잠든 도시가 일어날지니...	
+VO_Hero_07d_Male_OldGod_NoCards_01	내 덱이 메말랐다!	
+VO_Hero_07d_Male_OldGod_Oops_02	속삭임과 함께 혼돈이 찾아오리라.	
+VO_Hero_07d_Male_OldGod_Picked_01	다가오는 미래에서 널 구원하리니.	
+VO_Hero_07d_Male_OldGod_PIRATE_DAY_01	요... 호... 호...	
+VO_Hero_07d_Male_OldGod_Sorry_01	난 속죄하리라.	
+VO_Hero_07d_Male_OldGod_Start_01	모든 눈이 뜨이리라!	
+VO_Hero_07d_Male_OldGod_START_ARTHAS_01	왕자여, 네 왕관이 너의 미래를 펼칠 것이다.	
+VO_Hero_07d_Male_OldGod_START_AZSHARA_01	허영심만이 가득하구나.	
+VO_Hero_07d_Male_OldGod_START_DEATHWING_01	세계파괴자여, 심연에서 내 부름을 들었느냐.	
+VO_Hero_07d_Male_OldGod_START_DRUID_01	저 깊은 곳에 뿌리내린 것이 악몽을 깨우리라.	
+VO_Hero_07d_Male_OldGod_START_GARROSH_01	대족장이여, 내 총애는 네가 무기로 삼을 수 있는 게 아니다.	
+VO_Hero_07d_Male_OldGod_START_LADYPRESTOR_01	너의 진정한 모습이 보이는구나.	
+VO_Hero_07d_Male_OldGod_START_LADYVASHJ_01	너와 네 여왕에게 많은 축복을 내렸지.	
+VO_Hero_07d_Male_OldGod_START_LAZUL_01	오랫동안 너에게 속삭였나니...	
+VO_Hero_07d_Male_OldGod_START_MORGL_01	나와 함께 심연으로 와라, 작은 이여.	
+VO_Hero_07d_Male_OldGod_START_NEMSY_01	너 또한 심연의 부름을 들었을 터.	
+VO_Hero_07d_Male_OldGod_START_SYLVANAS_01	칠흑 같은 네 심장이 원하는 바가 보이는구나.	
+VO_Hero_07d_Male_OldGod_START_THUNDERKING_01	티탄의 종이여, 너의 최후가 임박했다.	
+VO_Hero_07d_Male_OldGod_Thanks_01	고맙구나.	
+VO_Hero_07d_Male_OldGod_Thinking_01	흠...	
+VO_Hero_07d_Male_OldGod_Thinking_02	무한한 진실...	
+VO_Hero_07d_Male_OldGod_Thinking_04	장막이 일렁인다...	
+VO_Hero_07d_Male_OldGod_Threaten_02	나와 함께 꿈에 들어라...	
+VO_Hero_07d_Male_OldGod_Time_01	때가 가까워졌노라.	
+VO_Hero_07d_Male_OldGod_TRIGGER_BANEOFDOOM_01	그들의 최후가 시작을 알리리라.	
+VO_Hero_07d_Male_OldGod_TRIGGER_DECKOFCHAOS_01	미래는 기록되지 않은 역사일 뿐이니...	
+VO_Hero_07d_Male_OldGod_TRIGGER_DISCARD_01	심연으로 돌아가라...	
+VO_Hero_07d_Male_OldGod_TRIGGER_DRAINLIFE_01	너의 고통이 곧 나의 힘이다.	
+VO_Hero_07d_Male_OldGod_TRIGGER_HELLFIRE_01	모두 멸하리라.	
+VO_Hero_07d_Male_OldGod_TRIGGER_HEROPOWER_01	희생...	
+VO_Hero_07d_Male_OldGod_TRIGGER_HEROPOWER_02	더...	
+VO_Hero_07d_Male_OldGod_TRIGGER_HEROPOWER_03	나는 삼킨다...	
+VO_Hero_07d_Male_OldGod_TRIGGER_NZOTH_01	나는 무한히 존재한다.	
+VO_Hero_07d_Male_OldGod_TRIGGER_OPPONENT_SHADOWFORM_01	그래. 어둠을 받아들여라.	
+VO_Hero_07d_Male_OldGod_TRIGGER_PLOTTWIST_01	눈앞에 보이는 모든 것이 거짓이다...	
+VO_Hero_07d_Male_OldGod_TRIGGER_SHADOWFLAME_01	너 자신을 내게 바쳐라.	
+VO_Hero_07d_Male_OldGod_TRIGGER_SOULFRAGMENT_01	내 눈이 뜨이노라.	
+VO_Hero_07d_Male_OldGod_TRIGGER_TWISTEDKNOWLEDGE_01	난 알지 못하는 걸 알고, 보지 못하는 걸 보니라.	
+VO_Hero_07d_Male_OldGod_TRIGGER_TWISTINGNETHER_01	공허가 삼킨다.	
+VO_Hero_07d_Male_OldGod_Well_Played_01	영광스러운 공포로다!	
+VO_Hero_07d_Male_OldGod_WOW_01	무한한 이들마저도 놀라는구나!	
 VO_HERO_08_HAPPY_NEW_YEAR_15	새해가 밝았어요!	
 VO_HERO_08b_HAPPY_NEW_YEAR_53	즐거운 새해가 되길!	
 VO_Hero_08e_Male_Lich_Concede_01	너의 승리로구나.	
@@ -1724,6 +1846,7 @@ VO_HERO_18_Female_Gnome_Time_01	서둘러!
 VO_HERO_18_Female_Gnome_Well_Played_01	우와, 진짜 잘했어!	
 VO_HERO_18_Female_Gnome_WOW_01	정말 멋져!	
 VO_ICC08_LichKing_Male_Human_YoungArthas_02	나 자신과 싸워야 하다니.	
+VO_INNKEEPER_Male_Dwarf_HERONAME_ANNHYLDE_01	안힐드!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_DEATHWING_01	데스윙!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_ELISE_02	엘리스!	
 VO_Innkeeper_Male_Dwarf_HERONAME_ILLIDAN_01	일리단!	
@@ -1731,6 +1854,8 @@ VO_Innkeeper_Male_Dwarf_HERONAME_KELTHUZAD_01	켈투자드!
 VO_INNKEEPER_Male_Dwarf_HERONAME_LAZUL_01	라줄!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_LAZUL_02	라줄!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_MECHAJAR_03	메카 자락서스!	
+VO_INNKEEPER_Male_Dwarf_HERONAME_NZOTH_02	느조스!	
+VO_INNKEEPER_Male_Dwarf_HERONAME_NZOTH_03	느조스!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_RASTAKHAN_01	라스타칸!	
 VO_INNKEEPER_Male_Dwarf_HERONAME_RASTAKHAN_02	라스타칸!	
 VO_INNKEEPER_Male_Dwarf_Heroname_ThunderKing_01	천둥왕!	
@@ -1774,6 +1899,8 @@ VO_MechaJar_Male_Demon_TRIGGER_DOOM_01	종말!
 VO_MechaJar_Male_Demon_TRIGGER_RENOUCEDARKNESS_01	어둠 삭제!	
 VO_MechaJar_Male_Demon_Well_Played_01	훌륭하다!	
 VO_MechaJar_Male_Demon_WOW_01	놀랍군.	
+VO_Story_Hero_Rexxar_Male_Orc-Ogre_Story_Rexxar_Attack_01	이러고 싶진 않았지만... 어쩔 수 없군.	
+VO_Story_Hero_Rexxar_Male_Orc-Ogre_Story_Rexxar_Greetings_01	반갑네.	
 VO_TBA01_4__Concede	*으르렁*	
 VO_TBA01_4__Error_Full_Minions	*으르렁*	
 VO_TBA01_4__Error_Generic	*으르렁*	

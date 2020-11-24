@@ -99,11 +99,12 @@ GAMEPLAY_PlayErrors_REQ_CANNOT_PLAY_THIS	You cannot play that
 GAMEPLAY_PlayErrors_REQ_OPPONENT_PLAYED_CARDS_THIS_GAME	Your opponent has not played any cards
 GAMEPLAY_PlayErrors_REQ_FRIENDLY_DEATHRATTLE_MINION_DIED_THIS_GAME	No friendly Deathrattle minions have died this game
 GAMEPLAY_PlayErrors_REQ_FRIENDLY_REBORN_MINION_DIED_THIS_GAME	No friendly Reborn minions have died this game
-GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	That minion is already Golden
+GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	Cannot be used on a Golden minion
 GAMEPLAY_PlayErrors_REQ_SOLD_MINION_THIS_TURN	You haven't sold any minions yet this turn
 GAMEPLAY_PlayErrors_REQ_BOUGHT_MINION_THIS_TURN	You haven't bought any minions yet this turn
 GAMEPLAY_PlayErrors_REQ_NOT_MINION_DORMANT	That minion is dormant
 GAMEPLAY_PlayErrors_REQ_TARGET_NOT_DORMANT	That minion is dormant
+GAMEPLAY_PlayErrors_REQ_TWO_OF_A_KIND	Must have a potential triple
 GAMEPLAY_TOOLTIP_DECK_DESCRIPTION	You have {0} |4(card,cards) in your deck.	
 GAMEPLAY_TOOLTIP_DECK_HEADLINE	Deck	
 GAMEPLAY_TOOLTIP_HAND_HEADLINE	Hand	
@@ -118,17 +119,23 @@ GAMEPLAY_TOOLTIP_FATIGUE_ENEMYDECK_DESCRIPTION	Your opponent is out of cards! Th
 GAMEPLAY_TOOLTIP_FATIGUE_ENEMYDECK_HEADLINE	Fatigued	
 GAMEPLAY_TOOLTIP_MANA_DESCRIPTION	When your turn starts, you'll gain a new crystal and fill empty ones.	
 GAMEPLAY_TOOLTIP_MANA_HEADLINE	Mana Crystals	
-GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION	You played a card with Overload last turn.	
-GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE	Locked Mana Crystals	
+GAMEPLAY_TOOLTIP_MANA_LOCKED_DESCRIPTION	{0} Mana |4(Crystal,Crystals) <b>Overloaded</b> last turn.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_LOCKED_HEADLINE	Locked Mana Crystals	
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION	{0} Mana |4(Crystal,Crystals) <b>Overloaded</b>.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE	Overload	
 GAMEPLAY_TOOLTIP_MANA_COIN_DESCRIPTION	Spend your gold pieces on cards to manipulate your deck.	
 GAMEPLAY_TOOLTIP_MANA_COIN_HEADLINE	Gold Pieces	
 GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_TUT	Your enemy's hand of cards. Players draw one each turn.	
 GAMEPLAY_TOOLTIP_ENEMYHAND_DESC	Your enemy's hand contains {0} |4(card,cards).	0= number of cards in hand.
 GAMEPLAY_TOOLTIP_ENEMYHAND_DESC_SINGLE	Your enemy's hand contains {0} |4(card,cards).	0= number of cards in hand.
 GAMEPLAY_TOOLTIP_ENEMYHAND_HEADLINE	Enemy Hand	
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_DESC	{0} Mana |4(Crystal,Crystals) <b>Overloaded</b>.	0= number of overloaded mana crystals.
+GAMEPLAY_TOOLTIP_ENEMYOVERLOAD_HEADLINE	Enemy Overload	
 GAMEPLAY_TOOLTIP_BACON_GOLD	Spend your gold to buy minions.
-GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_HEADLINE	Minion types:
+GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_HEADLINE	In this game:
 GAMEPLAY_TOOLTIP_BACON_AVAILABLE_RACES_DESC	{0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE	Not in this game:
+GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_DESC	{0}, {1}	0=first race, 1=second race
 GAMEPLAY_EMOTE_LABEL_GREETINGS	Greetings	
 GAMEPLAY_EMOTE_LABEL_WELL_PLAYED	Well Played	
 GAMEPLAY_EMOTE_LABEL_THANKS	Thanks	
@@ -172,6 +179,7 @@ GAMEPLAY_CHOOSE_ONE_HERO_POWER	Choose One	will be displayed for choosing a Hero 
 GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MINIONS	Choose one for all your minions:
 GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_RECRUITS	Choose one for all your Recruits:
 GAMEPLAY_CHOOSE_ONE_ADAPT_ALL_MURLOCS	Choose one for all your Murlocs:
+GAMEPLAY_CHOOSE_ONE_WINNER	Guess the Winner!
 GAMEPLAY_AI_OPPONENT_NAME	The Innkeeper	
 GAMEPLAY_GOLDHERO_WINS	Wins! 
 GAMEPLAY_DISCONNECT_HEADER	Disconnected 
@@ -250,7 +258,7 @@ GAMEPLAY_BACON_RECRUIT_REMINDER_TUTORIAL	Choose a minion.
 GAMEPLAY_BACON_RECRUIT_REMINDER_TUTORIAL_2	Buy a minion.
 GAMEPLAY_BACON_MULLIGAN_CHOOSE_HERO_BANNER	Choose a Hero
 GAMEPLAY_BACON_MULLIGAN_AVAILABLE_RACES	Minion types this game: {0}, {1}, {2}, {3}, {4}	0=first race, 1=second race, 2=third race, 3=fourth race, 4=fifth race
-GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER	{0}/8 Players Ready	0=number of players ready
+GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER	{0}/{1} Players Ready	0=number of players ready, 1=number of players in game
 GAMEPLAY_BACON_MULLIGAN_WAITING_BANNER_SUBTITLE	Time Remaining
 GAMEPLAY_BACON_REFRESH_TUTORIAL	See new recruits.
 GAMEPLAY_BACON_REFRESH_UPGRADE_TUTORIAL	Meet better recruits!
@@ -286,3 +294,4 @@ GAMEPLAY_BACON_TEXT_EMOTE_INVALID	...
 GAMEPLAY_BACON_TAVERN_PASS_IN_GAME_HELP	Unlock Battlegrounds Perks to choose this Hero
 GALAKROND_ONCE	<b>Invoke</b> once to upgrade.
 GALAKROND_TWICE	<b>Invoke</b> twice to upgrade.
+GAMEPLAY_END_OF_GAME_TIE	Tie!

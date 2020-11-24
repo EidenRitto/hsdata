@@ -1,4 +1,5 @@
 TAG	TEXT	COMMENT
+PRESENCE_ADVENTURE_MODE_BOH	Читает «Книгу героев»	
 PRESENCE_ADVENTURE_MODE_BOT	Изучает лабораторию	
 PRESENCE_ADVENTURE_MODE_BRM_CLASS_CHALLENGE	Классовые испытания Черной горы	
 PRESENCE_ADVENTURE_MODE_BRM_HEROIC	Черная гора (героич.)	
@@ -23,6 +24,30 @@ PRESENCE_ADVENTURE_MODE_NAXX_NORMAL	Наксрамас
 PRESENCE_ADVENTURE_MODE_RETURNING_PLAYER_CHALLENGE	Снова гостит в таверне!	
 PRESENCE_ADVENTURE_MODE_TRL	Готовится к игрищам...	
 PRESENCE_ADVENTURE_MODE_ULD	Планирует экспедицию	
+PRESENCE_SCENARIO_BOH_FIGHT_01	Уговаривает Антонидаса	
+PRESENCE_SCENARIO_BOH_FIGHT_02	Превосходит принца Кель'таса	
+PRESENCE_SCENARIO_BOH_FIGHT_03	Спорит с принцем Артасом	
+PRESENCE_SCENARIO_BOH_FIGHT_04	Успокаивает Громмаша	
+PRESENCE_SCENARIO_BOH_FIGHT_05	Пробует обхитрить Архимонда	
+PRESENCE_SCENARIO_BOH_FIGHT_06	Защищает Терамор	
+PRESENCE_SCENARIO_BOH_FIGHT_07	Упрекает Тралла	
+PRESENCE_SCENARIO_BOH_FIGHT_08	Изгоняет Похитителей Солнца	
+PRESENCE_SCENARIO_BOH2_FIGHT_01	Призывает к действию	
+PRESENCE_SCENARIO_BOH2_FIGHT_02	Убеждает вождя	
+PRESENCE_SCENARIO_BOH2_FIGHT_03	Знакомится с Мишей	
+PRESENCE_SCENARIO_BOH2_FIGHT_04	Спасает честь Могрина	
+PRESENCE_SCENARIO_BOH2_FIGHT_05	Расследует вместе с Джайной	
+PRESENCE_SCENARIO_BOH2_FIGHT_06	Спасает Бейна	
+PRESENCE_SCENARIO_BOH2_FIGHT_07	Дает отпор Дэлину	
+PRESENCE_SCENARIO_BOH2_FIGHT_08	Спасает Мок'Натал	
+PRESENCE_SCENARIO_BOH3_FIGHT_01	Беседует с Великой Матерью	
+PRESENCE_SCENARIO_BOH3_FIGHT_02	Спорит с Регаром	
+PRESENCE_SCENARIO_BOH3_FIGHT_03	Покоряет Нордскол	
+PRESENCE_SCENARIO_BOH3_FIGHT_04	Тушит пожары в Оргриммаре	
+PRESENCE_SCENARIO_BOH3_FIGHT_05	Сражается на мак'гора	
+PRESENCE_SCENARIO_BOH3_FIGHT_06	Атакует Терамор	
+PRESENCE_SCENARIO_BOH3_FIGHT_07	Звонит в Божественный колокол	
+PRESENCE_SCENARIO_BOH3_FIGHT_08	Противостоит осаде Оргриммара	
 PRESENCE_SCENARIO_BOTA_CLEAR_BOOM	Решает головоломку	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_1	Решает головоломку	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_2	Решает головоломку	
@@ -327,6 +352,12 @@ PRESENCE_STATUS_BATTLEGROUNDS_SCREEN	Прогуливается по полям 
 PRESENCE_STATUS_COLLECTION	Просматривает коллекцию	
 PRESENCE_STATUS_CRAFTING	Создает карты	
 PRESENCE_STATUS_DECKEDITOR	Составляет колоду	
+PRESENCE_STATUS_DUELS_FORGE	Создает колоду для дуэлей	
+PRESENCE_STATUS_DUELS_GAME	Участвует в эпической дуэли!	
+PRESENCE_STATUS_DUELS_IDLE	Собирается устроить дуэль	
+PRESENCE_STATUS_DUELS_PURCHASE	Хочет устроить дуэль	
+PRESENCE_STATUS_DUELS_QUEUE	Ищет противника для дуэли	
+PRESENCE_STATUS_DUELS_REWARD	Получает награды за дуэли	
 PRESENCE_STATUS_FIRESIDE_BRAWL_SCREEN	Находится в режиме Fireside-потасовки	
 PRESENCE_STATUS_FRIENDLY_DECKPICKER	Готовится сразиться с другом	
 PRESENCE_STATUS_FRIENDLY_GAME	Играет дружеский матч	
@@ -354,6 +385,7 @@ PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_HEROIC	Наблюдает за м
 PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_NORMAL	Наблюдает за матчем в Наксрамасе!	
 PRESENCE_STATUS_SPECTATING_GAME_ARENA	Наблюдает за матчем на Арене	
 PRESENCE_STATUS_SPECTATING_GAME_BATTLEGROUNDS	Наблюдает за битвой на полях сражений	
+PRESENCE_STATUS_SPECTATING_GAME_BOH	Следит за «Книгой героев»	
 PRESENCE_STATUS_SPECTATING_GAME_BOT	Помогает в опытах	
 PRESENCE_STATUS_SPECTATING_GAME_BTA	Наблюдает за «Испытанием Скверной»	
 PRESENCE_STATUS_SPECTATING_GAME_BTA_HEROIC	Наблюдает за испытанием в Запределье	
@@ -362,6 +394,7 @@ PRESENCE_STATUS_SPECTATING_GAME_DAL	Шпионит за похищением
 PRESENCE_STATUS_SPECTATING_GAME_DAL_HEROIC	Шпионит за похищением	
 PRESENCE_STATUS_SPECTATING_GAME_DRG	Наблюдает за битвой над Драконьим Погостом	
 PRESENCE_STATUS_SPECTATING_GAME_DRG_HEROIC	Наблюдает за битвой над Драконьим Погостом	
+PRESENCE_STATUS_SPECTATING_GAME_DUELS	Наблюдает за дуэлью	
 PRESENCE_STATUS_SPECTATING_GAME_FRIENDLY	Наблюдает за дружеским поединком	
 PRESENCE_STATUS_SPECTATING_GAME_GIL	Следит за охотой на монстров	
 PRESENCE_STATUS_SPECTATING_GAME_GIL_BONUS_CHALLENGE	Следит за боем с Хагатой	
@@ -383,6 +416,7 @@ PRESENCE_STATUS_TAVERN_BRAWL_QUEUE	Ищет противника для пота
 PRESENCE_STATUS_TAVERN_BRAWL_SCREEN	Находится в режиме потасовки	
 PRESENCE_STATUS_TUTORIAL_GAME	Сражается с {0}	0 = PRESENCE_TUTORIAL_*
 PRESENCE_STATUS_TUTORIAL_PREGAME	Впервые запускает игру	
+PRESENCE_STATUS_VIEWING_JOURNAL	Просматривает журнал	
 PRESENCE_STATUS_WAIT_FOR_OPPONENT_RECONNECT	Ожидает подключения противника	
 PRESENCE_STATUS_WELCOMEQUESTS	Получает новые задания!	
 PRESENCE_TUTORIAL_CHO	Хранителем истории	

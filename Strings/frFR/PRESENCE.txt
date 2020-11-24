@@ -1,4 +1,5 @@
 TAG	TEXT	COMMENT
+PRESENCE_ADVENTURE_MODE_BOH	Lit le Livre des héros	
 PRESENCE_ADVENTURE_MODE_BOT	Visite le labo du Dr Boum	
 PRESENCE_ADVENTURE_MODE_BRM_CLASS_CHALLENGE	Défi de classe de Rochenoire	
 PRESENCE_ADVENTURE_MODE_BRM_HEROIC	Mont Rochenoire (Héroïque)	
@@ -23,6 +24,30 @@ PRESENCE_ADVENTURE_MODE_NAXX_NORMAL	Naxxramas
 PRESENCE_ADVENTURE_MODE_RETURNING_PLAYER_CHALLENGE	Fait son retour en jeu	
 PRESENCE_ADVENTURE_MODE_TRL	Se prépare pour les Jeux trolls…	
 PRESENCE_ADVENTURE_MODE_ULD	Organise une expédition	
+PRESENCE_SCENARIO_BOH_FIGHT_01	Persuade l’archimage Antonidas	
+PRESENCE_SCENARIO_BOH_FIGHT_02	Démasque le prince Kael’thas	
+PRESENCE_SCENARIO_BOH_FIGHT_03	Se dispute avec le prince Arthas	
+PRESENCE_SCENARIO_BOH_FIGHT_04	Calme Grommash Hurlenfer	
+PRESENCE_SCENARIO_BOH_FIGHT_05	Trompe Archimonde	
+PRESENCE_SCENARIO_BOH_FIGHT_06	Défend Theramore	
+PRESENCE_SCENARIO_BOH_FIGHT_07	Tient Thrall pour responsable	
+PRESENCE_SCENARIO_BOH_FIGHT_08	Expulse les Saccage-Soleil	
+PRESENCE_SCENARIO_BOH2_FIGHT_01	Plaide pour l’action	
+PRESENCE_SCENARIO_BOH2_FIGHT_02	Persuade le chef de guerre	
+PRESENCE_SCENARIO_BOH2_FIGHT_03	Apprivoise Misha	
+PRESENCE_SCENARIO_BOH2_FIGHT_04	Restaure l’honneur de Mogrin	
+PRESENCE_SCENARIO_BOH2_FIGHT_05	Enquête avec Jaina	
+PRESENCE_SCENARIO_BOH2_FIGHT_06	Sauve Baine Sabot-de-Sang	
+PRESENCE_SCENARIO_BOH2_FIGHT_07	Repousse l’invasion de Daelin	
+PRESENCE_SCENARIO_BOH2_FIGHT_08	Sauve les Mok’Nathal	
+PRESENCE_SCENARIO_BOH3_FIGHT_01	Rencontre la grande-mère	
+PRESENCE_SCENARIO_BOH3_FIGHT_02	Débat avec Rehgar	
+PRESENCE_SCENARIO_BOH3_FIGHT_03	Part à la conquête du Norfendre	
+PRESENCE_SCENARIO_BOH3_FIGHT_04	Éteint des feux à Orgrimmar	
+PRESENCE_SCENARIO_BOH3_FIGHT_05	Participe à un mak’gora	
+PRESENCE_SCENARIO_BOH3_FIGHT_06	Attaque Theramore	
+PRESENCE_SCENARIO_BOH3_FIGHT_07	Sonne la Cloche divine	
+PRESENCE_SCENARIO_BOH3_FIGHT_08	Subit un siège à Orgrimmar	
 PRESENCE_SCENARIO_BOTA_CLEAR_BOOM	Réfléchit à un casse-tête	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_1	Réfléchit à un casse-tête	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_2	Réfléchit à un casse-tête	
@@ -327,6 +352,12 @@ PRESENCE_STATUS_BATTLEGROUNDS_SCREEN	Dans le mode Champs de bataille
 PRESENCE_STATUS_COLLECTION	Consulte sa collection	
 PRESENCE_STATUS_CRAFTING	Crée des cartes	
 PRESENCE_STATUS_DECKEDITOR	Crée un deck	
+PRESENCE_STATUS_DUELS_FORGE	Crée un deck de duels	
+PRESENCE_STATUS_DUELS_GAME	Se bat dans un duel épique	
+PRESENCE_STATUS_DUELS_IDLE	Va faire un duel	
+PRESENCE_STATUS_DUELS_PURCHASE	Va commencer une série de Duels	
+PRESENCE_STATUS_DUELS_QUEUE	Cherche un adversaire de Duels	
+PRESENCE_STATUS_DUELS_REWARD	Obtient des récompenses de duels	
 PRESENCE_STATUS_FIRESIDE_BRAWL_SCREEN	Va faire un Bras de fer Fireside	
 PRESENCE_STATUS_FRIENDLY_DECKPICKER	Va défier un de ses contacts	
 PRESENCE_STATUS_FRIENDLY_GAME	Se bat contre un contact	
@@ -354,6 +385,7 @@ PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_HEROIC	Regarde une héroïque de 
 PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_NORMAL	Regarde une partie de Naxxramas	
 PRESENCE_STATUS_SPECTATING_GAME_ARENA	Regarde une partie en Arène	
 PRESENCE_STATUS_SPECTATING_GAME_BATTLEGROUNDS	Regarde un champ de bataille	
+PRESENCE_STATUS_SPECTATING_GAME_BOH	Observe le Livre des héros	
 PRESENCE_STATUS_SPECTATING_GAME_BOT	Joue les partenaires de labo	
 PRESENCE_STATUS_SPECTATING_GAME_BTA	Regarde une partie de L’épreuve du gangrefeu	
 PRESENCE_STATUS_SPECTATING_GAME_BTA_HEROIC	Regarde un défi de L’épreuve du gangrefeu	
@@ -362,6 +394,7 @@ PRESENCE_STATUS_SPECTATING_GAME_DAL	Espionne un casse à Dalaran
 PRESENCE_STATUS_SPECTATING_GAME_DAL_HEROIC	Espionne un casse à Dalaran	
 PRESENCE_STATUS_SPECTATING_GAME_DRG	Regarde une partie dans la Désolation	
 PRESENCE_STATUS_SPECTATING_GAME_DRG_HEROIC	Regarde une partie dans la Désolation	
+PRESENCE_STATUS_SPECTATING_GAME_DUELS	Regarde une partie du mode Duels	
 PRESENCE_STATUS_SPECTATING_GAME_FRIENDLY	Regarde un duel amical	
 PRESENCE_STATUS_SPECTATING_GAME_GIL	Regarde une chasse aux monstres	
 PRESENCE_STATUS_SPECTATING_GAME_GIL_BONUS_CHALLENGE	Regarde un combat contre Hagatha	
@@ -383,6 +416,7 @@ PRESENCE_STATUS_TAVERN_BRAWL_QUEUE	Cherche un adversaire au Bras de fer
 PRESENCE_STATUS_TAVERN_BRAWL_SCREEN	Va faire un Bras de fer	
 PRESENCE_STATUS_TUTORIAL_GAME	Tente de battre {0}	0 = PRESENCE_TUTORIAL_*
 PRESENCE_STATUS_TUTORIAL_PREGAME	Lance le jeu pour la 1re fois	
+PRESENCE_STATUS_VIEWING_JOURNAL	Consulte le journal	
 PRESENCE_STATUS_WAIT_FOR_OPPONENT_RECONNECT	En attente de reconnexion de l’adversaire	
 PRESENCE_STATUS_WELCOMEQUESTS	Réfléchit aux nouvelles quêtes !	
 PRESENCE_TUTORIAL_CHO	Chroniqueur Cho	

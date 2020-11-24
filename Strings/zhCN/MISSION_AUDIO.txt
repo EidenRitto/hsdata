@@ -1295,7 +1295,7 @@ VO_BTA_BOSS_13h_Male_Ogre_Mission_Fight_13_IdleC_01	我们在打架吗？我忘�
 VO_BTA_BOSS_13h_Male_OgreMech_Mission_Fight_13_Boss_EndlessLegion_01	加速！碾压！粉碎！	
 VO_BTA_BOSS_13h_Male_OgreMech_Mission_Fight_13_Hero_ImmolationAura_01	她把我的服务器烧了！滚开！	
 VO_BTA_BOSS_13h_Male_OgreMech_Mission_Fight_13_HeroPower_01	真糟糕！	
-VO_BTA_BOSS_13h_Male_OgreMech_Mission_Fight_13_HeroPower_02	不，不，尝这个！	
+VO_BTA_BOSS_13h_Male_OgreMech_Mission_Fight_13_HeroPower_02	不，不，尝尝这个！	
 VO_BTA_BOSS_13h_Male_OgreMech_Mission_Fight_13_IdleA_01	那就快碾死那些恶魔猎手！	
 VO_BTA_BOSS_13h_Male_OgreMech_Mission_Fight_13_IdleB_01	她就在那啊！别傻愣着！	
 VO_BTA_BOSS_14h_Male_Demon_Mission_Fight_14_BossStartImp_01	嘿！你说谁可怜？！	
@@ -7273,6 +7273,7 @@ VO_Rakanishu_Male_Elemental_CastSpell5_01	一切都会\n燃烧！
 VO_Rakanishu_Male_Elemental_EventRagnaros_02	我的英雄！	
 VO_Rakanishu_Male_Elemental_FF_Start_02	有人看到拉格纳罗斯了吗？我来早了吗？ 	
 VO_Rakanishu_Male_Elemental_Intro_01	破坏！抢走\n财宝！	
+VO_SCH_507_Female_Human_Play_01	永远不要畏惧内心的力量。	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareDeath_02	餐具都毁了……	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareEmoteResponse_01	该抛光啦！	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareForkedLightning_01	想要叉子吗？我这里有！	
@@ -7280,6 +7281,550 @@ VO_SilverwareGolem_Male_SilverwareGolem_SilverwareHeroPower_01	布置餐桌！�
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareKnifeJuggler_01	喔，是飞刀！	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwareOpen_01	跳舞好有趣！	
 VO_SilverwareGolem_Male_SilverwareGolem_SilverwarePlateTossing_01	你有盘子！他有盘子！大家都有盘子！	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Death_01	<垂死挣扎>	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8EmoteResponse_01	你什么意思？	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8ExchangeB_01	你疯了。	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8ExchangeC_01	肯瑞托超然于联盟部落之上。	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8ExchangeD_01	说实话，我根本不知道你在说什么。	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8HeroPower_01	Diel fin'al！	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8HeroPower_02	该生火了！	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8HeroPower_03	Anar'alah belore！	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Idle_01	大法师，请你理智一点！	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Idle_02	我不知道背叛你的是谁，但肯定不是我。	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Idle_03	夺日者一直秉承荣誉，为肯瑞托效力。	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Intro_01	这也是我们的城市，普罗德摩尔。	
+VO_Story_01_Aethas_Male_BloodElf_Story_Jaina_Mission8Loss_01	现在我们真的相背而行了……很遗憾。	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6EmoteResponse_01	你以为我们蠢吗?	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6ExchangeB_01	我们会把你关进笼子，半兽人。	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6ExchangeC_01	为了救他，你反倒损失了那么多战士。	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6HeroPower_01	为我们而战！	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6HeroPower_02	我们会深切怀念他。	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6HeroPower_03	追随可汗。	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Idle_01	你不是牛头人的盟友。为什么救他？	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Idle_02	我们还从来没绑架过半兽人、半食人魔……	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Idle_03	那个牛头人不该来这里。你也一样。	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Intro_01	这个牛头人归我们了，蠢货。	
+VO_Story_02_Centaur_Male_Centaur_Story_Rexxar_Mission6Loss_01	愚蠢又多事的半兽人……	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4EmoteResponse_01	<好奇的叫声>	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4HeroPower_01	<攻击的叫声>	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4HeroPower_02	<战斗的呼喊>	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4HeroPower_03	<咆哮>	
+VO_Story_02_Quilboar_Male_Quillboar_Story_Rexxar_Mission4Loss_01	<嘲讽的叫声>	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1EmoteResponse_01	分享感受是进步的最佳方式。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeA_01	听话，别让我教训你。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeB_01	过去，还有先祖，它们存在于万物中。 	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeC_01	你的身体长成了，心理还不够结实。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1ExchangeD_01	事情不是这样。你可以有自己的选择。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1HeroPower_01	深深地吸气……	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1HeroPower_02	治疗需要过程。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1HeroPower_03	希望来自内心。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Idle_01	那场灾难给我们带来了很多苦痛，但它最终也成了我们的救赎。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Idle_02	我们玛格汉兽人不是绿皮肤，因为我们从没喝过恶魔的血。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Idle_03	现在大家看你，只能看到你父亲的影子，但以后总会改变的。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Intro_01	加尔鲁什，我有个好消息。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Loss_01	多倾听，多学习。你希望的事情终究会发生。	
+VO_Story_04_Geyah_Female_Orc_Story_Garrosh_Mission1Victory_01	别磨蹭了！听听我孙子的话。他赶了很远的路才过来。	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7EmoteResponse_01	你怎能这样误入歧途？	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7ExchangeB_01	我绝不会让你这么做。绝对不会！	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7ExchangeD_01	魔古族铸造圣钟，是为了制造混乱，但熊猫人打造了一柄钟杵来抵消它的效果。 	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7ExchangeD_02	钟杵被埋藏了几千年，至今才重见天日。	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7HeroPower_01	敲响祥和的钟声！	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7HeroPower_02	奏出新的歌谣。	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7HeroPower_03	这段旋律会治愈你。	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Idle_01	这是我自己的计划。会不会……有点明显？	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Idle_02	我们以前没见过面，呃，我是安度因·乌瑞恩！	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Idle_03	我只是想帮你，真的。煞魔实在是太危险了。	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Intro_01	住手，加尔鲁什！你根本不不了解那座钟的能力！！	
+VO_Story_Hero_Anduin_Male_Human_Story_Garrosh_Mission7Loss_01	你所做的这一切，只会毁了你自己。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1EmoteResponse_01	让我们专心处理眼下的问题。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeB_01	你的资质\n很好。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeC_01	这里有很多优秀的法师可以指\n点你。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeC_02	这倒是没错……	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1ExchangeD_01	你可以向大法师克尔苏加德\n请教。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1HeroPower_01	看看这些高级教材……	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1HeroPower_02	你还有很多要学。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1HeroPower_03	啊哈！	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Idle_01	肯瑞托诸事繁杂，我总是那\n么忙。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Idle_02	兽人前来进犯。这场战争占据了我的大量精力。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Idle_03	我的确感受到你有些特别之处，吉安娜小姐。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Intro_01	恐怕，我并没有时间。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Loss_01	原谅我，吉安娜小姐。假以时日，你定会成为一名杰出的法师。	
+VO_Story_Hero_Antonidas_Male_Human_Story_Jaina_Mission1Victory_01	好吧，吉安娜小姐。你赢了。你就是我能想到的最优秀的学徒备选人。	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Death_01	<垂死挣扎>	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5EmoteResponse_01	渺小的凡人！	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5ExchangeA_01	你竟然敢跟我作对，真有勇气。	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5ExchangeA_02	要是你的同胞都和你一样有骨气，当初踏平你们可怜的王国时，我就能获得更多乐子了！	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5ExchangeB_01	早知道凡人们的抵抗如此脆弱不堪，我几百年前就该入侵这里了！	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5HeroPower_01	你们的反抗毫无意义！	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5HeroPower_02	万物都将被吞噬！	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5HeroPower_03	这个世界将会燃烧！	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Idle_01	在我的力量面前，你们不值一提。	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Idle_02	哀悼吧，你所熟悉的一切都将消逝。	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Idle_03	你们的努力只是徒劳。	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Intro_01	清算的时刻到了！	
+VO_Story_Hero_Archimonde_Male_Demon_Story_Jaina_Mission5Loss_01	这个世界的心脏很快就会停止跳动……	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3EmoteResponse_01	这次你说什么都没用。	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3ExchangeA_01	是你挑起了争端。我们用对练解决吧。	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3ExchangeB_01	你说话就像乌瑟尔。	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3ExchangeD_01	我为我的王国而战。这也是人民的期许。	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3HeroPower_01	从我的角度想想吧。	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3HeroPower_02	我承受了很大的压力！	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3HeroPower_03	没人理解我！	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Idle_01	我讨厌这样的争执。	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Idle_02	我们必须好好相处，吉安娜。今后的日子还长着呢。	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Idle_03	这场灾难之惨烈前所未见。洛丹伦正处于毁灭的边缘。	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Intro_01	你看不出吗，我已经如此忙乱，你又来指责我？！	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Loss_01	其实我知道你是对的……我只是不知道还能怎么办。	
+VO_Story_Hero_Arthas_Male_Human_Story_Jaina_Mission3Victory_01	抱歉。等事情结束，一切都会好起来的。我保证。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2EmoteResponse_01	还在废话，小子？	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeA_01	你来自莫克纳萨氏族，对吧？	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeB_01	我随手就能抹掉你的氏族。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeC_01	哈！战争不讲情面，小子。兽人已经牺牲了很多……	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeC_02	打败我，我才会考虑你的请求。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2ExchangeD_01	在你们一族里，你打得还算不错。我需要像你这样的勇士。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2HeroPower_01	为了部落！	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2HeroPower_02	在我面前颤\n抖吧！	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2HeroPower_03	不要考验我的耐心。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Idle_01	鲜血和恐惧铸就了部落。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Idle_02	我的氏族生来伟大……注定要征服一切。这是先祖的传承。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Idle_03	只有力量才是万事万物唯一的法则。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Intro_01	声音太小了。打一架，或许我就听见了。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Loss_01	不过是个半兽人，我没工夫理你。	
+VO_Story_Hero_Blackhand_Male_Orc_Story_Rexxar_Mission2Victory_01	住手吧！你说服了我。但有个条件，你必须为部落效力。	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5EmoteResponse_01	恐怕我们只能在战斗中达成共识。	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5ExchangeA_01	你没有自己想得那么聪明。	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5ExchangeB_01	我不只为自己而战。我为部落的未来而战。	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5ExchangeC_01	我一生都坚持荣耀。你可以信任我的建议。	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5HeroPower_01	Ishne'porah!	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5HeroPower_02	为荣誉而战！	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5HeroPower_03	尊重我们的传统。	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Idle_01	你应该向长辈学习，而不是顶撞他们！	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Idle_02	萨尔太偏爱你了，他没能看清你的本质。	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Idle_03	如果你能像擅长战斗一样擅长倾听，那该多好。	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Intro_01	大地母亲指引我的气息……	
+VO_Story_Hero_Cairne_Male_Tauren_Story_Garrosh_Mission5Loss_01	毁灭很容易。创造长久存在的东西才是真正的挑战。	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission5Victory_01	啊，吉安娜。终于找到你了！	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission5Victory_02	亲爱的，你太天真了。让开，他们必须被彻底清除。	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7EmoteResponse_01	真不知道我女儿怎么受得了你。	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7ExchangeE_01	怪物，你们都是怪物！	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7ExchangeF_01	你们永远不懂保卫家园、守护心爱的人是什么感受。你们抛弃了自己的世界，又来侵犯我们。	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7HeroPower_01	发射火炮！	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7HeroPower_02	攻击他们的弱点！	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7HeroPower_03	消灭他们！	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Idle_01	和平就像是一场梦。美好，短暂，而又遥不可及。	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Idle_02	很遗憾，我女儿没能继承我识人的眼光。	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Idle_03	部落杀了我的儿子。我的骨肉。我永远不会原谅他们。	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Intro_01	来吧，一群蛮子！为你们在暴风城和洛丹伦的暴行抵命！	
+VO_Story_Hero_Daelin_Male_Human_Story_Rexxar_Mission7Loss_01	我就知道。绝不能和这些野蛮人合作。	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5EmoteResponse_01	陆地人真是奇怪。	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5ExchangeF_01	退后！	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5ExchangeG_01	我们会夺回我们的土地。	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5HeroPower_01	Athero bathre'las！	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5HeroPower_02	为了纳沙塔尔！	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5HeroPower_03	迎接我的风暴！	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Idle_01	人类和半兽人合作？如此荒谬。	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Idle_02	你们琐碎的争执对我毫无意义。	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Idle_03	我会让你们知道谁才是落水狗。	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Intro_01	大海是我们的！	
+VO_Story_Hero_Darkscale_Female_Naga_Story_Rexxar_Mission5Loss_01	我们曾统治这个世界……也会再度统治。	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4Death_01	<垂死挣扎>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4EmoteResponse_01	<元素低吼>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4HeroPower_01	<元素嘶鸣>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4HeroPower_02	<元素嘶鸣>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4HeroPower_03	<元素嘶鸣>	
+VO_Story_Hero_FireElemental_Male_Elemental_Story_Garrosh_Mission4Loss_01	<元素嘶鸣>	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1ExchangeB_01	你的“消息”都是过去的事。我不喜欢。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1ExchangeC_01	我不想听我父亲的消息，还有他那些可怕的罪行！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1ExchangeD_01	我知道，我的血脉已经被污染了……我只会伤害我的族人。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1Intro_01	我不想听。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission1Victory_01	我卸下了一份沉重的负担……谢谢你，萨尔。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2ExchangeA_01	而我不能容忍软弱！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2ExchangeB_01	你就是嫉妒我，废物。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2ExchangeC_02	我知道部落应有的模样——勇敢，强大。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2Intro_01	别叫我小子。你的妥协和屈服让部落软弱不堪！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission2Victory_01	下次顶撞我之前，好好想想。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3ExchangeA_01	部落不会再容忍你的进攻！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3ExchangeB_01	马上，你的同类将成为过去。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Intro_01	我会将你们天灾从这世界上彻底抹除！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3PeonInfo_01	如果需要更多兵力，我还能召集苦工。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Summon_01	苦工，前进！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Summon_02	向敌人冲锋！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Summon_03	冲啊！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission3Victory_01	我们压制了天灾军团，保住了在诺森德的据点。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4ExchangeA_01	萨尔已经疏散了没法战斗的人。他们会没事的。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4ExchangeB_01	粉碎这些元素！把它们赶出我们的土地！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4ExchangeC_01	萨尔，这里发生了什么？	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4Intro_01	城市中到处都是元素裂隙。我必须立刻关闭它们！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission4Victory_01	我不会让你失望，大酋长。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5ExchangeA_01	打得不错。看来你只有脑子反应慢。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5ExchangeB_01	哈！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5ExchangeC_01	什么荣誉，不过是“懦弱”。况且我一点也不信任你。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5Intro_01	你是来找我打架的吗，老牛？	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5Victory_01	伟大的凯恩·血蹄倒下了！质疑我之前，好好想一想！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission5Victory_02	等等……是不是有点过于简单了？	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeA_01	抢攻城门！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeB_01	城门倒了！消灭联盟！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeC_01	除非你立即投降。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission6ExchangeD_01	你的“和平”就是个可笑的谎言！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ExchangeA_01	哈哈……到头来，不是瓦里安，倒是他的小崽子来面对我。 	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ExchangeA_02	跑来送死，胆子不小，年轻人！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ExchangeB_01	那就试试看啊，人类。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7Intro_01	有了圣钟，我就能烧光部落战士心里残留的软弱！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ShaCallout_01	战胜煞魔——控制它！利用它！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ShaCallout_02	只有弱者才会怀疑！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7ShaCallout_03	控制你的仇恨，驾驭你的恐惧！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission7Victory_01	死吧，小崽子！你们联盟山穷水尽了吗，居然派孩子来对付我。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeA_01	我的黑暗萨满已经扭曲了元素。它们听不到你的召唤了。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeB_01	愤怒、仇恨、恐惧！这是战争的武器——酋长的工具！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeB_02	是的……我看见了这世界的未来……由部落统治的世界……我的部落。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8ExchangeC_01	上古尊者在召唤。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Intro_01	你抛下了你的族人，背叛了他们。现在你又背叛了我！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Victory_01	我打败了他，部落前任大酋长瘫倒在尘土之中。 	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Victory_02	但萨尔带来的冒险者们打败了我，将我俘虏……暂时俘虏。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_Mission8Victory_03	不过，我让他们见识到如何在战场上寻求荣耀……如何成为兽人、成为战士……成为地狱咆哮！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission1_01	我的一生从诅咒的阴影中开始。多年以前，我父亲是第一个喝下恶魔之血的兽人，他腐化了部落。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission1_02	他们外出作战，把我们这些老弱病残留在后方。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission1_03	直到我长大之后，才了解到他得到救赎的真相。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission2_01	萨尔邀请我去艾泽拉斯，去做他的顾问。 	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission2_02	我知道自己已经准备好继承父亲的大业，但萨尔的其他顾问并不完全认同……	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission3_01	天灾军团入侵时，我找到了机会，向所有人证明我的谋略。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission3_02	萨尔派我去诺森德，领导部落先遣军，消灭我们的敌人。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission4_01	我成了英雄，返回奥格瑞玛。但好景不长——不久后，愤怒的元素入侵了城市。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission4_02	我做好了战斗准备——去再次证明我的勇气。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission5_01	萨尔的顾问们说好了支持我，但大酋长刚一离开，他们就开始造反。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission5_02	他们中的凯恩·血蹄，甚至还敢向我发起荣耀决斗……争夺部落的领导权。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission6_01	决斗的时候，玛加萨帮了我，污辱了我的荣耀。最后，牛头人放逐了她。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission6_02	我统合了部队，部落一定会建立伟大的功业。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission6_03	而第一步，就是消灭塞拉摩的联盟，固守我们的土地……	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission7_01	联盟渴望着复仇，但只要我们保持优势，他们就无机可乘。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission7_02	为了确保优势，我在潘达利亚寻找一件神器——圣钟。但很快，敌人就来搅局……	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission8_01	我花了大力气，找到了另一件强大神器，“亚煞极之心”。但部落内部的叛徒害怕我的力量。 	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Garrosh_PreMission8_02	本该听命于我的战士们倒向了萨尔，求他回来。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Hero_GarroshAttack_01	为荣誉而战！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Hero_GarroshConcede_01	哼，算了。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Hero_GarroshThreaten_01	我没有耐心陪你。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6EmoteResponse_01	你无法改变必然的结果。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6ExchangeA_01	那就准备受死吧。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6ExchangeB_01	已经无所谓了。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6HeroPower_01	塞拉摩终将陷落！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6HeroPower_02	我要粉碎你！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6HeroPower_03	不胜利，毋宁死！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Idle_01	你从没见过真正的部落。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Idle_02	你父亲曾向我们发起进攻，你也一样！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Idle_03	萨尔就是你脚下的一条狗。我不一样！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Intro_01	我是新任大酋长。	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Loss_01	在我的领导下，部落将会征服一切！	
+VO_Story_Hero_Garrosh_Male_Orc_Story_Jaina_Mission6Victory_01	现在，布置我们的终极武器！	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8EmoteResponse_01	你说什么？	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8ExchangeC_01	你的血脉太弱。你气味像食人魔，但矮小像兽人。	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8ExchangeD_01	我不喜欢陷阱！	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8ExchangeE_01	我没看到那个。	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8HeroPower_01	<咆哮>	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8HeroPower_02	我是最伟大的戈隆！	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8HeroPower_03	你不是我的对手。	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Idle_01	我是屠龙者格鲁尔的儿子。我也屠龙。我把它们吃了。	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Idle_02	血槌追着我。莫克纳萨追着血槌。	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Idle_03	你的熊很好。高格鲁姆喜欢熊。	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Intro_01	谁在打扰高格鲁姆？	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Intro_02	你个子太小，不能当勇士。	
+VO_Story_Hero_Gorgrom_Male_Gronn_Story_Rexxar_Mission8Loss_01	小东西不要打扰伟大的高格鲁姆。	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4EmoteResponse_01	呸！	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4ExchangeA_01	什么笼子都困不住我。	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4ExchangeB_01	闭嘴，人类！	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4HeroPower_01	我的血吼呢？！	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4HeroPower_02	<战斗呼号>	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4HeroPower_03	尝尝我的利刃！	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Idle_01	没人能抵挡恶魔赐予我们的力量！	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Idle_02	血的诅咒让一切变得模糊……	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Idle_03	我丢下了故乡……我多病的儿子……都是为了战斗的荣耀！	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Intro_01	离开这片土地，粉皮怪！	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Intro_02	我们永远比你们领先一步。	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Loss_01	我刚才怎么了？那不是我的本意……	
+VO_Story_Hero_Grommash_Male_Orc_Story_Jaina_Mission4Victory_01	现在我看清了。我很……抱歉。实在抱歉。	
+VO_Story_Hero_Jaina_Female_Human_Error_Hand_Full_01	我无法\n这么做。	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6EmoteResponse_01	如果我们能谈判，事情就简单多了。	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6ExchangeC_01	难道真的不能再谈谈了吗？	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6ExchangeD_01	那就没有回头路了。	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6HeroPower_01	为了塞拉摩！	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6HeroPower_02	是你逼我的！	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6HeroPower_03	我曾信任萨尔。你为什么抛弃我们的信任？	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Idle_01	你难道不觉得，萨尔会为你的行为感到羞愧？	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Idle_02	塞拉摩的人民只想要和平。	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Idle_03	即便我们相安无事，我们各自的敌人本身已经够多了！	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Loss_01	感谢圣光，塞拉摩安全了……	
+VO_Story_Hero_Jaina_Female_Human_Story_Garrosh_Mission6Victory_01	部落为会今天付出代价。	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeA_01	我会尽力帮助你。	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeB_01	希望你能信任我。	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeC_01	我们今后的和平，取决于我们在这里的发现。我有点担心。	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeD_01	你我没什么不同。在我看来，我们的人民所志相同。	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeE_01	我认识那个士兵……我知道是怎么回事了。 	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5ExchangeE_02	我稍后再解释。	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5Intro_01	我们必须驱逐他们。然后才能弄清楚这里的实际情况。	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5Victory_01	父亲。我知道是你做的。你要明白——部落不再是我们的敌人了！	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission5Victory_02	雷克萨，快跑！	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission7ExchangeA_01	萨尔，雷克萨……希望你们明白，我根本没参与这件事。 	
+VO_Story_Hero_Jaina_Female_Human_Story_Rexxar_Mission7ExchangeA_02	我知道。我不会阻止你。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeA_01	我会证明我自己！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeB_01	就连我父亲也觉得这个很厉害！他难得说出一个好字。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeC_01	但我想跟您学习！您是最强的！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1ExchangeD_01	不，他可不行。他让我不寒而栗。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1Intro_01	恳请您，让我做您的学徒吧！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission1Victory_01	真的吗？谢谢您！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2ExchangeA_01	啊，好啊。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2ExchangeB_01	还是……别提那件事了。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2ExchangeC_01	我要控制火气，免得烧书。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2Intro_01	没问题，殿下。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission2Victory_01	感谢邀约，不过现在，我想留在达拉然。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeA_01	这并不是对你的指责！没必要攻击我。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeB_01	你还有信仰。无需对你的敌人恨之入骨……	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeC_01	乌瑟尔在关心你……我也是。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3ExchangeD_01	我都明白。但这场灾难或许不是武力能解决的问题。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3Intro_01	我很担心你，阿尔萨斯。你最近有点不像你。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission3Victory_01	既然你这么说，好吧。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4ExchangeA_01	你从收容所逃出来了？	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4ExchangeB_01	你身边萦绕着黑暗魔法……你被腐化了。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4ExchangeC_01	那我们得制伏他……携手合作吧。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4Intro_01	休想！你们兽人是怎么到这来的？	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission4Victory_01	如果我们合作，也许就能进一步破坏恶魔的计划。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5ExchangeA_01	你们恶魔就只会讲大话吗？	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5ExchangeB_01	嗯，他没有丝毫的怀疑。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5Intro_01	没错。不过被清算的是你。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission5Victory_01	我们的计划全部顺利实现了。阿克蒙德没有发现我们布下的陷阱。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6ExchangeA_01	我不会主动进攻！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6ExchangeB_01	我曾信任萨尔。你为什么抛弃我们的信任？	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6ExchangeC_01	我不会再像过去一样相信和平。现在，我终于看清了他们的本质。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6GatesAttacked_01	支援城门！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6GatesAttacked_02	城门挺不住了！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6GatesGone_01	城门失守了……	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6Intro_01	我们的人民和平相处多年。我们和大酋长有协定！ 	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission6Victory_01	我不能扔下我的人民！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7ExchangeA_01	你的大酋长毁了塞拉摩！城市荡然无存！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7ExchangeB_01	部落全都是怪物，萨尔。只有你瞒过了我。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7ExchangeC_01	你不可能理解。你不在场。你没看到塞拉摩的遭遇……我的遭遇。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7Intro_01	朋友？！这都是你的错，萨尔……	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7Victory_01	我……我不会放过他们。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission7Victory_02	好吧。但他必须明白，他永远不再是我的盟友。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeA_01	哈！我明白了。那我就只好动手了。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeB_01	不，我只是接受了现实。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeC_01	你背叛我时可不这么想！	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8ExchangeD_01	你帮助过加尔鲁什，我永远都不会原谅你。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Intro_01	你背叛了肯瑞托，夺日者。这里不再欢迎你们。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Victory_01	最终，我放下了部落，不再去追求那不可能实现的和平。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Victory_02	有时，我仍会想起我曾经的理念，但过去的日子终究一去不返。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Mission8Victory_03	如今我成了这个世界所需要的模样——坚定的领导者，不再委曲求全——而我的眼前，是无尽的战争。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission1_01	一切都会变化。这就是魔法的本质——转化、创造……以及毁灭。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission1_02	尽管我能驾驭魔法，我却从没有意识到，变化，会对我产生怎样的影响——我的信念……以及我所代表的事物。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission1_03	我在库尔提拉斯长大。但随着我的魔法天赋不断成长，我想去达拉然，向大法师安东尼达斯学习。 	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission2_01	安东尼达斯是一位和蔼而又杰出的导师。我做梦都没有想到我能有这么大的进步，也没有想到我会面临这么大的压力。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission2_02	那时候，我身边都是年迈且强大的法师。难免会有一些尴尬的时刻……	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission3_01	我不能告诉凯尔萨斯，我爱上了另一位王子——阿尔萨斯。一场诡异的灾难蔓衍在洛丹伦境内，我们便在此时重逢。 	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission3_02	我们一起去调查。但随着调查的深入，我越发明白，他正在离我而去。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission4_01	我在阿尔萨斯心中感受到了黑暗。是恶魔，他们扭曲了他的灵魂，把他变成了巫妖王……	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission4_02	他受到了恶魔的引诱——毁了他曾经的王国。安东尼达斯让我带领平民渡海远逃。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission4_03	可就算到了那边，恶魔的威胁也依然强大。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission5_01	我猜得没错。命运在此刻让我们聚在一起，共同面对强大的恶魔：阿克蒙德。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission5_02	恶魔腐化了暗夜精灵的世界之树，精灵就此与我们结盟。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission5_03	这是我们仅有的机会，设下陷阱……彻底将他消灭。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission6_01	我们与暗夜精灵的联盟始终紧密，部落却走上了另一条路。 	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission6_02	尽管面临诸多难题，我父亲又试图挑起战争，我仍然站在萨尔这一边，维持着脆弱的和平。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission6_03	后来，他交出了部落领袖的职位。可取代他的是……一头凶兽。他在第一时间向我们发起了攻击。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission7_01	我虽然战败，但尚有转机。我找到了为死者复仇的办法……只要一个法术，就能召唤强大的力量，毁灭整个奥格瑞玛。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission7_02	只有一个人可以阻止我。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission8_01	那天，卡雷拉住了我的手。但不久之后，部落又一次背叛了我。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_PreMission8_02	我成为了肯瑞托的领袖，因此，我有权将他们逐出达拉然，直到永远。	
+VO_Story_Hero_Jaina_Human_Female_Story_Jaina_Threaten_01	为什么要这么为难我？	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission1EmoteResponse_01	多可爱的想法。	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeA_01	你可以叫我凯尔。	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeB_01	记得有一次，你不小心点燃了书本！	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeC_01	看来，你仍然偏爱冰霜法术。而我更喜欢火！	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2ExchangeC_02	哈哈哈，好吧。	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2HeroPower_01	一点小把戏！	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2HeroPower_02	你觉得如何？	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2HeroPower_03	看好了！	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Idle_01	王子的身份是一副重担，可是终归要有人来承担。	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Idle_02	我的故乡有着无法言说的美景，要是有你在，那就更美了。	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Idle_03	还能有人类在我面前泰然自若，真好啊！	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Intro_01	我能否有幸领教你的研究，普罗德摩尔女士？ 	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Loss_01	我听过不少对你的称赞。如此结局，令人遗憾。	
+VO_Story_Hero_Kaelthas_Male_BloodElf_Story_Jaina_Mission2Victory_01	你的进步惊人，吉安娜。如有机会，请与我一同游览银月城。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1EmoteResponse_01	你还是不说话比较好。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeA_01	我的儿子居然说这种话？！看来得教训你一下。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeB_01	安心生活，就不会有事。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeC_01	我们是半食人魔、半兽人。外人永远不会接受我们。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeD_01	大山隐蔽着我们。这就够安全了！	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1ExchangeE_01	你的想法和他们一样。我不是这么教你的。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1HeroPower_01	听我说！	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1HeroPower_02	听我的话。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1HeroPower_03	我懂得比你多！	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Idle_01	要相信和平。和平才是安全的出路。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Idle_02	恐怕你走上了一条黑暗的道路，我的孩子。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Idle_03	大地养育着我们。野兽听命于我们。你还想要什么呢？	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Intro_01	相信我们的传统。传统不会有错。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Loss_01	父亲的智慧或许难以接受，但一定正确。	
+VO_Story_Hero_Leoroxx_Male_OrcOgre_Story_Rexxar_Mission1Victory_01	你证明了自己不属于这里。你走吧。	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3EmoteResponse_01	<小声低吼>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3HeroPower_01	<放声咆哮>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3HeroPower_02	<咆哮>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3HeroPower_03	<咆哮>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3Intro_01	<大声吼叫>	
+VO_Story_Hero_Misha_Female_Bear_Story_Rexxar_Mission3Loss_01	<咆哮>	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2EmoteResponse_01	你就这么对长辈说话？	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2ExchangeA_01	我不会容忍你的无礼！	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2ExchangeB_01	萨尔不该找你当顾问。谁不知道你是个蠢货！	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2ExchangeC_01	你会把我们引入毫无意义的战争。	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2HeroPower_01	感受大地的颤抖！	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2HeroPower_02	誓死保卫部落！	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2HeroPower_03	大地，吞噬我的敌人！	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Idle_01	萨尔他不是偏爱你，他只是怀念你父亲。	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Idle_02	应该派你去给苦工擦鞋，好摆正自己的位置。	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Idle_03	和平是谈出来的。小孩子都懂这个道理。	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Intro_01	为什么总是无视我的忠告，小子？	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Intro_02	愚蠢的玛格汉……	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Loss_01	我会让萨尔把你送回德拉诺，那才是你该去的地方。	
+VO_Story_Hero_Rehgar_Male_Orc_Story_Garrosh_Mission2Victory_01	总有一天，你会为傲慢付出代价……	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Attack_01	我不想这么做……但我不会手软。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Greetings_01	你好。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1ExchangeB_01	部落很强大。他们可以随时消灭我们，就像消灭德莱尼那样。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1ExchangeC_01	那，我们也必须尝试。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1ExchangeD_01	我们的氏族太小了。我们的盟友太少。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1Intro_01	部落的崛起改变了一切。我们必须选择阵营！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission1Victory_01	我已经证明了我的观点！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2ExchangeA_01	是的。我代表他们而来。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2ExchangeB_01	你必须放过他们！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2ExchangeC_01	我知道。但我的族人无法接受。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2Intro_01	黑手大酋长！能听我说一句吗？	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2Intro_02	那就打吧。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission2Victory_01	我宣誓效力。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeA_01	长久以来，你是我遇见的第一个“文明”的生物。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeB_01	你因为恐惧而战斗。我也一样。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeC_01	我们应该是朋友。我没有其他的朋友。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeD_01	放松，放松……	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3ExchangeE_01	呜哇！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3Intro_01	多漂亮的野兽！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3Intro_02	即便要多费些时间，我也要驯服你。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission3Victory_01	我知道你会明白的。以后我来照顾你。我们两个再也不孤单了。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeA_01	你伤得很重。我来对付剩下的！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeB_01	你的痛苦我无能为力。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeB_02	失败？	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeC_01	我会帮你送出这封信的。你的荣耀永存。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4ExchangeC_02	愿风载着你与先祖团圆，战士。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Intro_01	什么动静？有战斗？	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Intro_02	坚持住，陌生人！你不是一个人在战斗！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Victory_01	大酋长，我有封信要给你。莫戈林死前托付给我的。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission4Victory_02	但我必须靠努力赢得自己的一席之地。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeB_01	萨尔相信你。这就够了。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeC_01	和平总是脆弱的。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeD_01	所以我们产生了冲突。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5ExchangeE_01	你什么意思？	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5Intro_01	纳迦摧毁了我们的营地！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission5Victory_01	纳迦跑了。但袭击我们的人类又是谁？	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6ExchangeA_01	我保证，贝恩。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6ExchangeB_01	狂野的生命不会被关进笼子。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6ExchangeC_01	闭嘴。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6Intro_01	你绑架了贝恩·血蹄，他的父亲心急如焚。马上放了他！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission6Victory_01	贝恩！你还好吗？	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission7ExchangeC_01	Lok'tar Ogar！为了部落！为了杜隆塔尔！	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission7Intro_01	但有些事情是无法挽回的。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission7Victory_01	我属于荒野，属于这片大地上的野兽和元素。但我随时听候你的需求，兄弟。 	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8ExchangeA_01	跟这样的生物，没办法讲道理。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8ExchangeB_01	这好像在和一座山战斗……	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8ExchangeC_01	我比你想得复杂。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Intro_01	我是雷克萨，部落的勇士。莫克纳萨之子。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Victory_01	在巨人倒下之后，我的放逐也宣告结束。我的人民欢迎我归来……除了我父亲。但，我会给他时间。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Victory_02	这些年来，我渐渐明白：一生中最重要的事物，莫过于心灵的旅程。 	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Mission8Victory_03	只要心怀狂野与自由，我们就能找到方向。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission1_01	我已经流浪了很久……经历了不同的世界，无数的战争……以及悲欢离合。 	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission1_02	如果你跟得上我的步伐，你会从这段旅程中学到很多。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission1_03	我生于德拉诺。那里战火四起，但我们莫克纳萨仍然保持着和平。我们对战争毫无准备。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission2_01	我没能说服我的氏族采取行动，被逐出了唯一的家。我只能独自去面对部落。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission2_02	如果他们愿意听我说话，那我的付出也不算白费。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission3_01	我跟随部落的战争，穿过了黑暗之门，来到遥远的艾泽拉斯。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission3_02	我完全不了解那里的居民，只知道大酋长想让他们消失。可是后来，大酋长也失败了。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission3_03	在两次大战后，我感到厌倦。只有荒野能让我感到慰藉。 	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission4_01	我离开了部落，和米莎一起，开始游历卡利姆多的荒野。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission4_02	我小心地避开城市。直到有一天，我别无选择……	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission5_01	新任大酋长面临着很多难题。他和一个叫吉安娜的人类达成约定，但我们的营地还是遭到了袭击。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission5_02	吉安娜说那不是她下的命令。于是，我们一起去找真正的敌人。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission6_01	多亏了吉安娜，我逃过一劫。但战情越发危急，我们的兵力又不够。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission6_02	大酋长萨尔深知我们需要盟友。他派我从半人马手中救出一个牛头人，希望以此赢得他们一族的帮助。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission7_01	贝恩信守承诺。他的父亲，凯恩酋长带着人手加入了我们。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission7_02	我们做好准备，面对海军上将普罗德摩尔……以及他的陈年旧恨。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission8_01	时间流逝，我开始思念家乡。黑暗之门重新打开后，我终于可以回去了。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission8_02	当我找到我的族人，我最害怕的事情发生了。血槌食人魔正在攻击我的同胞，为首的是一头巨型戈隆。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_PreMission8_03	我会用多年征战中学到的一切来拯救他们。	
+VO_Story_Hero_Rexxar_Male_OrcOgre_Story_Rexxar_Threaten_01	要是你的脑子和脾气一样大就好了。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission1Victory_01	加尔鲁什，地狱咆哮之子，你父亲无论生前还是死后都是我们最伟大的英雄。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission1Victory_02	他杀死了恶魔玛诺洛斯，解除了诅咒，救了我们所有人。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission3Victory_01	先遣军战况如何，加尔鲁什？	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission3Victory_02	干得好，我的朋友。你又一次让我刮目相看。 	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4ExchangeC_01	某种东西扰乱了全艾泽拉斯的元素……但我不知道是什么。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4Victory_01	你保住了城市，加尔鲁什。现在，我必须出发，去寻找混乱的源头。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4Victory_02	我不在的时候，就请你来领导部落。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission4Victory_03	在这个艰难的时刻，你的力量和勇气将会帮助我们的人民渡过难关。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8EmoteResponse_01	听到你这么说，我很痛心。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8ExchangeA_01	狂风，大地，流水之灵，听从我的召唤！请帮助我！	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8ExchangeC_01	我要纠正过去犯下的错误……	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8HeroPower_01	为了\n毁灭之锤！	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8HeroPower_02	你不配成为战士！	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8HeroPower_03	鲜血与雷鸣！	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Idle_01	我从不软弱。也从不孤单。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Idle_02	我希望你能明白，强大的形式多种多样。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Idle_03	至少，盖亚安不会看到你有多么堕落……	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Intro_01	现在还不迟，加尔鲁什。卸下酋长的包袱吧。我们还能结束这场冲突。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Garrosh_Mission8Loss_01	我曾经对你寄予厚望，加尔鲁什。现在，我必须放弃那些期待……	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ExchangeC_01	我是萨尔，兽人部落的领袖。这名战士是我的部下，但他已被愤怒冲昏头脑。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ThrallHelp_01	我会帮助你。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ThrallHelp_02	我来帮你了。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4ThrallHelp_03	让我来帮你。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission4Victory_01	一切顺利，多亏了普罗德摩尔女士。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission5Thrall_01	坚持住，我的战士们！部落无人能挡！	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission5Victory_01	我们的坚韧超乎他的想象。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7EmoteResponse_01	我们可以好好谈谈。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7ExchangeA_01	我为你的城市感到悲痛。但复仇无法挽回你失去的一切。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7ExchangeB_01	去打倒加尔鲁什。但我的其他人民不是你的敌人。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7HeroPower_01	鲜血与雷鸣！	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7HeroPower_02	元素之灵指引我！	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7HeroPower_03	风暴，大地和火焰——听从我的召唤！	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Idle_01	不要让悲痛蒙蔽自己。我们还有更大的危机。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Idle_02	相信加尔鲁什是我犯下的大错……	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Idle_03	我曾以为，你讨厌用暴力解决问题？！	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Intro_01	元素召唤我来这里阻止你，我的老朋友……	
+VO_Story_Hero_Thrall_Male_Orc_Story_Jaina_Mission7Loss_01	吉安娜……我从没想过这么做。很抱歉。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission4Victory_01	我知道了。你为我们立了大功。请在杜隆塔尔接受我们的款待。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7ExchangeA_01	我当然相信你。但你明白我们必须做的事。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7ExchangeB_01	我们必须终结海军上将。只有这样，部落才能安全。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7ExchangeD_01	你是部落的勇士。如果没有你，我们不可能获得胜利。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7Intro_01	那都是过去的事。部落已经变了。	
+VO_Story_Hero_Thrall_Male_Orc_Story_Rexxar_Mission7Victory_01	你救了我们所有人，雷克萨。我永远无法报答你。你能留下来吗？	
+VO_Story_Hero_Tyrande_Female_NightElf_Story_Jaina_Mission5Tyrande_01	为了艾露恩！	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3EmoteResponse_01	你们这些讨厌的虫子。	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3ExchangeA_01	不，你和他们会变成我们。	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3ExchangeB_01	我们蛛魔是永恒的，就像岩石，寒冰，和白骨。	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3HeroPower_01	来吧……	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3HeroPower_02	重获新生。	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3HeroPower_03	死亡不是终点。	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Idle_01	你这么不在意你的苦工！你应该来天灾军团当指挥官。	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Idle_02	你一定没见过天灾军团这样的敌人。	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Idle_03	再多打一会儿，你的心就会像这片冻土一样冰冷。	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Intro_01	感谢你，把这些战士带给我们……	
+VO_Story_Hero_Zarzhet_Female_Nerubian_Story_Garrosh_Mission3Loss_01	真遗憾，我们不能把你变成死亡骑士……	
+VO_Story_Minion_Baine_Male_Tauren_Story_Rexxar_Mission6ExchangeA_01	父亲知道我在这？！你一定要带我去见他！	
+VO_Story_Minion_Baine_Male_Tauren_Story_Rexxar_Mission6Victory_01	我还好，朋友。我欠你太多了。无论你想要什么，我父亲都会应允。	
+VO_Story_Minion_Cairne_Male_Tauren_Story_Rexxar_Mission7ExchangeC_01	我们跟着你，雷克萨。带领我们！	
+VO_Story_Minion_Footman_Male_Human_Story_Footman_Play_01	吉安娜小姐？是您吗？	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission6ExchangeC_01	他们不会停手……	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission6Victory_01	你必须撤退，吉安娜。保护好你自己！	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission6Victory_02	死在这里毫无价值。	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission7Victory_01	你不是这样的人，吉安娜。你可以用别的方式对付部落！	
+VO_Story_Minion_Kalec_Male_Dragon_Story_Jaina_Mission7Victory_02	当然不会。不过，让萨尔走吧。	
+VO_Story_Minion_Magatha_Female_Tauren_Story_Minion_Magatha_Play_01	我会给你强大的祝福……	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Mogrin_Play_01	野猪人都是胆小鬼！	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeA_01	他们突然就冒了出来！ 	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeB_01	我知道。我也……算是光荣战死了，只可惜我失败了。	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeC_01	我奉命把这封重要的报告……送到我酋长的手里。	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeC_02	可现在……我配不上……那份荣耀。	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4ExchangeD_01	去奥格瑞玛城。找大酋长萨尔。告诉他……	
+VO_Story_Minion_Mogrin_Male_Orc_Story_Rexxar_Mission4Intro_01	来啊，野猪人杂种！尝尝莫戈林的斧子！	
 VO_TB_FelFirefest_FelRagnaros_Male_Elemental_FelfireFest_Intro01_01	我的邪能火焰节开始了！为荣誉而战，不然就在失败中哭泣吧，虫子！	
 VO_TB_FelFirefest_FelRagnaros_Male_Elemental_FelfireFest_Intro02_01	你无法打破规则！因为根本没有规则！	
 VO_TB_FelFirefest_FelRagnaros_Male_Elemental_FelfireFest_Intro03_01	两个人进来，只有一个胜者！	
@@ -7437,6 +7982,323 @@ VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Attack_01	你将受到无尽�
 VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Loss_01	我的目标明确无比。我不会放弃！	
 VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Start1_01	冰封王座是我的，恶魔。让开。	
 VO_TB_PrinceHunter_ArthasH_Male_Human_HunterPrince_Start3_01	白日做梦！	
+VO_TB_PVPDR_Bob_Male_Human_TavernCollection_01	你的收藏太强了！看着真厉害。	
+VO_TB_PVPDR_Bob_Male_Human_TavernCollection_02	嘿！你交了不少厉害的朋友！	
+VO_TB_PVPDR_Bob_Male_Human_TavernCollection_03	啊，我明白你的风格了。	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_01	开心点，朋友。来个肉酱三明治！	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_02	不要担心。喝杯热可可，你就好受多了。	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_03	我也不知道他们为什么给我这个发网，但给都给了。	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_04	先别灰心。我在餐饮区给你留了个位置！ 	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_05	你要的我都有，朋友。随从。还有……奶油玉米！	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_06	就算是最强大的家伙，也要偶尔调整套牌。	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_07	下课铃救了你！你看，你还没有出局。	
+VO_TB_PVPDR_Bob_Male_Human_TavernGreeting_08	我的学生时代可没这么艰难。	
+VO_TB_PVPDR_Bob_Male_Human_TavernLegendary_01	你的传说随从真不错，朋友！	
+VO_TB_PVPDR_Bob_Male_Human_TavernType_01	我看出了规律！我大概猜出你的喜好了。	
+VO_TB_PVPDR_Bob_Male_Human_TavernWeapons_01	哈，武器？我给你准备了点特别的。	
+VO_TB_PVPDR_Fireheart_Female_Human_Attack_01	再来一场测验！	
+VO_TB_PVPDR_Fireheart_Female_Human_Concede_01	懂了，我输了。	
+VO_TB_PVPDR_Fireheart_Female_Human_Error_01	我不能那\n么做。	
+VO_TB_PVPDR_Fireheart_Female_Human_ErrorSpace_01	没有位置了。	
+VO_TB_PVPDR_Fireheart_Female_Human_LowCards_01	我的卡牌快要用完了。	
+VO_TB_PVPDR_Fireheart_Female_Human_NoCards_01	没有卡牌了！	
+VO_TB_PVPDR_Fireheart_Female_Human_Oops_01	这是学习，不丢人。	
+VO_TB_PVPDR_Fireheart_Female_Human_Picked_01	一起实践实践我们的研究吧！	
+VO_TB_PVPDR_Fireheart_Female_Human_Start_01	我不会手下留情。我讨厌模仿者。 	
+VO_TB_PVPDR_Fireheart_Female_Human_StartIllucia_01	巴罗夫女士，你是来评审的，还是来挑战的？	
+VO_TB_PVPDR_Fireheart_Female_Human_StartKelThuzad_01	火焰服从我的意志！	
+VO_TB_PVPDR_Fireheart_Female_Human_StartLilian_01	没人能免费听我的课！	
+VO_TB_PVPDR_Fireheart_Female_Human_StartMirror_01	你省省吧。我才是原版。	
+VO_TB_PVPDR_Fireheart_Female_Human_StartMozaki_01	我明白，想要晋升就必须打败你。	
+VO_TB_PVPDR_Fireheart_Female_Human_StartOmu_01	我问过了，但克尔苏加德校长不同意。所以我们只能战斗！	
+VO_TB_PVPDR_Fireheart_Female_Human_StartRattllegore_01	你不属于这里。你被开除了！	
+VO_TB_PVPDR_Fireheart_Female_Human_StartSlate_01	你随时可以退出竞争，教授。	
+VO_TB_PVPDR_Fireheart_Female_Human_StartStelina_01	你还不了解元素的力量……	
+VO_TB_PVPDR_Fireheart_Female_Human_StartTuralyon_01	法系对战板甲？我喜欢。	
+VO_TB_PVPDR_Fireheart_Female_Human_StartWillow_01	呵！校长他就连研究点心都信不着你！	
+VO_TB_PVPDR_Fireheart_Female_Human_Thanks_01	谢谢。	
+VO_TB_PVPDR_Fireheart_Female_Human_Threaten_01	有两种人我不能忍——吵闹的学生和无知的老师！	
+VO_TB_PVPDR_Fireheart_Female_Human_Time_01	我的时间不多了。	
+VO_TB_PVPDR_Fireheart_Female_Human_Welcome_01	我的课堂永远开放。	
+VO_TB_PVPDR_Fireheart_Female_Human_WellPlayed_01	看来你研究得不错。	
+VO_TB_PVPDR_Fireheart_Female_Human_Wow_01	你是优秀毕业生吧？	
+VO_TB_PVPDR_HH_Male_Human_Error_01	不行。	
+VO_TB_PVPDR_HH_Male_Human_ErrorSpace_01	没有位置了。	
+VO_TB_PVPDR_HH_Male_Human_LowCards_01	我的卡牌不多了！	
+VO_TB_PVPDR_HH_Male_Human_NoCards_01	没有卡牌了！	
+VO_TB_PVPDR_HH_Male_Human_Start_01	无穷黑暗我已踏遍，今夜征服通灵学院！	
+VO_TB_PVPDR_HH_Male_Human_StartMirror_01	命运实在难以琢磨，我会遇见另一个我！	
+VO_TB_PVPDR_HH_Male_Human_Time_01	时间流逝，押韵不止！	
+VO_TB_PVPDR_HH_Male_Human_Welcome_01	欢迎，凡人！啊哈哈哈！	
+VO_TB_PVPDR_Illucia_Female_Human_Attack_01	就当是你最重要的测验。	
+VO_TB_PVPDR_Illucia_Female_Human_Concede_01	我受够了！	
+VO_TB_PVPDR_Illucia_Female_Human_Error_01	不行。	
+VO_TB_PVPDR_Illucia_Female_Human_ErrorSpace_01	没有地方了！	
+VO_TB_PVPDR_Illucia_Female_Human_Greetings_01	啊，是你。	
+VO_TB_PVPDR_Illucia_Female_Human_LowCards_01	我快没有卡牌了。	
+VO_TB_PVPDR_Illucia_Female_Human_NoCards_01	我没有卡\n牌了！	
+VO_TB_PVPDR_Illucia_Female_Human_Oops_01	真可怕。	
+VO_TB_PVPDR_Illucia_Female_Human_Picked_01	我就知道你会选我。	
+VO_TB_PVPDR_Illucia_Female_Human_Start_01	要是有两个我，我的成就也能翻倍。	
+VO_TB_PVPDR_Illucia_Female_Human_StartFireheart_01	但愿冷静的人可以获胜。	
+VO_TB_PVPDR_Illucia_Female_Human_StartKelThuzad_01	阿雷克斯和我完全支持您。	
+VO_TB_PVPDR_Illucia_Female_Human_StartLilian_01	滚出我的学院，入侵者！	
+VO_TB_PVPDR_Illucia_Female_Human_StartMirror_01	但恐怕只有一个我能赢。	
+VO_TB_PVPDR_Illucia_Female_Human_StartMozaki_01	这场测试一定很有意思。	
+VO_TB_PVPDR_Illucia_Female_Human_StartOmu_01	你到底是个老师？还是棵树？	
+VO_TB_PVPDR_Illucia_Female_Human_StartRattllegore_01	原来你藏在这里……	
+VO_TB_PVPDR_Illucia_Female_Human_StartSlate_01	我从没见过这么认真对待蘑菇的人。	
+VO_TB_PVPDR_Illucia_Female_Human_StartStelina_01	我要看看你的好成绩是否属实。	
+VO_TB_PVPDR_Illucia_Female_Human_StartTuralyon_01	我自有我的道路。	
+VO_TB_PVPDR_Illucia_Female_Human_StartWillow_01	你有点本事，但比我还差一点。	
+VO_TB_PVPDR_Illucia_Female_Human_Thanks_01	那很有帮助。	
+VO_TB_PVPDR_Illucia_Female_Human_Threaten_01	我是巴罗夫家的人。这是我们的学院！	
+VO_TB_PVPDR_Illucia_Female_Human_Time_01	我必须快点。	
+VO_TB_PVPDR_Illucia_Female_Human_Welcome_01	欢迎来到通灵学院。	
+VO_TB_PVPDR_Illucia_Female_Human_WellPlayed_01	竞争很激烈，对吧？	
+VO_TB_PVPDR_Illucia_Female_Human_Wow_01	真神奇！	
+VO_TB_PVPDR_KelThuzad_Male_Human_Attack_01	别让我失望！	
+VO_TB_PVPDR_KelThuzad_Male_Human_Attack_02	尝尝这个！	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_01	你的竞争对手是……你的同事。	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_02	我只有一个名额。所以，尽力取胜吧！	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_03	只有一位教师能赢得我的青睐。	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_04	来吧……你们不是一直都想互相较量吗？	
+VO_TB_PVPDR_KelThuzad_Male_Human_EnemyScreen_05	等等，你不是学生吗？哦，行吧……	
+VO_TB_PVPDR_KelThuzad_Male_Human_ExceptionalRun_01	祝贺你！你的成绩远远甩掉了其他人。	
+VO_TB_PVPDR_KelThuzad_Male_Human_FirstBossLoss_01	不要灰心。多动脑子，你就能轻松打败某些教师。	
+VO_TB_PVPDR_KelThuzad_Male_Human_FirstBossLoss_02	多学习，努力尝试，这才能成功。起码我会多加努力。要是当年我没作弊的话。	
+VO_TB_PVPDR_KelThuzad_Male_Human_GoodRun_01	精彩的学术成就！你拿了个高分！	
+VO_TB_PVPDR_KelThuzad_Male_Human_GoodRun_02	哦，我给你铺好了绝妙的待遇，我的朋友。	
+VO_TB_PVPDR_KelThuzad_Male_Human_Intro_01	我在进行一项开创性的研究，但我只要最好的教师与我合作。那个人会是你吗？ 	
+VO_TB_PVPDR_KelThuzad_Male_Human_Intro_Banner_01	欢迎各位教员！这个夏天，我有一点特别的安排……	
+VO_TB_PVPDR_KelThuzad_Male_Human_Intro_Banner_02	这学期就要结束了，你也许在想，接下来会发生什么？	
+VO_TB_PVPDR_KelThuzad_Male_Human_MediumRun_01	啊，不错，你的进展良好。我至少给你及格分！	
+VO_TB_PVPDR_KelThuzad_Male_Human_MediumRun_02	你很有潜力。继续加油，你就有可能成为系主任。	
+VO_TB_PVPDR_KelThuzad_Male_Human_Start_01	是我？我才是通灵学院最棒的？	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartFireheart_01	呃，火心？也许你该冷静一下。	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartIllucia_01	我们的宏伟事业才刚刚开始！	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartLilian_01	入侵者？！你会付出代价的……	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartMirror_01	嗯，这倒是没错。	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartMozaki_01	我必须警告你，我对法师的要求很严。	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartOmu_01	我……不清楚你是不是合适的人选。	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartRattlegore_01	没错，亡灵仆从是最好的仆从。	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartSlate_01	实话说，我觉得你有一点神秘。	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartStelina_01	一个学生打败了教职员工？有趣。	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartTuralyon_01	你的一腔热忱大有前途。	
+VO_TB_PVPDR_KelThuzad_Male_Human_StartWillow_01	现在我要直接监督你的研究进度。	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_01	啊，没错。学术研究是有回报的。	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_02	这应该有用。至少能制造一点混乱。	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_03	啊，通灵学院宝库中的宝藏！	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasureDraw_04	看来你们都收集了一些宝藏……	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_01	请带好自己的材料。	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_02	希望能看到你最好的表现！	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_04	你解锁了更强的宝藏！尽管我很想留给自己。	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_05	原来你还是个收藏家……拿好了。	
+VO_TB_PVPDR_KelThuzad_Male_Human_TreasurePick_93	给我留点好印象吧。	
+VO_TB_PVPDR_KelThuzad_Male_Human_TutorialMatchmaking_01	你和对手构筑套牌的条件相近。	
+VO_TB_PVPDR_KelThuzad_Male_Human_TutorialOpponents_01	我们必须给你找一个……资质相当的对手。	
+VO_TB_PVPDR_KelThuzad_Male_Human_Victory_01	不得不说，你的表现惊人！你的学术前景现在一片光明……	
+VO_TB_PVPDR_KelThuzad_Male_Human_Victory_02	我看你大有前途！对吧，比格沃斯先生？<特效：猫叫>他肯定也同意。	
+VO_TB_PVPDR_KelThuzad_Male_Human_Victory_03	你就是我要找的人。也许有一天你也能当上校长！哈哈，开个玩笑。	
+VO_TB_PVPDR_Lilian_Female_Human_Attack_01	我的刀一直很快。	
+VO_TB_PVPDR_Lilian_Female_Human_Concede_01	我尽力了。	
+VO_TB_PVPDR_Lilian_Female_Human_Error_01	不行。	
+VO_TB_PVPDR_Lilian_Female_Human_ErrorSpace_01	没有位置。	
+VO_TB_PVPDR_Lilian_Female_Human_Greetings_01	你好。有什么事？	
+VO_TB_PVPDR_Lilian_Female_Human_LowCards_01	卡牌不多了。	
+VO_TB_PVPDR_Lilian_Female_Human_NoCards_01	我没有卡\n牌了！	
+VO_TB_PVPDR_Lilian_Female_Human_Oops_01	意料之外……	
+VO_TB_PVPDR_Lilian_Female_Human_Picked_01	我们会彻查真相。	
+VO_TB_PVPDR_Lilian_Female_Human_Start_01	你要妨碍我的潜入行动？	
+VO_TB_PVPDR_Lilian_Female_Human_StartFireheart_01	别误会。我跟你没什么可学的！	
+VO_TB_PVPDR_Lilian_Female_Human_StartIllucia_01	帮助克尔苏加德会毁了你的家族！	
+VO_TB_PVPDR_Lilian_Female_Human_StartKelThuzad_01	我知道你的勾当，你跑不了的！	
+VO_TB_PVPDR_Lilian_Female_Human_StartMirror_01	不，是你在妨碍我！	
+VO_TB_PVPDR_Lilian_Female_Human_StartMozaki_01	如果必要，我会和每一位教师战斗。	
+VO_TB_PVPDR_Lilian_Female_Human_StartOmu_01	我并不想伤害你，但我别无选择。	
+VO_TB_PVPDR_Lilian_Female_Human_StartRattllegore_01	我会了结你的痛苦。	
+VO_TB_PVPDR_Lilian_Female_Human_StartSlate_01	我是入学的新生，你信吗？	
+VO_TB_PVPDR_Lilian_Female_Human_StartStelina_01	回去上课！别来烦我！	
+VO_TB_PVPDR_Lilian_Female_Human_StartTuralyon_01	请你安静点，行吗？	
+VO_TB_PVPDR_Lilian_Female_Human_StartWillow_01	我知道真相。你们这些人，全都是通灵师！	
+VO_TB_PVPDR_Lilian_Female_Human_Thanks_01	嗯，谢谢你吧。	
+VO_TB_PVPDR_Lilian_Female_Human_Threaten_01	你们学院坏透了——比一般学院还要邪恶。	
+VO_TB_PVPDR_Lilian_Female_Human_Time_01	我快没时间了。	
+VO_TB_PVPDR_Lilian_Female_Human_Welcome_01	欢迎来接受制裁。	
+VO_TB_PVPDR_Lilian_Female_Human_WellPlayed_01	本领不错，只可惜用错了地方。	
+VO_TB_PVPDR_Lilian_Female_Human_Wow_01	那是什么情况？！	
+VO_TB_PVPDR_Mozaki_Female_Troll_Concede_01	我没时间陪你们！	
+VO_TB_PVPDR_Mozaki_Female_Troll_Error_01	不，不行。	
+VO_TB_PVPDR_Mozaki_Female_Troll_ErrorSpace_01	没地方了！	
+VO_TB_PVPDR_Mozaki_Female_Troll_Greetings_01	这算不上竞争。我太强了！	
+VO_TB_PVPDR_Mozaki_Female_Troll_LowCards_01	我的卡牌快要用完了。	
+VO_TB_PVPDR_Mozaki_Female_Troll_NoCards_01	没有卡牌了！	
+VO_TB_PVPDR_Mozaki_Female_Troll_Oops_01	真尴尬。	
+VO_TB_PVPDR_Mozaki_Female_Troll_Picked_01	让你见识下决斗大师的风采……	
+VO_TB_PVPDR_Mozaki_Female_Troll_Start_01	看，就像是镜像一样！	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartFireheart_01	那你可输定了。	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartIllucia_01	那是，我让学习充满乐趣！	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartKelThuzad_01	我会让您惊叹。我保证。	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartLilian_01	你看起来很可疑。我要举报你！	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartMirror_01	哈，你还真幽默。	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartOmu_01	算了吧。你那些小植物和我没法比。	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartRattllegore_01	这玩意不在教员名单上！	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartSlate_01	我只是喜欢高水平的对决。	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartStelina_01	法术是最强大的武器。	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartTuralyon_01	我鄙视你这种圣骑士。	
+VO_TB_PVPDR_Mozaki_Female_Troll_StartWillow_01	我可比不了你，我有资格留在这。	
+VO_TB_PVPDR_Mozaki_Female_Troll_Thanks_01	哈，谢谢。	
+VO_TB_PVPDR_Mozaki_Female_Troll_Threaten_01	无敌的唯一缺点就是寂寞……	
+VO_TB_PVPDR_Mozaki_Female_Troll_Time_01	最好快点！	
+VO_TB_PVPDR_Mozaki_Female_Troll_Welcome_01	欢迎来到我的高级班。	
+VO_TB_PVPDR_Mozaki_Female_Troll_WellPlayed_01	至少你努力了。这点我认可。	
+VO_TB_PVPDR_Mozaki_Female_Troll_Wow_01	你竟然有这个潜力！	
+VO_TB_PVPDR_Omu_Female_Botani_Concede_01	有人成长，便有人枯萎。	
+VO_TB_PVPDR_Omu_Female_Botani_Error_01	不能那么做。	
+VO_TB_PVPDR_Omu_Female_Botani_ErrorSpace_01	没有位置了。	
+VO_TB_PVPDR_Omu_Female_Botani_Greetings_01	与自然融合。	
+VO_TB_PVPDR_Omu_Female_Botani_LowCards_01	我的卡牌不多了。	
+VO_TB_PVPDR_Omu_Female_Botani_NoCards_01	我的卡牌枯竭了。	
+VO_TB_PVPDR_Omu_Female_Botani_Oops_01	哦！这是教学示范。	
+VO_TB_PVPDR_Omu_Female_Botani_Picked_01	有时需要播种……有时需要收割。	
+VO_TB_PVPDR_Omu_Female_Botani_Start_01	唔，我有还有分枝吗？	
+VO_TB_PVPDR_Omu_Female_Botani_StartFireheart_01	我们应该共享这个教席，共同教授学生！	
+VO_TB_PVPDR_Omu_Female_Botani_StartIllucia_01	看呐，神秘的巴罗夫女士来了！	
+VO_TB_PVPDR_Omu_Female_Botani_StartKelThuzad_01	有我照料，您的研究必将硕果累累。	
+VO_TB_PVPDR_Omu_Female_Botani_StartLilian_01	你不是学生，也不是老师。你为什么来这？	
+VO_TB_PVPDR_Omu_Female_Botani_StartMirror_01	谁赢了，谁是主干！	
+VO_TB_PVPDR_Omu_Female_Botani_StartMozaki_01	这世上还有你不懂的魔法。	
+VO_TB_PVPDR_Omu_Female_Botani_StartRattllegore_01	你躯体里没有生命，扭曲的怪物！	
+VO_TB_PVPDR_Omu_Female_Botani_StartSlate_01	这次我只带了自然的力量！	
+VO_TB_PVPDR_Omu_Female_Botani_StartStelina_01	我们欢迎所有转校的学生。	
+VO_TB_PVPDR_Omu_Female_Botani_StartTuralyon_01	那就看看谁长得更强。	
+VO_TB_PVPDR_Omu_Female_Botani_StartWillow_01	见证丛林的法则！	
+VO_TB_PVPDR_Omu_Female_Botani_Thanks_01	谢谢你。	
+VO_TB_PVPDR_Omu_Female_Botani_Threaten_01	你耗尽了我的耐心。	
+VO_TB_PVPDR_Omu_Female_Botani_Time_01	时间如此宝贵。	
+VO_TB_PVPDR_Omu_Female_Botani_Welcome_01	我的丛林欢迎所有人。	
+VO_TB_PVPDR_Omu_Female_Botani_WellPlayed_01	你的长势喜人！	
+VO_TB_PVPDR_Omu_Female_Botani_Wow_01	我看到了你的成长！	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Attack_01	<喉音阵阵>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Concede_01	<刺耳的啸叫>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Greetings_01	<咕噜>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_NoCards_01	<表示否定的声音>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Oops_01	<小声低吼>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Picked_01	<激动的咆哮>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Start_01	<恼怒的咆哮>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_StartMirror_01	<疑惑的吼声>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_Threaten_01	<一般的吼声>	
+VO_TB_PVPDR_Rattlegore_Male_Undead_WellPlayed_01	哦……	
+VO_TB_PVPDR_Slate_Male_Human_Attack_01	这个很够劲……	
+VO_TB_PVPDR_Slate_Male_Human_Attack_02	快看那个！	
+VO_TB_PVPDR_Slate_Male_Human_Attack_03	多新鲜！多粗壮！	
+VO_TB_PVPDR_Slate_Male_Human_Concede_01	我得回去研究了。	
+VO_TB_PVPDR_Slate_Male_Human_Error_01	哦，不，不，不。	
+VO_TB_PVPDR_Slate_Male_Human_ErrorSpace_01	随从的成长需要空间！	
+VO_TB_PVPDR_Slate_Male_Human_Greetings_01	哦，你好！ 	
+VO_TB_PVPDR_Slate_Male_Human_LowCards_01	剩下的卡牌不多了。	
+VO_TB_PVPDR_Slate_Male_Human_NoCards_01	卡牌刚刚用完了！	
+VO_TB_PVPDR_Slate_Male_Human_Oops_01	哦——！	
+VO_TB_PVPDR_Slate_Male_Human_Picked_01	什么？啊！你好！	
+VO_TB_PVPDR_Slate_Male_Human_Start_01	你好，你是新来的教授吗？	
+VO_TB_PVPDR_Slate_Male_Human_StartFireheart_01	很抱歉和你对战，但这是校长的要求！	
+VO_TB_PVPDR_Slate_Male_Human_StartIllucia_01	啊，我想给你展示我的最新研究！	
+VO_TB_PVPDR_Slate_Male_Human_StartKelThuzad_01	我准备好接受评审了，校长！	
+VO_TB_PVPDR_Slate_Male_Human_StartLilian_01	啊，你是新来的吗？	
+VO_TB_PVPDR_Slate_Male_Human_StartMirror_01	我觉得我肯定算是老教授！	
+VO_TB_PVPDR_Slate_Male_Human_StartMozaki_01	我没想到你也对研究感兴趣！	
+VO_TB_PVPDR_Slate_Male_Human_StartOmu_01	嗯……你给我带蘑菇了吗，奥姆？	
+VO_TB_PVPDR_Slate_Male_Human_StartRattllegore_01	谁让这个怪物进来的？！	
+VO_TB_PVPDR_Slate_Male_Human_StartStelina_01	在校生领会不到我的研究！	
+VO_TB_PVPDR_Slate_Male_Human_StartTuralyon_01	我要和伟大的图拉扬对战？太激动了！	
+VO_TB_PVPDR_Slate_Male_Human_StartWillow_01	你之前在研究什么来着？	
+VO_TB_PVPDR_Slate_Male_Human_Thanks_01	谢谢，谢谢。	
+VO_TB_PVPDR_Slate_Male_Human_Threaten_01	你的学术生涯就要完了！	
+VO_TB_PVPDR_Slate_Male_Human_Time_01	我的时间很紧。	
+VO_TB_PVPDR_Slate_Male_Human_Welcome_01	这里欢迎终身学习的人。	
+VO_TB_PVPDR_Slate_Male_Human_WellPlayed_01	我要给你的实地研究满分！	
+VO_TB_PVPDR_Slate_Male_Human_Wow_01	哎呀！	
+VO_TB_PVPDR_Stelina_Female_NightElf_Attack_01	我永远是第一名！	
+VO_TB_PVPDR_Stelina_Female_NightElf_Concede_01	现在该放暑假了！	
+VO_TB_PVPDR_Stelina_Female_NightElf_Error_01	我不能那\n么做。	
+VO_TB_PVPDR_Stelina_Female_NightElf_ErrorSpace_01	我没有地方了。	
+VO_TB_PVPDR_Stelina_Female_NightElf_Greetings_01	你好！这一场也计入成绩吗？	
+VO_TB_PVPDR_Stelina_Female_NightElf_LowCards_01	我的卡牌不多了。	
+VO_TB_PVPDR_Stelina_Female_NightElf_NoCards_01	哦，没有卡牌了。	
+VO_TB_PVPDR_Stelina_Female_NightElf_Oops_01	哎呀。	
+VO_TB_PVPDR_Stelina_Female_NightElf_Picked_01	我总是第一个被选中！	
+VO_TB_PVPDR_Stelina_Female_NightElf_Start_01	哦不，是你。我是说，是我。	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartFireheart_01	火心老师？我们交流一下吧。	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartIllucia_01	请手下留情，巴罗夫女士。我是你最好的学生！	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartKelThuzad_01	我是您最好的学生！您就该选我！	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartLilian_01	潜入到魔法学校的间谍是什么样的呢？	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartMirror_01	我该怎么自己抄自己呢？	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartMozaki_01	法师没有武器，不会无聊吗？	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartOmu_01	我从没想像过还有这样的课程……	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartRattllegore_01	你是从哪冒出来的？！	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartSlate_01	我一直想问……这些蘑菇怎么了？	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartTuralyon_01	哦你好，图拉扬教授……	
+VO_TB_PVPDR_Stelina_Female_NightElf_StartWillow_01	你是想破坏我完美的成绩吗？	
+VO_TB_PVPDR_Stelina_Female_NightElf_Thanks_01	非常感谢！	
+VO_TB_PVPDR_Stelina_Female_NightElf_Threaten_01	你打了学生，你摊上事了！	
+VO_TB_PVPDR_Stelina_Female_NightElf_Time_01	我的时间不多了。	
+VO_TB_PVPDR_Stelina_Female_NightElf_Welcome_01	准优秀毕业生为您效劳。	
+VO_TB_PVPDR_Stelina_Female_NightElf_WellPlayed_01	你很聪明嘛。	
+VO_TB_PVPDR_Stelina_Female_NightElf_Wow_01	真没想到！	
+VO_TB_PVPDR_Turalyon_Male_Human_Attack_02	圣光指引我！	
+VO_TB_PVPDR_Turalyon_Male_Human_Attack_1	向前推进！	
+VO_TB_PVPDR_Turalyon_Male_Human_Concede_01	享受你的胜利吧。	
+VO_TB_PVPDR_Turalyon_Male_Human_Error_01	我不能那\n么做。	
+VO_TB_PVPDR_Turalyon_Male_Human_ErrorSpace_01	我没有位置了。	
+VO_TB_PVPDR_Turalyon_Male_Human_Greetings_01	信念就是我的盾牌。	
+VO_TB_PVPDR_Turalyon_Male_Human_LowCards_01	我的卡牌不\n多了。	
+VO_TB_PVPDR_Turalyon_Male_Human_NoCards_01	我的卡牌用\n光了！	
+VO_TB_PVPDR_Turalyon_Male_Human_Oops_01	一定没人看见。	
+VO_TB_PVPDR_Turalyon_Male_Human_Picked_01	圣光与我们同在。	
+VO_TB_PVPDR_Turalyon_Male_Human_Start_01	我会享受这场胜利！	
+VO_TB_PVPDR_Turalyon_Male_Human_StartFireheart_01	来一场友谊赛吧，火心老师？	
+VO_TB_PVPDR_Turalyon_Male_Human_StartIllucia_01	牧师应当为圣光献身，你却徘徊在暗影之中。	
+VO_TB_PVPDR_Turalyon_Male_Human_StartKelThuzad_01	愿圣光照耀通灵学院！	
+VO_TB_PVPDR_Turalyon_Male_Human_StartLilian_01	这是你该来的地方吗？	
+VO_TB_PVPDR_Turalyon_Male_Human_StartMirror_01	乌瑟尔，是你吗？别再逗我了！	
+VO_TB_PVPDR_Turalyon_Male_Human_StartMozaki_01	我承认，我一向没法和巨魔相处。	
+VO_TB_PVPDR_Turalyon_Male_Human_StartOmu_01	自然的力量无法与圣光相提并论！	
+VO_TB_PVPDR_Turalyon_Male_Human_StartRattllegore_01	圣光抛弃了你！	
+VO_TB_PVPDR_Turalyon_Male_Human_StartSlate_01	啊，斯雷特教授。看来这是一场智斗！	
+VO_TB_PVPDR_Turalyon_Male_Human_StartStelina_01	你在考虑成为一名教师吗？	
+VO_TB_PVPDR_Turalyon_Male_Human_StartWillow_01	我不能信任你的魔法。	
+VO_TB_PVPDR_Turalyon_Male_Human_Thanks_01	感谢。	
+VO_TB_PVPDR_Turalyon_Male_Human_Threaten_01	圣光会驱除一切背叛！	
+VO_TB_PVPDR_Turalyon_Male_Human_Time_01	时不我待！	
+VO_TB_PVPDR_Turalyon_Male_Human_Welcome_01	幸会。	
+VO_TB_PVPDR_Turalyon_Male_Human_WellPlayed_01	打得不错。	
+VO_TB_PVPDR_Turalyon_Male_Human_Wow_01	难以言表！	
+VO_TB_PVPDR_Willow_Female_Human_Concede_01	我退出！	
+VO_TB_PVPDR_Willow_Female_Human_Error_01	绝对不行。	
+VO_TB_PVPDR_Willow_Female_Human_ErrorSpace_01	不不不，没地方了。	
+VO_TB_PVPDR_Willow_Female_Human_Greetings_01	向你敬礼。	
+VO_TB_PVPDR_Willow_Female_Human_LowCards_01	卡牌不多了。	
+VO_TB_PVPDR_Willow_Female_Human_NoCards_01	没有卡牌了。	
+VO_TB_PVPDR_Willow_Female_Human_Oops_01	有趣的错误。	
+VO_TB_PVPDR_Willow_Female_Human_Picked_01	哦，这次惹什么祸呢……	
+VO_TB_PVPDR_Willow_Female_Human_Start_01	真不希望我内心的冲突就这么变成现实。	
+VO_TB_PVPDR_Willow_Female_Human_StartFireheart_01	希望你不要介意。这次我一定能赢。	
+VO_TB_PVPDR_Willow_Female_Human_StartIllucia_01	伊露希亚。我就知道你早晚会和我作对。	
+VO_TB_PVPDR_Willow_Female_Human_StartKelThuzad_01	不胜荣幸，校长！	
+VO_TB_PVPDR_Willow_Female_Human_StartLilian_01	你太自不量力了，入侵者。	
+VO_TB_PVPDR_Willow_Female_Human_StartMirror_01	我懂你。	
+VO_TB_PVPDR_Willow_Female_Human_StartMozaki_01	这年头，什么人都能弄到终身教席。	
+VO_TB_PVPDR_Willow_Female_Human_StartOmu_01	我得警告你：我养什么死什么。	
+VO_TB_PVPDR_Willow_Female_Human_StartRattllegore_01	我该怎么杀掉一个死物呢？	
+VO_TB_PVPDR_Willow_Female_Human_StartSlate_01	斯雷特教授。真让人意外！	
+VO_TB_PVPDR_Willow_Female_Human_StartStelina_01	嘿，你。该关禁闭了！	
+VO_TB_PVPDR_Willow_Female_Human_StartTuralyon_01	那你想干什么？替我祈祷？	
+VO_TB_PVPDR_Willow_Female_Human_Thanks_01	好吧。谢谢。	
+VO_TB_PVPDR_Willow_Female_Human_Threaten_01	一切都将转向黑暗。	
+VO_TB_PVPDR_Willow_Female_Human_Time_01	没有时间了。	
+VO_TB_PVPDR_Willow_Female_Human_Welcome_01	不必客气。	
+VO_TB_PVPDR_Willow_Female_Human_WellPlayed_01	看来你认真学习了？	
+VO_TB_PVPDR_Willow_Female_Human_Wow_01	那可真不错。	
 VO_TB_ReturningPlayer_Houndmastr2_Male_Demon_RP_Mission3_ExchangeA_01_01	主人的力量超出你的想象。	
 VO_TB_ReturningPlayer_Houndmastr2_Male_Demon_RP_Mission3_ExchangeB_01_01	你能操纵奥术，但力量远不止这一种。	
 VO_TB_ReturningPlayer_Houndmastr2_Male_Demon_RP_Mission3_ExchangeC_01_01	只要你愿意退开，你渴望的一切都将触手可及。	

@@ -1,4 +1,5 @@
 TAG	TEXT	COMMENT
+PRESENCE_ADVENTURE_MODE_BOH	Leyendo el Libro de Héroes	
 PRESENCE_ADVENTURE_MODE_BOT	Explorando el laboratorio del Dr. Bum	
 PRESENCE_ADVENTURE_MODE_BRM_CLASS_CHALLENGE	Desafío de clase de Roca Negra	
 PRESENCE_ADVENTURE_MODE_BRM_HEROIC	Montaña Roca Negra (Heroico)	
@@ -23,6 +24,30 @@ PRESENCE_ADVENTURE_MODE_NAXX_NORMAL	a Naxxramas
 PRESENCE_ADVENTURE_MODE_RETURNING_PLAYER_CHALLENGE	¡Está de regreso en la taberna!	
 PRESENCE_ADVENTURE_MODE_TRL	Preparándose para el reto...	
 PRESENCE_ADVENTURE_MODE_ULD	Planeando una expedición	
+PRESENCE_SCENARIO_BOH_FIGHT_01	Convenciendo al archimago Antonidas	
+PRESENCE_SCENARIO_BOH_FIGHT_02	Exponiendo al príncipe Kael'thas	
+PRESENCE_SCENARIO_BOH_FIGHT_03	Discutiendo con el príncipe Arthas	
+PRESENCE_SCENARIO_BOH_FIGHT_04	Calmando a Grommash Grito Infernal	
+PRESENCE_SCENARIO_BOH_FIGHT_05	Aventajando a Archimonde	
+PRESENCE_SCENARIO_BOH_FIGHT_06	Defendiendo Theramore	
+PRESENCE_SCENARIO_BOH_FIGHT_07	Juzgando a Thrall	
+PRESENCE_SCENARIO_BOH_FIGHT_08	Expulsando a los Atracasol	
+PRESENCE_SCENARIO_BOH2_FIGHT_01	Proponiendo actuar	
+PRESENCE_SCENARIO_BOH2_FIGHT_02	Convenciendo al jefe de guerra	
+PRESENCE_SCENARIO_BOH2_FIGHT_03	Amigándose con Misha	
+PRESENCE_SCENARIO_BOH2_FIGHT_04	Restaurando el honor de Mogrin	
+PRESENCE_SCENARIO_BOH2_FIGHT_05	Investigando con Jaina	
+PRESENCE_SCENARIO_BOH2_FIGHT_06	Rescatando a Baine Pezuña de sangre	
+PRESENCE_SCENARIO_BOH2_FIGHT_07	Repeliendo la invasión de Daelin	
+PRESENCE_SCENARIO_BOH2_FIGHT_08	Salvando a los mok'nathal	
+PRESENCE_SCENARIO_BOH3_FIGHT_01	Visitando a la abuela	
+PRESENCE_SCENARIO_BOH3_FIGHT_02	Debatiendo con Rehgar	
+PRESENCE_SCENARIO_BOH3_FIGHT_03	Conquistando Rasganorte	
+PRESENCE_SCENARIO_BOH3_FIGHT_04	Apagando llamas en Orgrimmar	
+PRESENCE_SCENARIO_BOH3_FIGHT_05	Luchando un mak'gora	
+PRESENCE_SCENARIO_BOH3_FIGHT_06	Atacando a Theramore	
+PRESENCE_SCENARIO_BOH3_FIGHT_07	Tocando la Campana divina	
+PRESENCE_SCENARIO_BOH3_FIGHT_08	Bajo asedio en Orgrimmar	
 PRESENCE_SCENARIO_BOTA_CLEAR_BOOM	Resolviendo un acertijo	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_1	Resolviendo un acertijo	
 PRESENCE_SCENARIO_BOTA_CLEAR_PUZZLE_2	Resolviendo un acertijo	
@@ -327,6 +352,12 @@ PRESENCE_STATUS_BATTLEGROUNDS_SCREEN	Pasando el rato en los Campos de batalla
 PRESENCE_STATUS_COLLECTION	Explorando la colección	
 PRESENCE_STATUS_CRAFTING	Creando cartas	
 PRESENCE_STATUS_DECKEDITOR	Armando un mazo	
+PRESENCE_STATUS_DUELS_FORGE	Armando un mazo de Duelos	
+PRESENCE_STATUS_DUELS_GAME	Librando un Duelo ÉPICO	
+PRESENCE_STATUS_DUELS_IDLE	Rumbo a un Duelo	
+PRESENCE_STATUS_DUELS_PURCHASE	Pensando en iniciar una ronda de Duelos	
+PRESENCE_STATUS_DUELS_QUEUE	Buscando un adversario en Duelos	
+PRESENCE_STATUS_DUELS_REWARD	Obteniendo recompensas de Duelos	
 PRESENCE_STATUS_FIRESIDE_BRAWL_SCREEN	Camino a una Gresca Fireside	
 PRESENCE_STATUS_FRIENDLY_DECKPICKER	Por luchar contra un amigo	
 PRESENCE_STATUS_FRIENDLY_GAME	Luchando contra un amigo	
@@ -354,6 +385,7 @@ PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_HEROIC	¡Observando Naxxramas her
 PRESENCE_STATUS_SPECTATING_GAME_ADVENTURE_NAXX_NORMAL	¡Observando una batalla de Naxxramas!	
 PRESENCE_STATUS_SPECTATING_GAME_ARENA	Observando una batalla en la Arena	
 PRESENCE_STATUS_SPECTATING_GAME_BATTLEGROUNDS	Observando un enfrentamiento en los Campos de batalla	
+PRESENCE_STATUS_SPECTATING_GAME_BOH	Observando el Libro de Héroes	
 PRESENCE_STATUS_SPECTATING_GAME_BOT	Ayudando en el laboratorio	
 PRESENCE_STATUS_SPECTATING_GAME_BTA	Observando una prueba de fuego vil	
 PRESENCE_STATUS_SPECTATING_GAME_BTA_HEROIC	Observando un desafío de fuego vil	
@@ -362,6 +394,7 @@ PRESENCE_STATUS_SPECTATING_GAME_DAL	Espiando un atraco en Dalaran
 PRESENCE_STATUS_SPECTATING_GAME_DAL_HEROIC	Espiando un atraco en Dalaran	
 PRESENCE_STATUS_SPECTATING_GAME_DRG	Observando en Cementerio de Dragones	
 PRESENCE_STATUS_SPECTATING_GAME_DRG_HEROIC	Observando en Cementerio de Dragones	
+PRESENCE_STATUS_SPECTATING_GAME_DUELS	Observando una batalla de Duelos	
 PRESENCE_STATUS_SPECTATING_GAME_FRIENDLY	Observando una batalla amistosa	
 PRESENCE_STATUS_SPECTATING_GAME_GIL	Observando una Cacería de monstruos	
 PRESENCE_STATUS_SPECTATING_GAME_GIL_BONUS_CHALLENGE	Observando una pelea con Hagatha	
@@ -383,6 +416,7 @@ PRESENCE_STATUS_TAVERN_BRAWL_QUEUE	Buscando un oponente para una Gresca
 PRESENCE_STATUS_TAVERN_BRAWL_SCREEN	Camino a una Gresca	
 PRESENCE_STATUS_TUTORIAL_GAME	Intentando derrotar a {0}	0 = PRESENCE_TUTORIAL_*
 PRESENCE_STATUS_TUTORIAL_PREGAME	Empezando a jugar por primera vez	
+PRESENCE_STATUS_VIEWING_JOURNAL	Viendo el Diario	
 PRESENCE_STATUS_WAIT_FOR_OPPONENT_RECONNECT	Esperando que el adversario se conecte nuevamente	
 PRESENCE_STATUS_WELCOMEQUESTS	Analizando nuevas misiones	
 PRESENCE_TUTORIAL_CHO	Eremita Cho	
